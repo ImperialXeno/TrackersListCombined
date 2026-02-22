@@ -1,0 +1,58 @@
+name: Update Tracker List
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # Allows you to run this manually from the Actions tab for testing
+
+permissions:
+  contents: write
+
+jobs:
+  merge-trackers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download and Merge Trackers
+        run: |
+          # Create a temporary file
+          touch raw_list.txt
+
+          # Download all 4 files and append them to raw_list.txt
+          curl -s https://cf.trackerslist.com/best.txt >> raw_list.txt
+          # Add a newline just in case the file doesn't end with one
+          echo "" >> raw_list.txt 
+          
+          curl -s https://cf.trackerslist.com/all.txt >> raw_list.txt
+          echo "" >> raw_list.txt
+          
+          curl -s https://cf.trackerslist.com/http.txt >> raw_list.txt
+          echo "" >> raw_list.txt
+          
+          curl -s https://cf.trackerslist.com/nohttp.txt >> raw_list.txt
+          echo "" >> raw_list.txt
+
+          # Sort and remove duplicates (uniq), remove empty lines, and save to trackers.txt
+          sort raw_list.txt | uniq | sed '/^$/d' > trackers.txt
+
+          # Clean up
+          rm raw_list.txt
+
+      - name: Commit and Push changes
+        run: |
+          # Configure git
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          # Check if there are changes
+          if [[ -n $(git status -s) ]]; then
+            git add trackers.txt
+            git commit -m "Auto-update tracker list: $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes found. Skipping push."
+          fi
