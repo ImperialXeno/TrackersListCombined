@@ -3,7 +3,7 @@ name: Merge uAssets Filters
 on:
   schedule:
     - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch: # Allows you to trigger it manually via a button
+  workflow_dispatch: # Allows you to run it manually
 
 permissions:
   contents: write
@@ -19,16 +19,13 @@ jobs:
       - name: Download and merge filters
         run: |
           echo "Cloning uAssets repository..."
-          # Download only the latest files
           git clone --depth 1 https://github.com/uBlockOrigin/uAssets.git temp_uAssets
           
-          echo "Merging .txt files from filters and thirdparties..."
-          # Create or clear the output file
+          echo "Merging .txt files from target directories..."
           > merged_filters.txt
           
-          # Loop through all txt files in BOTH directories
-          for file in temp_uAssets/filters/*.txt temp_uAssets/thirdparties/*.txt; do
-            # Safety check to ensure it's a valid file
+          # Loop through .txt files in the three specified directories
+          for file in temp_uAssets/thirdparties/easylist/*.txt temp_uAssets/thirdparties/urlhaus-filter/*.txt temp_uAssets/filters/*.txt; do
             if [ -f "$file" ]; then
               echo "! ==========================================" >> merged_filters.txt
               echo "! --- Source: $(basename "$file") ---" >> merged_filters.txt
@@ -43,18 +40,14 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          # Set up the official GitHub Actions bot account
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Add the newly created file
           git add merged_filters.txt
           
-          # Check if there are any actual changes before committing
           if ! git diff --staged --quiet; then
-            # Added Hours/Minutes/Seconds to the commit message since it runs multiple times a day
             git commit -m "Auto-update merged filters: $(date +'%Y-%m-%d %H:%M:%S')"
             git push
           else
-            echo "No changes detected in the last 6 hours. Skipping commit."
+            echo "No changes detected. Skipping commit."
           fi
