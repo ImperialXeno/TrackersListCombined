@@ -1,0 +1,56 @@
+name: Merge uAssets Filters
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch: # Allows you to trigger it manually via a button
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout your repository
+        uses: actions/checkout@v4
+
+      - name: Download and merge filters
+        run: |
+          echo "Cloning uAssets repository..."
+          # We use --depth 1 to download only the latest files (saves time and bandwidth)
+          git clone --depth 1 https://github.com/uBlockOrigin/uAssets.git temp_uAssets
+          
+          echo "Merging .txt files..."
+          # Create or clear the output file
+          > merged_filters.txt
+          
+          # Loop through all txt files in the filters directory and append them
+          for file in temp_uAssets/filters/*.txt; do
+            echo "! ==========================================" >> merged_filters.txt
+            echo "! --- Source: $(basename "$file") ---" >> merged_filters.txt
+            echo "! ==========================================" >> merged_filters.txt
+            cat "$file" >> merged_filters.txt
+            echo -e "\n" >> merged_filters.txt
+          done
+          
+          echo "Cleaning up..."
+          rm -rf temp_uAssets
+
+      - name: Commit and Push changes
+        run: |
+          # Set up the official GitHub Actions bot account
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Add the newly created file
+          git add merged_filters.txt
+          
+          # Check if there are any actual changes before committing
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-update merged filters: $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes detected today. Skipping commit."
+          fi
