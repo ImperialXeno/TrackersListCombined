@@ -3275,7 +3275,7 @@ motto-jp.com###js-pagetop
 gzeromedia.com###js-top
 mitsui.com###js_globalFooterButtonTop
 alko-garden.de,alko-garden.hu,alko-garden.it,alko-garden.pl,alko-garden.uk###jumptotop
-nomadicmatt.com###kt-scroll-up
+highonfilms.com,nomadicmatt.com###kt-scroll-up
 basket4ballers.com###linkTop
 whtop.com###menu-back
 bridestoday.in###myBtn
@@ -3298,7 +3298,7 @@ linkrosa.com.br,splove.com.br###scroll-btn
 ofbez.com###scroll-buttons
 advister.it,aeromalls.com,apomio.de,coinmarketcap.com,digitbin.com,ecrater.com,flashscore.*,gadgetstouse.com,gipa.ge,hard-drive.net,hotels.com,inholland.nl,iphoneitalia.com,roadhousestory.it,safetydetectives.com,theblondeabroad.com,thefintechtimes.com,yoshuabengio.org###scroll-to-top
 15min.lt,dihi.org,trutone.ca###scroll-top
-aptnnews.ca,businesspool.eu,gatewayhispanic.com,infodifesa.it,morbidology.com,revistaoilegasbrasil.com.br,rivanimation.com,spuf.org,stellenpool.eu,theoverclocker.com,uska.ch,wdet.org###scroll-up
+aptnnews.ca,awardswatch.com,businesspool.eu,gatewayhispanic.com,infodifesa.it,morbidology.com,revistaoilegasbrasil.com.br,rivanimation.com,spuf.org,stellenpool.eu,theoverclocker.com,uska.ch,wdet.org###scroll-up
 alldomains.hosting,capital.com,permanentstyle.com,vodacomsoccer.com###scrollToTop
 agenciaamazonas.am.gov.br,ebookrenta.com,indiatimes.com,knowledge.wharton.upenn.edu,marketbusinessnews.com,moniteurautomobile.be,philstar.com,timesnownews.com,xiachufang.com###scrollTop
 bestbuycyprus.com###scrollTopButton
@@ -21784,7 +21784,7 @@ nflp.com###compliance-notice
 msn.com###conditionalbanner
 imei24.com###cons
 yopmail.com###cons-pop
-gwmanz.com,mobisystems.com,parcelsapp.com,sohosystems.co.za,support.github.com###consent-banner
+gwmanz.com,mobisystems.com,outernet.com,parcelsapp.com,sohosystems.co.za,support.github.com###consent-banner
 agoda.com###consent-banner-container
 aspose.com,chessshop.eu,theonion.com###consent-banner-main
 products.aspose.com###consent-banner-wall
@@ -22339,6 +22339,7 @@ centurion-magazine.com###simple-notification
 isa.org###simplemodal-container
 mercedesamgf1.com###simplemodal-overlay
 fredericks.com,reebok.com,rvca.com###site-cb-footer
+animeschedule.net###site-preferences-layer
 spamhero.com###site-wide-cookie-notice
 openstylelab.org###site-wide-legal-notice
 hidive.com###siteMsgSlideUpBG
@@ -25065,7 +25066,7 @@ cretepa.com,proprospan.ru,worksmile.com##.cookies-component
 !! #BorlabsCookieBox
 alte-apotheke-hamm.de,delta4x4.com,fagron.de,ga-service.at,granfondo-cycling.com,harmtodt.com,reinhold-keller.com###BorlabsCookieBox
 !! #cc-main
-14000.cz,3daistudio.com,aitum.tv,aktivia.it,andromede-cms.com,anker-in.com,anker.com,any.run,art.org,atlas.flexport.com,bienpreter.com,billing.coned.com,bistrono.cz,boldem.cz,bookbot.de,bytesauna.com,caesium.app,capriz.it,century21.pt,ckdtrialfinder.natera.com,codenames.game,codesandbox.io,cointracker.io,corporate.freedompay.com,cortinabikes.com,crealitycloud.com,ctbids.com,dashboard.phishfort.com,datawrapper.de,derslig.com,dervit.cz,dwarflab.com,eclean.gg,edb.cz,edb.eu,eufy.com,eufymake.com,exquisitetimepieces.com,ferrari-tower.com,fimewc.com,foxsports.com.mx,futnext.com,gitschberg.it,givesendgo.com,gl-inet.com,gmanetwork.com,goldplay.it,goodinternetmagazine.com,greybeam.ai,habito.com,hackmd.io,happyscribe.com,hellochefs.es,hololive-dreams.com,home.s.id,imusic.dk,imusic.se,infonieve.es,investor.natera.com,jackbox.tv,jenmusic.ai,jurga.lt,kirchberg.ch,knihobot.cz,konverto.eu,liu.se,localidautore.it,localizely.com,loetje.nl,lottiefiles.com,lustery.com,malacards.org,mealsyoulove.com,modeliukai.lt,mostostal.waw.pl,nabidka.net,ndsas.sk,new-dashboard.phishfort.com,nixcademy.com,oakridgepark.com,olimpo.bet,online.gdu.com.tr,openresearchlab.org,polytoria.com,poptavka.net,primocanale.it,renderai.app,rogold.live,rustdesk.com,sampi.net.br,sardynkibiznesu.pl,seenebula.com,softorino.com,soleretriever.com,sporthotel-zoll.com,trae.ai,trakt.tv,tutotoons.com,unibz.it,up.pt,uxpilot.ai,vectara.com,velostreet.com,whitebit.au,whitebit.com,whoisxmlapi.com,wooting.io,wordwall.net,workwithus.pinpointhq.com,yazio.com,yeezy.com,yodayo.com,ytlarge.com,zeno.fm,zitadel.com###cc-main
+14000.cz,1twente.nl,3daistudio.com,aitum.tv,aktivia.it,andromede-cms.com,anker-in.com,anker.com,any.run,art.org,atlas.flexport.com,bienpreter.com,billing.coned.com,bistrono.cz,boldem.cz,bookbot.de,bytesauna.com,caesium.app,capriz.it,century21.pt,ckdtrialfinder.natera.com,codenames.game,codesandbox.io,cointracker.io,corporate.freedompay.com,cortinabikes.com,crealitycloud.com,ctbids.com,dashboard.phishfort.com,datawrapper.de,derslig.com,dervit.cz,dwarflab.com,eclean.gg,edb.cz,edb.eu,eufy.com,eufymake.com,exquisitetimepieces.com,ferrari-tower.com,fimewc.com,foxsports.com.mx,futnext.com,gitschberg.it,givesendgo.com,gl-inet.com,gmanetwork.com,goldplay.it,goodinternetmagazine.com,greybeam.ai,habito.com,hackmd.io,happyscribe.com,hellochefs.es,hololive-dreams.com,home.s.id,imusic.dk,imusic.se,infonieve.es,investor.natera.com,jackbox.tv,jenmusic.ai,jurga.lt,kirchberg.ch,knihobot.cz,konverto.eu,liu.se,localidautore.it,localizely.com,loetje.nl,lottiefiles.com,lustery.com,malacards.org,mealsyoulove.com,modeliukai.lt,mostostal.waw.pl,nabidka.net,ndsas.sk,new-dashboard.phishfort.com,nixcademy.com,oakridgepark.com,olimpo.bet,online.gdu.com.tr,openresearchlab.org,polytoria.com,poptavka.net,primocanale.it,renderai.app,rogold.live,rustdesk.com,sampi.net.br,sardynkibiznesu.pl,seenebula.com,softorino.com,soleretriever.com,sporthotel-zoll.com,trae.ai,trakt.tv,tutotoons.com,unibz.it,up.pt,uxpilot.ai,vectara.com,velostreet.com,whitebit.au,whitebit.com,whoisxmlapi.com,wooting.io,wordwall.net,workwithus.pinpointhq.com,yazio.com,yeezy.com,yodayo.com,ytlarge.com,zeno.fm,zitadel.com###cc-main
 !! #cc--main
 acelen.com.br,advtraining.it,albengacorsara.it,alde.se,alper.cz,arbetsgivarverket.se,asbis.com,auxologico.it,bambulab.com,bigmotoringworld.co.uk,blackcomb-shop.eu,blog.fanfiktion.de,boardgamegeek.com,bokomo.co.za,carteantennesuisse.ch,cdw.com,cdwg.com,city-of-telosa.mn.co,cnb.cz,community.podmatch.com,coros.com,czechuniversities.com,danielroth.com,data.europa.eu,defector.com,delhivery.com,doctoranytime.be,eufymake.com,eujicha.cz,excellentmagazine.it,excellentmarketing.it,fangear.cz,fashionnetwork.com,feedoptimise.com,garfidi.it,gatehousebank.com,gls-group.com,hc-slavia.cz,hc-vsetin.cz,hcdukla.cz,hcdynamo.cz,hcf-m.cz,hcporuba.cz,hokejprerov.cz,holba.cz,hotelvillaastra.com,hstrebic.cz,idfnet.net,kiwix.org,kobotoolbox.org,kroo.com,krusovice.cz,lajairadeana.com,lataco.com,levior.cz,libcat.csglasgow.org,linaro.org,login.mercedes-benz.com,luxardo.it,marken.cz,mcsystems.cz,mightybytes.com,mojecity.cz,msem.cz,myenlightencommunity.com,myjob.ch,nowpatient.com,olkraj.cz,omegasport.cz,packtpub.com,piratichomutov.cz,portalnovosti.com,psg.cz,reteimprese.it,returnsportal.online,royalbelgiancaviar.be,runnea.co.uk,sedona.municipal.codes,sf.gazetteer.co,shmu.sk,soundcore.com,spain.info,spielregeln-spielanleitungen.de,sprintesport.it,stereogum.com,stocksy.com,streetsblog.org,suncalc.org,superspeedyplugins.com,teksavvy.com,theactive.thaipbs.or.th,toscana-notizie.it,trackmania.com,ungeziefer-ratgeber.info,urbantufting.com,watchesbysjx.com,webtic.it,wifiwijs.nl,woche-bb.ch,woergl.at,wongnai.com,worldmarathonmajors.com,worldoftrucks.com,zapsplat.com,zlinskykraj.cz,zubr.cz###cc--main
 !! .c--anim
@@ -25683,7 +25684,6 @@ blog.discord.com,codeburst.io,eand.co,infosecwriteups.com,medium.com,medium.engi
 ! Used with generichide
 guicheweb.com.br,mercadolibre.com###alert_cookie
 thefreedictionary.com###cmpBanner
-support.github.com###consent-banner
 www.google.*###consent-bump
 netflix.com###cookie-disclosure
 whatsapp.com###cookie-policy-banner
@@ -26432,6 +26432,7 @@ community.creative-assembly.com##+js(set-cookie, consent_cookies, 1)
 griffbereit24.de##+js(set-cookie, consent_essential, allow)
 sshoc.eu##+js(set-cookie, consent_experience_cookies, false)
 orbia.com##+js(set-cookie, consent_functional, true)
+urbania.ca##+js(set-cookie, consent_given, true)
 bancaakros.it,bancobpm.it##+js(set-cookie, consent_glassbox, false)
 dpp.cz##+js(set-cookie, consent_is_cleared_20230908, true)
 dpp.cz##+js(set-cookie, consent_is_set, true)
@@ -35047,6 +35048,7 @@ rhino.com###lightboxWrapper
 chorus.fm###liner-notes
 unherd.com###login-form
 victorpest.com###ltkpopup-overlay
+awardswatch.com###magnitude_store_call_to_action-4
 audioholics.com###mail-list-button
 1017theone.ca,wingham.coolradio.ca###mailchimp-signup
 steamdeckhq.com###mailerlite-form_1
@@ -35530,6 +35532,7 @@ brownstone.org##.astra-advanced-hook-7207
 atavist.com##.atavist-mailchimp
 winnipegfreepress.com##.atf-signup
 peoplesworld.org##.attachment-full
+awardswatch.com##.award-popup-and-layer-ads
 dnamagazine.com.au,thetechfactor.ca##.ays-pb-modals
 bnnbloomberg.ca##.b-double-chain-custom
 digitaltrends.com##.b-in-content-shortcode
@@ -36298,6 +36301,7 @@ okmagazine.com##.lnolAx
 cyprusshippingnews.com##.loaded-split-word
 lastweekinaws.com##.loop-email-signup
 madewell.com##.loyalty
+tunepocket.com##.lp-wide-bar
 trendhunter.com##.lp__formPopCont
 bustle.com##.lqj
 literaryreview.co.uk##.lr-newsletter-sidebar
@@ -36541,6 +36545,7 @@ broadwayworld.com##.newsletter-row
 essemagazine.it,givemesport.com,latv.com,news12.com,percona.com,poynter.org,uploadvr.com,wionews.com##.newsletter-section
 bitcoinist.com,darkreading.com,everydayhealth.com,gamedeveloper.com,historyextra.com,radiotimes.com##.newsletter-sign-up
 audacy.com##.newsletter-sign-up--station
+paycom.com##.newsletter-sign-up-col
 capitaltransport.com##.newsletter-sign-up-wrapper
 dailymail.co.uk,dailymail.com##.newsletter-sign-up_2K2O1Qev
 news24.com##.newsletter-signup--group
@@ -37334,6 +37339,8 @@ kyivindependent.com##.wtfr-snippet
 wwd.com##.wwd-subscribe-now-banner-ad-container
 wwd.com##.wwd-subscribe-now-banner-background
 hereisoregon.com##.yellow-nl
+tunepocket.com##.ys-container
+tunepocket.com##.ys-layer
 blog.youtube##.yt-newsletter-toast
 bodyweightwarrior.co.uk,brucelee.com,clereviewofbooks.com,eli.org.nz,fridaythings.com,genelmag.com,itp.nz,jphs.org,myvetcandy.com,paleofuture.com,rai.ac.uk,recoveryguru.com.au,stability.ai,unifiedpatents.com,ursulakleguin.com,worldofreel.com##.yui-popup-container-node
 qz.com##.z-\[999999\].bg-black\/50
@@ -37770,7 +37777,7 @@ alizila.com,borsonline.hu,brandingmag.com,business-punk.com,businessworld.in,cry
 !! .vmg-newsletter-form
 browardpalmbeach.com,dallasobserver.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.vmg-newsletter-form
 !! #mc-embedded-subscribe-form
-dagelijksestandaard.nl,egyptianstreets.com,evonomics.com,gimmesomeoven.com,investordaily.com.au,macrumors.com,reductress.com,reliefweb.int,theawesomer.com,wweek.com###mc-embedded-subscribe-form
+dagelijksestandaard.nl,egyptianstreets.com,evonomics.com,gimmesomeoven.com,investordaily.com.au,macrumors.com,reductress.com,reliefweb.int,slantmagazine.com,theawesomer.com,wweek.com###mc-embedded-subscribe-form
 !! #mc_embed_signup
 agenziaimpress.it,aheadofthyme.com,alreporter.com,americanmilitarynews.com,appleinsider.com,austindailyherald.com,benwajdi.com,biznews.com,bowenislandundercurrent.com,californiasunday.com,capitolhillseattle.com,caribjournal.com,chinafile.com,cinainitalia.com,circuitdigest.com,cjr.org,convertingcolors.com,cordcuttersnews.com,cppstories.com,culturemap.com,current.org,dailycal.org,dailyfreepress.com,dailytimes.com.pk,davidemaggio.it,delta-optimist.com,demokraatti.fi,denvergazette.com,dreadcentral.com,dv.is,ebar.com,echofm.online,eletric-vehicles.com,engineering.columbia.edu,euromaidanpress.com,firstpost.com,francescocosta.net,funcheap.com,gamereactor.dk,gamereactor.es,gamereactor.eu,gamereactor.fi,gamereactor.fr,gamereactor.no,gamereactor.se,grapevine.is,idropnews.com,iihs.org,ilfarosulmondo.it,ilprimatonazionale.it,indiaclimatedialogue.net,informagiovani-italia.com,iowapublicradio.org,jweekly.com,kliknijwzdrowie.pl,kyivpost.com,lacapital.com.ar,lapatilla.com,lascimmiapensa.com,lasillarota.com,leoweekly.com,magnoliastatelive.com,majorgeeks.com,mediaweek.com.au,meteonetwork.it,metrotime.be,mg.co.za,midhudsonnews.com,moked.it,money.it,news.virginmediao2.co.uk,newsshooter.com,newzimbabwe.com,nextbigfuture.com,nhpr.org,nsnews.com,ny1.com,onorient.com,pallacanestrotrieste.it,pcgamesn.com,pharmacyscanner.it,planetware.com,playstationbit.com,politifact.com,portlandmercury.com,prescouter.com,publinews.gt,punchng.com,redandblack.com,richmond-news.com,russia-insider.com,scoop.co.nz,sfpublicpress.org,sociologicalscience.com,techzilla.it,thedrinknation.com,thegrayzone.com,theloadout.com,thespacereview.com,thestandnews.com,thestar.com.my,thestranger.com,thethaiger.com,thinkpol.ca,ticotimes.net,today.it,trancentral.tv,tvsvizzera.it,union-bulletin.com,vvox.it,wayfm.com,winedharma.com,worldhistory.org,wpr.org###mc_embed_signup
 !! .mc_embed_signup
@@ -39370,6 +39377,7 @@ lopinion.fr##.User-subscription-form
 notretemps.com##.abo-formnewsletter
 ecommercemag.fr##.bandeau-abo-nl
 auto-moto.com,foot-national.com##.bloc-netitmail
+urbania.ca##.block-subscription
 paruvendu.fr##.bp14_recevoirannonces
 cuisineaz.com##.c-box-news
 lesmobiles.com##.c-homepage__newsletter-block
@@ -52408,6 +52416,7 @@ essentiallysports.com##.brand-share-article-section_container__8e0V8
 businessinsider.com##.brands-social
 oilprice.com##.breakingNews__socialMedia
 coxautoinc.com##.breathe
+cgmagonline.com##.bricks-link-wrapper
 purewow.com##.btn--email
 insidethegames.biz##.btn-block.btn
 purewow.com##.btn-classic
@@ -52600,6 +52609,7 @@ blogto.com##.facebook-round-control
 news.stv.tv##.facebook-share
 moparinsiders.com##.facebook-widget
 thefastmode.com##.facebook_plugin
+fangoria.com##.fang-share
 channelnewsasia.com##.fast-card__share-button
 shepherd.com##.fav3-share
 thefreedictionary.com##.fb-share
@@ -52817,6 +52827,7 @@ israelnationalnews.com##.header-nav-addons-link
 archaeology.org##.header-share
 stamen.com##.header-social-media-links
 malaymail.com##.header-social-menu
+slantmagazine.com##.header-stack3-right
 artnews.com##.header-super-nav
 iranwire.com##.header-top
 cgtn.com,cri.cn##.header-v3-shareicon
@@ -71287,6 +71298,7 @@ browsershots.org#@#.advert_area
 ||233to23o1ojfpyhiq.cfd^
 ||234generation.com^
 ||2377192920.com^
+||23axinix.com^
 ||23frezine.com^
 ||23hssicm9.de^
 ||24-sportnews.com^
@@ -71799,6 +71811,7 @@ browsershots.org#@#.advert_area
 ||57l3yuuwpxq1qfp.rest^
 ||5812afc7cb.com^
 ||5852e7a452.com^
+||588376732a.com^
 ||590578zugbr8.com^
 ||5978ef8c9a.com^
 ||59clouou2n4jmm8xc.cfd^
@@ -72098,6 +72111,7 @@ browsershots.org#@#.advert_area
 ||7jn1iq4k45u4m5qzw4onwqzciv88j12vzm8j8mz.cfd^
 ||7jo52b7qpyz4y76.rest^
 ||7jrahgc.de^
+||7l4qwjf4ybxeh189.rest^
 ||7lyonline.com^
 ||7m9gj8cwz9zkum.cfd^
 ||7me0ssd6.de^
@@ -72176,6 +72190,7 @@ browsershots.org#@#.advert_area
 ||89cyz5w26gf4k3f2r23u8ofijcxvq8wy.cfd^
 ||89sa.com^
 ||89terraium.net^
+||89xj3fti5tmeh7ch7.rest^
 ||8a41766c30.com^
 ||8a4f3c8d93.com^
 ||8a6cc3f77f.com^
@@ -72251,6 +72266,7 @@ browsershots.org#@#.advert_area
 ||908df012d9bb72e6d26b41054588d758.com^
 ||90c444ec8d.com^
 ||90d92b6a4e.com^
+||9114cb3f68.com^
 ||91842100df.com^
 ||91cd3khn.de^
 ||92540760ee.com^
@@ -72302,6 +72318,7 @@ browsershots.org#@#.advert_area
 ||99ddb6ad48.com^
 ||99e65b5625.com^
 ||99f7022009.com^
+||9a3a93a569.com^
 ||9ab8ff816c.com^
 ||9bce82ca1a.com^
 ||9be5ft9obvn2ig.cfd^
@@ -72596,6 +72613,7 @@ browsershots.org#@#.advert_area
 ||acaciascurf.com^
 ||academic-newspaper.pro^
 ||academywristadroit.com^
+||acaenafrazil.cyou^
 ||acajoupptn.qpon^
 ||acajouspekan.cfd^
 ||acam-2.com^
@@ -72699,6 +72717,7 @@ browsershots.org#@#.advert_area
 ||achieveweakness.com^
 ||achingdriver.pro^
 ||achlzaafhwf.in^
+||achooevert.cyou^
 ||achterragtime.cfd^
 ||acibgrucxulrh.space^
 ||acictsjxqbsob.website^
@@ -75755,6 +75774,7 @@ browsershots.org#@#.advert_area
 ||beamedfragmentrunners.com^
 ||beamedvedro.qpon^
 ||beamyfogas.qpon^
+||beardcompter.qpon^
 ||beardedugric.cyou^
 ||bearinggulp.com^
 ||bearpawportico.cfd^
@@ -75809,6 +75829,7 @@ browsershots.org#@#.advert_area
 ||beepernuntius.cyou^
 ||beeperteat.qpon^
 ||beeragecenbabyish.qpon^
+||beeroutetrail.com^
 ||beestark.com^
 ||beetlefreelylong.com^
 ||beetlestaircaselobster.com^
@@ -76084,6 +76105,7 @@ browsershots.org#@#.advert_area
 ||bfhrwqaroikoo.site^
 ||bfiodrok.in^
 ||bfjflpryolthp.online^
+||bfjknfpvwjjpb.site^
 ||bfmovugujnybt.online^
 ||bfmyngvwomvca.website^
 ||bfpartners.click^
@@ -76225,6 +76247,7 @@ browsershots.org#@#.advert_area
 ||bihogbawtvemq.site^
 ||bihpivqkeb.in^
 ||bihunekus.com^
+||bijztncfltrmb.site^
 ||bikechokedattic.com^
 ||bilalorasa.qpon^
 ||bilgedenlmaholi.qpon^
@@ -76260,6 +76283,7 @@ browsershots.org#@#.advert_area
 ||biodegradableyellow.pro^
 ||biolcrewcut.cyou^
 ||biolitelambspulser.cyou^
+||bioncrocketleos.cfd^
 ||biopsypainless.com^
 ||biosomerefed.cyou^
 ||bipackgeraninmapped.cyou^
@@ -77272,6 +77296,7 @@ browsershots.org#@#.advert_area
 ||buddhasoppy.cfd^
 ||buddlesnomial.cfd^
 ||budgeencodeunions.com^
+||budlniydym.com^
 ||budsminepatent.com^
 ||budwhlooxgjpi.site^
 ||budwutadb.com^
@@ -77343,6 +77368,7 @@ browsershots.org#@#.advert_area
 ||bunkersorbless.cfd^
 ||bunkerstoy.shop^
 ||bunkerylure.qpon^
+||bunkingfuscin.shop^
 ||bunksniff.com^
 ||bunningscapple.com^
 ||bunnyassetsworn.com^
@@ -77779,6 +77805,7 @@ browsershots.org#@#.advert_area
 ||canelorets.com^
 ||canesbabool.cyou^
 ||canesfederalnewspapers.com^
+||canetonhappier.cfd^
 ||canganzimbi.com^
 ||canidshigh.qpon^
 ||canionscowshut.shop^
@@ -77811,6 +77838,7 @@ browsershots.org#@#.advert_area
 ||capkinaculeus.cfd^
 ||capkkfuiticpo.space^
 ||capletsbenote.qpon^
+||caplingfashesdzerin.cyou^
 ||caplockcestas.cfd^
 ||caplvexdhgvbz.website^
 ||capndr.com^
@@ -79773,6 +79801,7 @@ browsershots.org#@#.advert_area
 ||crewfebruary.com^
 ||crhvgfrhzsxmu.site^
 ||cribbedbain.com^
+||cricjowlier.cyou^
 ||cricketquaint.com^
 ||criesspiceclack.com^
 ||crieycuber.com^
@@ -81717,6 +81746,7 @@ browsershots.org#@#.advert_area
 ||donttbeevils.de^
 ||dontxtspxvo.com^
 ||donutpassenger.com^
+||donutsharpago.cfd^
 ||doo888x.com^
 ||doocotcorve.cyou^
 ||doodahexedrae.cyou^
@@ -82777,6 +82807,7 @@ browsershots.org#@#.advert_area
 ||ecxufxavldnpd.site^
 ||ecxwilwie.com^
 ||ecxxpjohjadckcp.com^
+||ecyklqrkcz.com^
 ||ecypazzlxorfg.online^
 ||ecyyrthlmidze.space^
 ||eczmkgrzdluhe.store^
@@ -82790,6 +82821,7 @@ browsershots.org#@#.advert_area
 ||edbritingsynt.info^
 ||edcbonkj.com^
 ||edcc0994fe.com^
+||edckqbigcgcyl.online^
 ||edcwxfiitp.com^
 ||edd41b7f68.com^
 ||eddfrwjpdijtb.store^
@@ -83026,6 +83058,7 @@ browsershots.org#@#.advert_area
 ||eiueayjvitdew.website^
 ||eiul28e6jn8vu5r4u4btzy52vmtnj5z8.cfd^
 ||eiurcesrxusez.website^
+||eivtciyrmrgkx.online^
 ||eiwwvprgpeidlsa.com^
 ||eixgdeonnumrp.site^
 ||eiyyjstblubzo.website^
@@ -83183,6 +83216,7 @@ browsershots.org#@#.advert_area
 ||ellickmoileydankly.cfd^
 ||elliptical-schedule.com^
 ||ellipticaltrack.com^
+||ellkrkeklccxj.space^
 ||elmakoktbnpt.com^
 ||elmmmgfvzerqt.space^
 ||elmolkyqhjfwn.online^
@@ -83205,6 +83239,7 @@ browsershots.org#@#.advert_area
 ||eludertimarri.qpon^
 ||elutessheavednude.cyou^
 ||elutokvgaclme.space^
+||elutorentrez.cfd^
 ||elvansiksikameg.qpon^
 ||elwfmbqrgrlse.website^
 ||elwqyymubackl.com^
@@ -83682,6 +83717,7 @@ browsershots.org#@#.advert_area
 ||erbaiaqibimdn.space^
 ||erbiscusysexbu.org^
 ||erbqwgtbxifxz.online^
+||ercpurdyiaicp.space^
 ||erebeefetid.com^
 ||eredrubygsworlow.com^
 ||ereedmadehimal.org^
@@ -84549,6 +84585,7 @@ browsershots.org#@#.advert_area
 ||fccinteractive.com^
 ||fcciyjcrcopsw.online^
 ||fcdfjjbnrxrufd.com^
+||fcdkunwirrc.com^
 ||fcf18679b7.com^
 ||fcfgnzaozklfp.space^
 ||fcgfwjaxlwvamvw.com^
@@ -85326,6 +85363,7 @@ browsershots.org#@#.advert_area
 ||fn9lyj68l2itlf7nq.cfd^
 ||fndnundtdytuv.space^
 ||fndvkouekeevn.online^
+||fnemycyfd.com^
 ||fneseravined.qpon^
 ||fnfbjhfwumxnmg.com^
 ||fngvepnjonsdl.online^
@@ -85690,6 +85728,7 @@ browsershots.org#@#.advert_area
 ||freemanaccordingly.com^
 ||freemenscriven.cyou^
 ||freepopnews.skin^
+||freesiaaristas.cfd^
 ||freestar.io^
 ||freetrckr.com^
 ||freezescrackly.com^
@@ -86076,6 +86115,7 @@ browsershots.org#@#.advert_area
 ||fxbojoywozehj.website^
 ||fxbprfogjabel.online^
 ||fxdepo.com^
+||fxekrx23mjptk12lp.cfd^
 ||fxewupiyppjkg.website^
 ||fxghyhcifmyel.store^
 ||fxgrscstakhxi.space^
@@ -86289,6 +86329,7 @@ browsershots.org#@#.advert_area
 ||garotemuruxi.com^
 ||garppjpuuhbby.site^
 ||garrupapithoinacrite.cfd^
+||gartersplouk.cyou^
 ||gasehoauzxzzt.store^
 ||gaseous-stroke.pro^
 ||gashflexiveresnub.cfd^
@@ -86605,6 +86646,7 @@ browsershots.org#@#.advert_area
 ||ggifvakvysycu.site^
 ||ggjwrtdb.com^
 ||ggllekdgudxgx.store^
+||gglqprdnvqiay.com^
 ||gglx.me^
 ||ggmbjybfylctk.space^
 ||ggmmupnudokjdcy.com^
@@ -86788,6 +86830,7 @@ browsershots.org#@#.advert_area
 ||gjxoqgdozssvh.website^
 ||gjxqkypxmgevy.website^
 ||gjyprkxumokub.online^
+||gjywuldwyu.com^
 ||gjzbbpqknqgbe.online^
 ||gkazhtoelmsok.site^
 ||gkbzsbhfh.com^
@@ -87661,6 +87704,7 @@ browsershots.org#@#.advert_area
 ||gusvoxyroosho.site^
 ||gutlessparsec.qpon^
 ||guuhgdjxdphonu.com^
+||guuzmczcfmhnt.com^
 ||guvmmaolnk.com^
 ||guvquqsip.in^
 ||guwupmxscowhp.online^
@@ -89595,6 +89639,7 @@ browsershots.org#@#.advert_area
 ||ieiyqbcjpksbk.website^
 ||iekfxxkrpjock.space^
 ||ieladhfhoiclv.online^
+||ielbkrppj.com^
 ||ieliryzgkzlam.website^
 ||iemejujvztwsmi.com^
 ||ieogwnrsgnfsz.online^
@@ -90450,6 +90495,7 @@ browsershots.org#@#.advert_area
 ||invitingjanuaryneurotic.com^
 ||invividsacrist.qpon^
 ||invl.me^
+||invl.us^
 ||invle.co^
 ||invlhmusncvdho.com^
 ||invoiceboldmansfield.com^
@@ -90728,6 +90774,7 @@ browsershots.org#@#.advert_area
 ||itiicjkzfggic.site^
 ||itinerarymonarchy.com^
 ||itisfaryvysjp.space^
+||itjcytakszxtt.online^
 ||itjjqntjvrscd.website^
 ||itkldppgctfkx.site^
 ||itkqsyscyjmp.com^
@@ -90744,6 +90791,7 @@ browsershots.org#@#.advert_area
 ||itpzsqymtedb.com^
 ||itren.site^
 ||itrigra.ru^
+||itrkgouhlbqlnk.com^
 ||itrustzone.site^
 ||itsaqxtw.com^
 ||itseagleswig.com^
@@ -90939,6 +90987,7 @@ browsershots.org#@#.advert_area
 ||j3mh9gminfbp85b.cfd^
 ||j4qxryhfbz51nk.cfd^
 ||j4wgztotkr76wrqfow79rwy.cfd^
+||j5ebf952lvfob1pf3b.cfd^
 ||j6ixu4h5vtotkxx1y.cfd^
 ||j6mn99mr0m2n.com^
 ||j6xi94453pjc84qengv1w466yf5c7ovq7l5zl7.cfd^
@@ -91283,6 +91332,7 @@ browsershots.org#@#.advert_area
 ||jgovdupigzozf.online^
 ||jgpnanmtdd.com^
 ||jgqccztrsqbtb.website^
+||jgqpddekjd.com^
 ||jgsceqkcobpvh.website^
 ||jguroejplzivn.site^
 ||jgwlomfinvizq.site^
@@ -92417,6 +92467,7 @@ browsershots.org#@#.advert_area
 ||khrxilqpinlvr.store^
 ||khsbnusuoainb.site^
 ||khsumsaibsnfz.space^
+||khsuqjdnjnwzl.space^
 ||khumegassedebeak.qpon^
 ||khuzibatekes.com^
 ||khvliwvgpxzmk.site^
@@ -98519,6 +98570,7 @@ browsershots.org#@#.advert_area
 ||ofgdihwfuo.in^
 ||ofgogoatan.com^
 ||ofgxwyvlechxd.site^
+||ofhlnecbvucbl.space^
 ||ofhypnoer.com^
 ||ofhzqxpfhusrw.website^
 ||ofiywatidyhuq.site^
@@ -99196,6 +99248,7 @@ browsershots.org#@#.advert_area
 ||organizerinformpermanent.com^
 ||organizerprocedure.com^
 ||organsblond.com^
+||organytympan.shop^
 ||orgassme.com^
 ||orgieslostorage.qpon^
 ||orgjqhznrwvr.com^
@@ -99547,6 +99600,7 @@ browsershots.org#@#.advert_area
 ||ovidtatu.qpon^
 ||oviscurdoofencer.cyou^
 ||oviyhrfxhwm.com^
+||ovjocjgro.in^
 ||ovjprmmgkbqu.com^
 ||ovjsarsipbah.in^
 ||ovl3h4oo1vw7xxc.cfd^
@@ -99900,6 +99954,7 @@ browsershots.org#@#.advert_area
 ||pantomimemailman.com^
 ||pantrycornyunload.com^
 ||papatrol.xyz^
+||papawjellica.shop^
 ||papawrefits.com^
 ||papelonkokoona.com^
 ||papereruption.com^
@@ -101547,6 +101602,7 @@ browsershots.org#@#.advert_area
 ||prickly-tradition.com^
 ||pricystorm.shop^
 ||pridehickintimidating.com^
+||prierexect.cfd^
 ||priestsuede.click^
 ||primarilyresources.com^
 ||primary-shock.pro^
@@ -102064,6 +102120,7 @@ browsershots.org#@#.advert_area
 ||pupilchangesjustified.com^
 ||pupiljake.com^
 ||pupoidrinka.cfd^
+||puppingpish.cfd^
 ||puppyderisiverear.com^
 ||pupqdnmrigbly.store^
 ||pupspu.com^
@@ -103427,6 +103484,7 @@ browsershots.org#@#.advert_area
 ||rayonneluaus.qpon^
 ||rayvirtual.com^
 ||razeebisons.com^
+||razorcaracalbimbos.cyou^
 ||razorcommentdisprove.com^
 ||razorstomial.cyou^
 ||rbbosjoi.com^
@@ -103691,6 +103749,7 @@ browsershots.org#@#.advert_area
 ||redamgdzdedoe.site^
 ||redbillcrumbdarting.cfd^
 ||redbuckzincate.com^
+||reddlemoonbowpurlieu.qpon^
 ||redebitfreet.com^
 ||redeemcontagiontransmitted.com^
 ||redeemspaciousdevice.com^
@@ -103858,6 +103917,7 @@ browsershots.org#@#.advert_area
 ||relishsubsequentlytank.com^
 ||relishsupportive.com^
 ||relistsinflux.qpon^
+||rellsagesamerence.com^
 ||relomxuquuors.online^
 ||reluctancefleck.com^
 ||reluctancegenetic.com^
@@ -104656,6 +104716,7 @@ browsershots.org#@#.advert_area
 ||roobetaffiliates.com^
 ||roodlesuval.qpon^
 ||roofedaroast.cfd^
+||rooinekpampa.shop^
 ||rookerygravest.com^
 ||rookiecorby.shop^
 ||rookishbirde.com^
@@ -106243,6 +106304,7 @@ browsershots.org#@#.advert_area
 ||shoemakereasiest.com^
 ||shoeskeleton.com^
 ||shohjisfurrows.cfd^
+||shojiquinela.qpon^
 ||sholke.com^
 ||shoneten.com^
 ||shoofabhalu.com^
@@ -106609,6 +106671,7 @@ browsershots.org#@#.advert_area
 ||slackastonishing.com^
 ||slackentheatres.com^
 ||slacklovely.com^
+||slacklybarmie.cfd^
 ||slaggerpiete.qpon^
 ||slahpxqb6wto.com^
 ||slaithamitalgodpapa.qpon^
@@ -106747,6 +106810,7 @@ browsershots.org#@#.advert_area
 ||slzpcjksfrkei.online^
 ||smaato.net^
 ||smac-ssp.com^
+||smacfxrtfwqgdi.com^
 ||smackedtapnet.com^
 ||smaclick.com^
 ||smadex.com^
@@ -107030,6 +107094,7 @@ browsershots.org#@#.advert_area
 ||solusobdurearapaho.qpon^
 ||solutionbiologyisle.com^
 ||solutions110.net^
+||solutions2forge.net^
 ||solutionsin103.net^
 ||solutionswith401.com^
 ||solvemilitaryconsulate.com^
@@ -108690,6 +108755,7 @@ browsershots.org#@#.advert_area
 ||tarbleseri.cfd^
 ||tarbushpteris.qpon^
 ||tardierrouges.com^
+||tardleuruturiglet.cyou^
 ||targeta41.net^
 ||targetmatch.co^
 ||targetmusty.com^
@@ -111899,6 +111965,7 @@ browsershots.org#@#.advert_area
 ||uydsjtaeibues.online^
 ||uyduwdmzcwkn.com^
 ||uyenbsprfeleoyh.com^
+||uyfmvrimjyoye.site^
 ||uyfpvjbheoyws.store^
 ||uygfxcjrfadjx.online^
 ||uygpvztdwrjcu.website^
@@ -111964,6 +112031,7 @@ browsershots.org#@#.advert_area
 ||vacationmonday.com^
 ||vacationsanitaryskip.com^
 ||vaccineverifyweaker.com^
+||vaconaamercesksar.qpon^
 ||vacqujolw.in^
 ||vacruwsug.com^
 ||vacscefagjky.in^
@@ -115101,6 +115169,7 @@ browsershots.org#@#.advert_area
 ||xfvslsqqtyeeb.store^
 ||xfwblpomxc.com^
 ||xfwhrqkwf.com^
+||xfxagcqndbkrl.website^
 ||xgahbeklumki.com^
 ||xgaxtbrifshmc.website^
 ||xgbetzbmmdqbv.space^
@@ -115330,6 +115399,7 @@ browsershots.org#@#.advert_area
 ||xmvawickdvmhc.online^
 ||xmwkvzvmoariv.site^
 ||xmzppziqajevl.site^
+||xncnmofrcxapr.space^
 ||xnehxptamdjm.com^
 ||xnekugycspqk.com^
 ||xnerivlyclrak.site^
@@ -115342,6 +115412,7 @@ browsershots.org#@#.advert_area
 ||xnmwcknxoorlnax.com^
 ||xnocffar.com^
 ||xnqiswpbbsdkjij.com^
+||xnqoemsieebzu.website^
 ||xnqzisqoxmbwb.space^
 ||xnrhqmdsluqld.tech^
 ||xnrptxnbixotn.online^
@@ -115665,6 +115736,7 @@ browsershots.org#@#.advert_area
 ||xwyeqpvyujmsy.site^
 ||xwykabmuzx.in^
 ||xwzbpkku-i.site^
+||xxbrurcjryzny.website^
 ||xxdlfjdtazsju.website^
 ||xxezsifdsivsa.site^
 ||xxf4z39fc8vqg9828bu8u.cfd^
@@ -115903,11 +115975,13 @@ browsershots.org#@#.advert_area
 ||ydtfvwvmeojpx.site^
 ||ydthvtwluaaml.net^
 ||ydtokixknbrye.online^
+||ydujxnjqqtxcj.site^
 ||yduxbkmeboovj.website^
 ||ydvttbexouul.com^
 ||ydvvzptycptlr.space^
 ||ydwrubaluqe.com^
 ||ydzgtvxtyeqzr.site^
+||ydzqgmzktvwxu.site^
 ||yeaomanlimbyscabby.cyou^
 ||yearabietle.cfd^
 ||yearendhastive.cyou^
@@ -115975,6 +116049,7 @@ browsershots.org#@#.advert_area
 ||yfenyeuthgedn.online^
 ||yferrewarpjoyweed.cyou^
 ||yfhqybtrm.com^
+||yfiucflgsgbry.site^
 ||yfjkqpdwlimuh.space^
 ||yfkbdckdvrjvm.space^
 ||yflksvxeqncep.online^
@@ -116235,6 +116310,7 @@ browsershots.org#@#.advert_area
 ||ynndhckfadq.com^
 ||ynossspikirow.online^
 ||ynppqrvsmwfpz.space^
+||ynrzdybvkzhme.website^
 ||yntherplunge.com^
 ||yntkpkwykfooj.site^
 ||yntvrgqkwlwag.site^
@@ -116398,6 +116474,7 @@ browsershots.org#@#.advert_area
 ||yqocbixitiqnc.space^
 ||yqoktira.com^
 ||yqrpbzgfbkwom.store^
+||yqtgyjebqcoiv.space^
 ||yqtqkfzugqtet.online^
 ||yqtwaijdussajr.com^
 ||yqvnmluzxjqmp.site^
@@ -116441,6 +116518,7 @@ browsershots.org#@#.advert_area
 ||yskwpresobtfq.website^
 ||yslsymovnkkjl.site^
 ||ysmcykeuodcw.com^
+||ysnomtqlnmfyr.website^
 ||ysoarfptqslwc.website^
 ||ystationalhed.com^
 ||ysvghklega.com^
@@ -116822,6 +116900,7 @@ browsershots.org#@#.advert_area
 ||zenis15.net^
 ||zenithoradog.com^
 ||zenithurbanflirtatious.com^
+||zenlkqmjfnnwd.website^
 ||zenoviagroup.com^
 ||zeoevwffyi.com^
 ||zephyronearc.com^
@@ -117075,6 +117154,7 @@ browsershots.org#@#.advert_area
 ||zmijdnekasbgb.website^
 ||zmixdvlsfruqc.website^
 ||zmjtjuacdfvmw.tech^
+||zmkidtyoyafzy.online^
 ||zmkpximmigltq.website^
 ||zmngutzplojrd.website^
 ||zmonei.com^
@@ -124781,6 +124861,7 @@ browsershots.org#@#.advert_area
 ||gettubetv.com^$third-party
 ||gfrevenge.com/vbanners/
 ||girls-games.org/bnr/
+||go.bigbang.solutions^
 ||go.telorku.xyz/hls/iklan.js
 ||go2cdn.org/brand/$third-party
 ||gpt.milftube.mobi^
@@ -129374,6 +129455,7 @@ myanimelist.net##.border_top
 appleinsider.com##.bottom
 capwages.com,downforeveryoneorjustme.com,health.clevelandclinic.org,technomusicworld.com##.bottom-0.fixed
 theblock.co##.bottom-5
+vpntierlists.com##.bottom-6
 indiatimes.com##.bottom-ad-height
 agar.live##.bottom-banner
 reverso.net##.bottom-horizontal
@@ -131153,6 +131235,7 @@ autosport.com,motorsport.com##.ms-hapb
 autosport.com##.ms-side-items--with-banner
 codeproject.com##.msg-300x250
 cryptoticker.io##.mso-cls-wrapper
+vpntierlists.com##.mt-\[500px\]
 textcompare.org##.mui-ot0xle
 boardgameoracle.com##.mui-style-1kdz9ml
 boardgameoracle.com##.mui-style-1vh0vdw
@@ -132549,6 +132632,7 @@ doodrive.com##.uk-margin > [href] > img
 softarchive.is##.un-link
 uncanceled.news##.uncan-content_11
 rankiapro.com##.undefined.relative
+looper.com##.under-art
 pixhost.to##.under-image
 hidefninja.com##.underads
 jakartaglobe.id##.underlay-ad
@@ -134768,6 +134852,7 @@ grit.com###GMTK_Bottom_728x90
 grit.com###GMTK_Middle_300x250
 grit.com###GMTK_Top_728x90
 rogerebert.com###PostInlineVideoContainer
+rogerebert.com###ReviewInlineVideoContainer
 gunsandammo.com###VideoPlayerDivIframe
 usnews.com###ac-lre-player-ph
 ew.com###article__primary-video-jw_1-0
@@ -141579,6 +141664,7 @@ omni.soundestlink.com$image
 ||pzimff.com^
 ||q0losid.com^
 ||qntm.pro^
+||qovani.com^
 ||queen-one.net^
 ||quickkoala.io^
 ||quickpcfixer.click^
@@ -141647,6 +141733,7 @@ omni.soundestlink.com$image
 ||takingbackjuly.com^
 ||targetemsecure.blob.core.windows.net^
 ||tatpek.com^
+||tblcontent.com^
 ||techpump.com^
 ||tepatonol.com^
 ||testingmetriksbre.ru^
@@ -145685,6 +145772,7 @@ omni.soundestlink.com$image
 ||ourblogthing.com^
 ||outdoorsoil.com^
 ||outdoorthingy.com^
+||outerwords.com^
 ||outsidevibe.com^
 ||overconfidentfood.com^
 ||overkick.com^
@@ -147702,6 +147790,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||a.emea01.idio.episerver.net^
 ||a.getflowbox.com^
 ||a.hcaptcha.com^
+||a.klaviyo.com/forms/api/v3/geo-ip
 ||a.mobify.com^
 ||a.streamed.pk/api/event
 ||a.vturb.net^
@@ -152660,6 +152749,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdp.howtotrade.com^
 ||cdp.vercel.com/rs/
 ||centerblog.net/stats.js
+||cfparequest.pcpartpicker.com/api/event
 ||cgtn.com/api/collect/
 ||ch3ngl0rd.com/hit/
 ||change.org/api-proxy/-/bandit/pull
@@ -193626,18 +193716,20 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ! --- Source: urlhaus-filter-online.txt ---
 ! ==========================================
 ! Title: Online Malicious URL Blocklist
-! Updated: 2026-06-24T00:10:00Z
+! Updated: 2026-06-25T00:11:04Z
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 ! License: https://gitlab.com/malware-filter/urlhaus-filter#license
 ! Source: https://urlhaus.abuse.ch/api/
 0022a601.pphost.net
 101.126.11.168
+101.200.193.211
 101.200.220.118
 101.35.56.7
 101.43.204.194
 101.43.49.183
 101.58.73.179
+102.132.135.79
 102.212.61.41
 102.216.105.81
 102.23.89.5
@@ -193647,15 +193739,13 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 102.68.74.69
 103.106.250.161
 103.116.190.93
-103.116.52.44
 103.125.163.10
-103.144.210.195
 103.146.202.41
 103.152.141.10
 103.153.93.18
 103.154.90.21
-103.159.152.118
 103.159.221.33
+103.160.130.109
 103.163.119.220
 103.164.200.170
 103.187.151.107
@@ -193679,15 +193769,13 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 103.30.92.188
 103.36.80.114
 103.42.243.35
-103.44.136.115
 103.45.68.4
 103.56.227.40
 103.59.134.98
-103.73.162.39
 103.73.162.97
+103.74.5.124
 103.8.112.154
 103.8.112.155
-103.8.112.156
 103.8.164.18
 103.83.87.122
 103.90.205.117
@@ -193696,7 +193784,8 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 103.93.200.20
 103.96.96.35
 104.199.248.167
-104.4.43.233
+105.224.228.37
+105.224.9.193
 106.14.68.26
 106.254.250.98
 106.54.220.107
@@ -193718,109 +193807,104 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 109.236.46.215
 109.245.220.229
 109.25.123.70
+109.69.79.44
 109.74.204.206
 109.87.223.241
 109.92.143.90
 110.186.230.198
-110.36.15.218
-110.36.28.183
 110.36.29.195
-110.36.4.114
-110.36.70.136
+110.36.74.148
+110.36.76.24
 110.36.80.162
 110.36.89.2
-110.36.89.45
+110.36.91.33
 110.36.93.217
-110.36.93.253
-110.37.107.203
-110.38.201.35
-110.38.216.103
+110.37.104.99
+110.38.221.182
 110.38.223.172
-110.39.237.192
 110.39.241.60
-110.39.244.67
+110.39.253.204
 110.4.13.252
 110.74.207.194
+110.85.98.238
 11032026sver.blob.core.windows.net
 111.127.235.110
 111.164.238.73
 111.185.147.232
-111.185.23.52
 111.228.4.54
-111.228.55.96
 111.235.143.155
 111.35.78.2
 111.59.254.165
 111.74.21.155
 112.124.33.87
 112.18.10.80
-112.198.140.69
 112.213.121.130
-112.226.178.108
 112.226.3.180
-112.227.251.132
+112.238.131.58
 112.239.127.92
-112.248.114.177
 112.248.26.164
-112.248.61.219
 112.255.107.78
 112.255.149.170
 112.4.110.22
 112.4.110.28
 112.4.110.42
 112.93.136.3
-113.10.155.239
+112.98.97.229
 113.160.251.236
-113.228.111.59
-113.228.154.135
 113.228.157.150
-113.229.121.212
 113.229.185.213
 113.229.58.57
 113.231.218.245
+113.231.84.35
 113.45.253.80
 113.57.8.243
 114.129.49.131
 114.132.86.182
 114.143.158.122
 114.215.193.12
+114.233.77.23
 114.242.100.72
 114.55.106.136
 114.7.160.114
 114.7.209.193
 115.127.68.162
 115.159.149.113
+115.190.140.220
 115.190.237.175
 115.190.250.28
 115.240.70.185
-115.49.7.141
-115.50.223.195
-115.52.71.243
-115.55.248.168
-115.56.112.172
-115.57.248.218
-115.61.120.210
-115.63.146.145
-115.63.15.134
-115.63.40.211
-116.10.133.127
+115.48.137.17
+115.48.146.166
+115.50.1.43
+115.55.116.6
+115.55.187.194
+115.55.243.85
+115.55.250.113
+115.57.215.144
+115.57.238.77
+115.59.32.66
+115.62.151.50
+115.62.163.51
+115.63.144.120
+115.63.243.8
+115.63.73.120
+115.99.162.121
 116.118.47.149
 116.133.72.10
 116.136.142.2
 116.171.106.3
-116.90.236.250
-117.102.100.74
-117.102.89.188
+116.58.51.90
+116.58.62.74
+116.90.225.193
 117.157.17.194
 117.215.129.223
 117.216.139.127
-117.216.46.161
 117.216.46.201
 117.216.46.91
 117.216.46.94
 117.240.155.245
-117.241.74.14
 117.241.78.146
+117.242.204.104
 117.247.101.185
 117.247.101.217
 117.247.101.61
@@ -193828,6 +193912,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 117.247.191.106
 117.26.226.138
 117.42.130.218
+117.57.50.40
 117.72.178.246
 117.72.181.104
 117.72.183.111
@@ -193843,19 +193928,15 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 118.219.11.202
 118.25.68.152
 118.69.157.212
-118.70.244.17
 118.71.250.6
+119.102.35.149
 119.108.230.14
 119.113.186.130
-119.114.153.144
-119.116.247.149
-119.116.38.248
 119.116.85.121
-119.119.182.255
+119.164.32.152
 119.179.248.81
 119.184.199.232
 119.186.208.54
-119.189.248.26
 119.193.158.215
 119.200.78.153
 119.206.216.132
@@ -193867,13 +193948,12 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 119.91.25.19
 119.91.58.97
 120.28.220.18
-120.48.115.29
 120.50.10.30
 120.76.143.184
 120.79.192.88
 120.79.64.164
 120.83.128.179
-120.85.61.234
+120.84.215.91
 121.101.79.178
 121.154.116.86
 121.184.128.134
@@ -193883,7 +193963,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 121.202.204.227
 121.202.208.107
 121.202.208.193
-121.202.208.237
 121.202.209.31
 121.202.209.46
 121.202.211.217
@@ -193893,10 +193972,12 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 122.170.110.131
 122.170.8.40
 122.179.136.112
-122.242.28.58
 123.117.136.97
+123.12.240.50
 123.129.153.224
 123.130.59.140
+123.14.244.83
+123.14.249.42
 123.143.141.75
 123.148.221.82
 123.148.240.15
@@ -193906,38 +193987,38 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 123.210.131.156
 123.232.142.200
 123.232.43.185
-123.4.201.66
+123.235.174.119
+123.5.125.194
+123.5.137.114
+123.5.142.11
+123.5.181.169
 123.57.250.154
 123.58.64.57
 123.9.205.169
-123.9.23.221
 123.ywxww.net
 124.123.123.15
-124.131.38.97
 124.194.46.204
+124.198.131.54
 124.220.6.158
 124.223.105.161
 124.223.73.186
 124.230.216.19
+124.29.223.148
+124.36.156.140
 124.44.3.74
 124.67.254.109
 124.94.173.123
 124.95.27.76
 124.95.36.36
-125.160.140.27
 125.161.252.22
 125.253.125.72
-125.41.107.165
-125.41.136.136
 125.41.228.130
-125.42.125.127
 125.43.37.182
-125.44.19.166
-125.45.59.71
+125.43.80.225
+125.45.48.186
 125.47.85.10
 126.23.203.236
 128.127.102.134
-129.0.120.134
 129.121.114.124
 129.152.20.82
 13.71.2.244
@@ -193950,6 +194031,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 134.122.189.79
 134.122.189.98
 134.249.141.119
+136.228.163.150
 136.233.149.66
 137.175.205.63
 138.122.43.76
@@ -193961,7 +194043,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 14.142.209.198
 14.161.6.225
 14.224.205.246
-14.35.13.228
 14.46.136.77
 140.233.190.47
 140.237.7.63
@@ -193971,20 +194052,14 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 141.147.43.219
 141.149.36.27
 141.155.36.213
-144.172.103.25
-144.172.103.83
-144.172.105.29
 144.172.109.163
 144.172.110.253
 144.172.114.155
 144.172.115.45
-144.172.116.114
 144.172.117.8
 144.172.71.105
 144.172.84.75
 144.172.94.21
-144.172.96.82
-144.172.98.215
 144.172.99.204
 144.172.99.94
 144.2.111.169
@@ -193992,19 +194067,22 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 144.6.89.62
 146.0.42.82
 146.196.120.21
+147.235.55.179
 147.45.209.244
 147.50.240.62
 148.113.205.94
 149.241.40.177
+149.255.10.46
 149.28.42.137
 149.62.200.106
 150.129.202.193
 150.129.202.197
 150.158.25.244
 150.187.25.242
-150.255.254.229
 150.40.126.53
 150.95.27.35
+150.co.il
+151.236.247.230
 151.242.30.51
 152.230.111.46
 152.32.169.68
@@ -194015,11 +194093,11 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 153.37.77.156
 153.75.83.15
 154.73.64.24
-155.138.195.0
-155.138.206.173
+155.138.220.70
 155.2.213.252
-156.146.25.231
+156.155.176.210
 156.200.99.139
+156.226.174.98
 156.246.93.156
 157.10.63.251
 157.185.170.200
@@ -194035,15 +194113,11 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 162.215.218.82
 162.215.218.94
 162.248.101.153
+162.250.17.44
 163.142.92.225
-163.142.93.116
-163.142.93.129
 163.142.93.15
-163.142.93.156
-163.142.93.227
+163.142.93.229
 163.142.94.19
-163.142.94.9
-163.142.95.23
 163.53.178.8
 164.126.129.225
 164.126.150.95
@@ -194057,12 +194131,12 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 166.147.146.187
 167.250.193.253
 167.250.49.155
-167.88.166.106
-167.88.166.155
 167.88.166.254
 167.99.0.131
 168.121.168.84
 168.138.162.78
+170.84.134.171
+171.114.229.216
 171.125.230.149
 171.38.64.115
 1717.1000uc.com
@@ -194072,38 +194146,27 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 172.250.238.27
 172.85.143.74
 172.86.107.46
-172.86.117.21
-172.86.126.200
 172.86.126.21
 172.94.9.168
 172.96.189.153
-173.178.94.224
-173.231.196.249
 174.105.154.212
 174.71.237.86
 174.71.238.196
-175.146.155.175
-175.146.155.98
-175.147.199.68
 175.147.226.152
 175.148.74.174
-175.165.120.249
-175.165.129.213
-175.167.165.120
 175.167.170.133
 175.167.250.238
 175.168.126.150
 175.178.174.23
 176.102.192.245
 176.106.241.72
-176.120.203.230
 176.193.90.36
 176.221.111.222
 176.65.139.48
 176.65.139.61
+176.65.139.73
 176.65.144.108
 177.70.102.228
-177.86.229.12
 177.87.37.31
 178.105.112.210
 178.132.114.159
@@ -194122,7 +194185,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 178.183.208.134
 178.188.30.171
 178.198.246.24
-178.210.214.48
 178.210.83.9
 178.211.135.170
 178.220.234.5
@@ -194133,44 +194195,31 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 179.214.0.18
 179.248.3.202.ll.sta.mana.pf
 179.43.182.70
+179.43.186.214
 179.51.168.26
 179.63.168.2
 18.176.47.246
-180.157.252.30
 180.250.160.26
 180.35.14.93
-180.76.141.175
 180.76.153.78
 180.92.225.138
+180.92.228.34
 181.129.177.162
 181.129.182.138
 181.193.59.78
 181.193.62.225
 181.211.15.11
-181.211.250.118
 181.48.119.70
 181.49.47.190
 181.55.251.93
-181.60.246.15
 182.109.0.22
-182.113.33.232
-182.114.195.253
-182.114.196.78
-182.115.71.94
-182.116.112.128
 182.116.123.103
-182.117.113.16
-182.117.125.2
-182.117.41.43
-182.119.163.16
-182.119.8.101
-182.120.97.69
-182.121.182.139
-182.122.232.197
+182.117.77.100
 182.126.196.182
-182.126.249.14
-182.127.176.150
-182.160.109.98
+182.126.249.46
+182.126.87.101
+182.127.153.193
+182.127.26.219
 182.163.114.232
 182.23.87.242
 182.253.115.155
@@ -194183,17 +194232,17 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 182.93.83.124
 1827897262.v.123pan.cn
 183.102.83.247
-183.141.129.207
 183.214.149.164
 183.30.204.215
 183.81.156.121
-183.81.156.123
+183.81.156.124
 183.81.156.125
 183.83.186.77
 184.174.20.150
 184.185.30.182
 185-55-196-13.cprapid.com
 185.12.78.161
+185.133.214.138
 185.149.120.3
 185.152.219.150
 185.166.91.145
@@ -194201,9 +194250,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 185.191.89.120
 185.2.229.122
 185.20.19.72
-185.21.223.166
-185.221.253.208
-185.221.254.132
 185.224.107.4
 185.233.94.151
 185.237.41.72
@@ -194221,12 +194267,12 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 185.71.233.23
 185.8.233.160
 185.80.0.36
+185.82.165.26
 186.121.239.114
 186.154.93.81
 186.235.86.129
 186.87.82.140
 187.247.242.34
-187.45.95.254
 188.118.38.161
 188.12.184.204
 188.134.8.43
@@ -194234,8 +194280,8 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 188.212.158.75
 188.235.22.82
 188.243.36.33
-188.254.255.246
 188.29.186.243
+188.44.110.215
 188.72.6.218
 188.81.134.196
 188.82.127.68
@@ -194243,25 +194289,21 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 189.61.50.98
 190.104.195.210
 190.104.213.45
-190.108.63.242
 190.110.204.150
 190.115.114.38
 190.12.99.194
-190.128.195.138
 190.145.205.178
 190.183.254.69
 190.185.119.13
 190.196.38.77
 190.2.237.104
-190.217.148.227
-191.96.94.207
 192.142.28.77
 192.142.54.83
 192.155.93.247
-192.162.199.149
 192.176.50.190
 192.253.248.8
 192.3.136.217
+192.3.140.105
 192.3.233.166
 193.106.58.174
 193.109.44.54
@@ -194271,20 +194313,17 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 193.165.245.46
 193.17.183.8
 193.187.101.68
+193.37.69.43
 194.208.56.60
 194.48.251.24
 194.67.127.229
 195.103.203.106
-195.158.90.40
 195.178.110.204
 195.26.97.59
 195.34.102.234
 195.34.91.22
 195.66.105.122
 195.95.253.86
-196.189.198.193
-196.251.107.104
-196.39.143.113
 196.41.63.178
 197.159.1.58
 197.44.77.98
@@ -194322,14 +194361,15 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 2.55.82.160
 2.55.94.142
 2.57.122.121
+200.112.129.172
 200.112.129.46
-200.115.102.246
 200.118.103.42
 200.14.250.72
 200.29.120.130
 200.54.221.234
 200.61.163.235
 200.69.219.25
+201.110.60.159
 201.16.236.187
 201.182.25.51
 201.184.231.250
@@ -194339,25 +194379,25 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 202.105.196.30
 202.107.102.33
 202.107.5.69
+202.129.16.119
 202.129.16.172
 202.131.234.26
 202.131.244.202
 202.139.20.12
 202.148.5.34
-202.162.36.210
 202.166.218.154
 202.175.181.210
 202.3.248.178
 202.3.248.179
 202.4.101.78
 202.4.124.58
-202.40.178.238
 202.5.50.108
 202.51.100.238
 202.53.164.214
 202.57.39.2
 202.57.43.234
 202.59.90.109
+202.62.41.165
 202.78.201.3
 202.88.234.44
 203.101.187.22
@@ -194373,8 +194413,8 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 203.38.121.138
 203.57.109.214
 203.76.108.6
+203.83.186.62
 205.185.114.150
-206.214.35.106
 208.84.100.209
 209.145.51.44
 209.162.229.229
@@ -194388,10 +194428,10 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 211.192.113.231
 211.192.113.232
 211.204.100.20
-211.219.49.173
 212.107.232.167
 212.112.101.200
 212.156.106.146
+212.164.115.235
 212.200.106.94
 212.225.179.114
 212.225.179.160
@@ -194408,16 +194448,19 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 213.149.160.65
 213.47.243.57
 213.5.194.56
+213.6.101.83
 213.6.196.230
 213.6.74.138
+213.66.64.21
 213.67.45.148
 213.87.112.128
+213.91.204.178
 213.96.13.100
 216.107.139.197
 216.119.126.23
 216.126.227.126
-216.126.227.207
 216.126.237.248
+216.126.86.18
 216.129.184.213
 216.155.92.203
 216.201.80.197
@@ -194442,40 +194485,35 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 218.155.74.6
 218.188.43.38
 218.212.2.95
-218.252.234.243
-218.29.201.52
-218.57.56.118
-219.139.62.122
-219.155.169.222
 219.155.210.251
 219.156.244.34
 219.68.168.193
 219.71.131.225
 220.118.75.244
 220.192.7.203
-220.202.65.145
+220.202.65.50
 220.246.34.66
 220.248.47.54
 220.89.164.81
+221.14.122.191
 221.143.49.222
+221.15.14.72
 221.15.198.215
-221.15.212.103
-222.127.63.144
-222.138.116.145
+221.15.9.33
+222.127.251.163
+222.133.101.113
+222.137.42.212
+222.138.182.107
 222.139.225.47
+222.139.33.64
+222.139.40.145
+222.139.95.226
+222.141.131.59
 222.141.82.143
-222.142.253.17
-222.154.246.166
-222.165.237.58
-222.165.237.59
 222.165.237.60
-222.165.237.61
 222.165.237.62
-222.166.248.15
 222.184.193.167
-222.190.235.122
 222.208.112.127
-222.220.145.75
 222.239.87.50
 222.252.31.94
 223.108.58.13
@@ -194494,27 +194532,25 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 24.234.159.5
 24.35.228.16
 24.89.4.180
-24.95.54.96
 27.124.17.179
-27.124.17.217
-27.124.40.89
 27.125.169.235
-27.147.196.138
 27.147.225.2
-27.215.109.89
+27.207.111.238
 27.215.143.81
 27.220.132.248
-27.37.100.232
-27.37.100.44
-27.37.101.176
-27.37.101.250
-27.37.101.71
-27.37.101.86
-27.44.144.168
+27.44.144.104
 27.44.144.172
+27.44.144.178
+27.44.144.208
+27.44.145.147
+27.44.145.175
+27.44.145.210
 27.44.145.43
-27.44.146.26
-27.44.146.61
+27.44.145.92
+27.44.146.197
+27.44.146.46
+27.44.147.113
+27.44.147.19
 27.72.159.162
 27.96.228.235
 2cfc0222.salamanderprocessing.pages.dev
@@ -194527,7 +194563,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 31.184.194.114
 31.186.54.111
 31.222.113.214
-31.55.236.199
+31.28.11.111
 31.56.209.211
 31.56.209.220
 31.56.209.229
@@ -194546,18 +194582,13 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 36.158.34.122
 36.249.193.242
 36.250.202.123
-36.64.14.250
 36.64.210.218
-36.64.227.134
 36.66.108.167
 36.66.139.36
-36.66.151.7
 36.67.246.82
-36.67.25.26
 36.88.109.138
 36.88.180.115
 36.88.6.203
-36.89.62.19
 36.92.24.250
 36.92.68.241
 36.95.137.155
@@ -194571,14 +194602,15 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 37.252.69.92
 37.255.210.242
 37.255.217.87
-37.255.229.18
+37.34.209.216
 37.34.230.9
 37.57.33.51
 37.9.25.206
 39.100.33.142
 39.105.223.127
+39.36.23.67
 39.65.192.75
-39.75.13.98
+39.81.158.32
 41.190.69.6
 41.215.23.222
 42.177.28.175
@@ -194587,30 +194619,25 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 42.193.115.114
 42.194.199.15
 42.200.182.63
-42.227.131.112
-42.227.187.192
 42.227.236.96
-42.230.54.40
+42.229.217.167
+42.230.24.182
+42.231.74.219
 42.233.95.107
+42.234.208.235
 42.234.234.142
-42.235.90.140
-42.235.91.184
-42.237.18.21
-42.238.193.100
-42.239.228.2
-42.4.25.57
 42.5.95.136
 42.52.39.77
+42.54.15.46
 42.54.3.39
 42.56.129.54
 42.56.184.164
 42.56.197.64
 42.56.203.213
+42.57.234.150
 42.57.29.40
+42.57.38.11
 42.58.137.158
-42.7.152.244
-42.85.75.240
-42.86.60.11
 43.132.12.146
 43.132.13.252
 43.136.51.89
@@ -194622,16 +194649,15 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 43.226.39.44
 43.229.20.247
 43.229.20.42
+43.230.44.36
 43.245.131.27
 43.249.54.246
 43.255.216.26
 44.208.147.17
+45.112.126.123
 45.115.254.68
-45.115.254.91
-45.116.68.12
 45.118.32.122
 45.118.79.103
-45.120.38.214
 45.125.44.137
 45.129.231.1
 45.13.186.32
@@ -194640,6 +194666,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 45.173.12.30
 45.179.225.75
 45.185.93.188
+45.186.37.201
 45.197.12.73
 45.198.224.26
 45.198.224.38
@@ -194648,9 +194675,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 45.202.247.123
 45.231.145.15
 45.236.116.198
-45.61.135.110
 45.61.157.217
-45.61.157.237
 45.66.228.93
 45.76.122.186
 45.90.163.37
@@ -194666,8 +194691,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 46.151.56.42
 46.183.223.7
 46.210.109.1
-46.236.65.35
-46.236.65.39
 46.236.65.80
 46.250.54.75
 46.77.52.190
@@ -194683,12 +194706,10 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 47.236.149.142
 47.242.66.123
 47.49.114.179
-47.50.169.82
 47.83.203.183
 47.86.190.58
 47.86.33.195
 47.89.173.214
-47.98.177.117
 49.176.254.54
 49.204.232.47
 49.205.173.192
@@ -194696,12 +194717,10 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 49.233.172.4
 49.234.48.162
 49.70.109.194
-49.86.251.92
 5.149.184.170
 5.166.107.132
-5.182.210.61
+5.175.223.249
 5.250.157.166
-5.252.155.72
 5.26.174.234
 5.35.124.133
 5.42.11.67
@@ -194714,29 +194733,36 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 50.65.169.30
 51.255.46.245
 51.79.124.111
+51.81.96.73
 52.16.112.136
 52.248.41.253
 54.197.245.249
 58.145.168.170
 58.182.146.104
+58.212.37.115
 58.216.207.82
 58.241.53.73
+58.255.42.74
 58.37.0.5
 58.49.210.250
+59.101.0.88
 59.27.224.90
 59.3.108.87
 59.3.45.42
+59.30.12.254
+59.42.89.142
 59.56.110.227
 59.7.114.186
 59.7.131.145
-59.96.138.215
+59.96.140.30
+59.97.251.215
 60.18.122.47
+60.189.165.193
 60.22.23.50
 60.23.192.63
 60aaf9c6.salamanderprocessing.pages.dev
-61.137.150.167
 61.160.215.114
-61.163.150.224
+61.174.122.41
 61.183.16.127
 61.2.45.141
 61.2.45.172
@@ -194744,30 +194770,23 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 61.240.239.106
 61.244.254.110
 61.52.48.239
-61.52.86.74
-61.53.122.194
 61.53.73.220
-61.53.74.41
-61.53.80.233
 62.197.62.195
 62.45.171.82
 62.56.225.99
 62.60.156.183
 62.60.159.184
 62.60.226.155
-62.60.226.159
 62.60.226.185
 62.60.226.243
 62.60.251.15
 62.99.58.93
 63.47.210.150
 64.234.95.70
-64.89.160.169
 64.89.160.17
 64.89.161.130
 64.89.161.131
-64.89.161.150
-64.89.161.187
+64.89.161.156
 64.89.162.139
 64.89.162.60
 64.89.163.22
@@ -194777,7 +194796,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 66.131.243.81
 66.185.26.66
 66.196.62.177
-66.39.79.68
 66.71.242.67
 66.71.242.68
 66.71.242.69
@@ -194789,7 +194807,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 68.148.10.182
 68.224.70.241
 68.226.36.150
-68.64.176.172
 69.46.43.35
 69.48.143.20
 69.75.168.226
@@ -194800,6 +194817,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 72.132.64.183
 72.201.150.189
 72.29.46.195
+72.61.196.110
 73.51.224.25
 74.48.34.10
 74.50.99.45
@@ -194822,28 +194840,27 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 77.211.28.150
 77.226.241.197
 77.237.29.219
+77.238.209.82
 77.46.170.18
 77.50.222.238
-77.53.231.107
 77.73.49.254
 77.83.39.153
 77.83.39.53
 77.89.199.242
 77.89.245.118
 78-20-115-5.access.telenet.be
-78.111.30.28
 78.111.82.210
+78.140.248.242
 78.153.140.16
 78.20.115.5
 78.25.107.160
+78.26.180.129
 78.29.14.127
-78.29.19.18
 78.29.39.213
 78.36.11.185
 78.38.24.33
 78.44.199.50
 79.1.229.42
-79.112.23.216
 79.122.193.32
 79.124.72.22
 79.124.8.44
@@ -194852,6 +194869,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 8.131.63.6
 8.137.149.67
 8.138.96.41
+8.217.17.75
 8.218.138.77
 8.218.225.42
 8.218.50.207
@@ -194868,21 +194886,16 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 81.16.123.55
 81.16.242.236
 81.16.247.81
-81.16.247.83
 81.16.249.96
-81.16.250.173
 81.22.42.232
 81.229.60.159
 81.231.7.219
 81.30.194.134
-81.30.208.254
 81.42.247.62
 81.42.249.132
 81.45.183.125
 81.69.185.184
-82.102.74.238
 82.114.200.50
-82.139.187.78
 82.139.95.202
 82.140.217.32
 82.146.62.232
@@ -194908,10 +194921,8 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 85.12.251.50
 85.121.240.117
 85.130.160.219
-85.15.124.98
 85.163.234.15
 85.187.54.142
-85.187.82.120
 85.204.104.159
 85.204.116.130
 85.22.139.189
@@ -194931,7 +194942,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 87.97.161.106
 88.116.62.226
 88.123.92.100
-88.180.236.68
 88.190.74.159
 88.24.52.121
 88.25.2.23
@@ -194942,7 +194952,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 89.101.123.50
 89.121.250.206
 89.184.185.198
-89.216.107.99
 89.231.14.137
 89.28.58.131
 89.28.58.81
@@ -194955,7 +194964,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 90.45.15.114
 90.8.145.102
 90.8.83.87
-91.142.153.143
 91.147.91.21
 91.164.39.142
 91.197.122.35
@@ -194971,7 +194979,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 91.92.242.6
 91.92.243.176
 91.92.243.181
-91.92.40.142
 91.92.82.180
 92.114.191.82
 92.127.156.174
@@ -194984,8 +194991,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 92.43.24.71
 92.63.185.32
 92.66.30.68
-93.117.148.118
-93.126.1.30
 93.182.76.169
 93.182.77.20
 93.190.58.102
@@ -195003,6 +195008,7 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 94.181.13.241
 94.183.182.184
 94.183.232.247
+94.19.130.58
 94.203.254.14
 94.226.135.252
 94.230.141.123
@@ -195015,13 +195021,13 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 95.154.194.17
 95.155.243.196
 95.158.175.214
-95.170.113.236
-95.170.116.28
+95.170.113.242
 95.170.119.100
 95.182.98.126
 95.214.53.157
 95.230.215.65
 95.255.114.11
+95.38.24.186
 95.43.75.2
 95.47.248.146
 95.56.232.109
@@ -195039,7 +195045,6 @@ bitdefender.com##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 99194034-96-20180108171507.webstarterz.com
 a-gwo.pages.dev
 aaronart.com
-abdulahad.net
 acc.jiangsujiaxue.com
 acms.saleseos.com
 admin.byte.in.ua
@@ -195078,7 +195083,6 @@ balkarsoftware.cubistech.com
 bamautzky.de
 baolongwes.oss-ap-southeast-1.aliyuncs.com
 basefile.click
-bbos.minet.vn
 benshamcentre.co.uk
 beoauto.alexion.rs
 best.obs.cn-sz1.ctyun.cn
@@ -195118,6 +195122,7 @@ cfs9.blog.daum.net
 ch.10001mb.com
 chanmiraicd1.duckdns.org
 chat-server.maverickpreviews.com
+chayadip.com
 checkfivem.com
 checkinetverifk.com
 chenwangqiao.com
@@ -195130,6 +195135,7 @@ churchinmanila.org
 cl.ssouy.com
 class1004.dothome.co.kr
 clientkrypton.lovable.app
+cliffg.me
 cliftycreek.anondns.net
 cliquelogistics.com.pk
 clubdetiroelpicarcho.com
@@ -195139,7 +195145,6 @@ continentalgroup.net.in
 controliumbt.com
 coralasargetia.ro
 corporacioncrf.com
-cpc188.day
 cpofficial.com
 crazywickedaddiction.com
 creativevoltage.com
@@ -195152,6 +195157,7 @@ csg-app.com
 cstaipas.pt
 cutting-edge.in
 d.14yaa.com
+d.kpzip.com
 d.wanyouxi7.com
 d2314eac.solaraweb-alj.pages.dev
 d3cciiowg5l3jx.cloudfront.net
@@ -195171,7 +195177,6 @@ dialkwik.in
 disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
-dl.2345.com
 dl.dzqzd.com
 dl.natgo.cn
 dlied6.bytes.tcdnos.com
@@ -195206,12 +195211,14 @@ dweixin.cn
 easybrand.vn
 electri.billregulator.com
 elisans.novayonetim.com
+embalageral.hospedagemdesites.ws
 embedone.com
 en.taichuan.com
 epanpano.com
 estudio.ythan.com.br
 evangroup.ru
 eventsyouwant.com
+exclusionremcoss.duckdns.org
 f24-zfcloud.zdn.vn
 f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com
 fakers.co.jp
@@ -195236,14 +195243,17 @@ gaiadeqi.com
 galeri3.arkitera.com
 galerisenimutiara.com
 gboutros.howto.rocks
+genddos.st
 gestionycobranzas.com
 globalbank.us
 goto.stnts.com
+grantexx.com
 greenf.alexion.rs
 grupomcperu.com
 gutando.com
 haeum.nfile.net
 hasalltalent.com
+heartbeatlinkbot.online
 hhbs.hhu.edu.cn
 higreens.co.in
 hitman-pro.ru
@@ -195288,7 +195298,6 @@ kavacanada.ca
 kavyasourcing.com
 khoancatbetong89.vn
 kimyen.net
-kis.marketing
 kits.frog.tw
 kokorostore.it
 konsor.ru
@@ -195306,6 +195315,7 @@ local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
 m.jkoa.co.kr
+m.meta-dm.com
 maidforyou1985.com
 mamigummy.com
 matthewsigmondv5.pages.dev
@@ -195341,7 +195351,6 @@ o24o.ru
 ofice365.github.io
 ojang.pe.kr
 okhan.net
-oknoplastik.sk
 old.bullydog.com
 old.umcl.us
 onceuponatimethebabyangelcamebacktotheearthtogoformebestwishesg.ydns.eu
@@ -195355,14 +195364,12 @@ paradox924x.pages.dev
 pardu.pages.dev
 patricstoremegans2.com
 pay.aqiu6.com
-pcupd.com
 photodpt-rus.vercel.app
 pid.fly160.com
 pjsn.hi2.ro
 planetariumobil.ro
 plasteredplayn.com
 playtown.co.za
-pns.org.pk
 police1906work.vercel.app
 police2026work2106.vercel.app
 police2206work.vercel.app
@@ -195397,15 +195404,16 @@ redeamazoniaazul.org
 redlk.com
 refaccionesalma.com.mx
 reifenquick.de
+respaldo2.duckdns.org
 reutilizemais.co.mz
 rheddh.com
 riderspin.com
 ritubohara.com
 robertrowe.com
 royalindiancurryclub.com
+runds.duckdns.org
 rxquickpay.com
 ryo.gamer.free
-s3-python.cc
 sablayan.seasonshotelmindoro.com
 saf-oil.ru
 salonmarketing.ca
@@ -195422,7 +195430,6 @@ serasoo.direct.quickconnect.to
 server.toeicswt.co.kr
 sg123.net
 sgeseducation.com
-shaderm.com
 shadowbot-dih.pages.dev
 shahamanatme.com
 shangmei-test.oss-cn-beijing.aliyuncs.com
@@ -195438,10 +195445,10 @@ softcatalog.ru
 softdl.360tpcdn.com
 softdl2.360tpcdn.com
 softdl4.360.cn
-softwaredesing.x10.mx
 solar-sanat.net
 spasopro.at
 spgint.com
+spoar.org.in
 ss-01.com
 sta.qinxue.com
 starcountry.net
@@ -195450,7 +195457,8 @@ static.249.223.175.5.nextregister.eu
 static.3001.net
 static.ilclock.com
 static.topxgun.com
-static.zongheng.com
+static.youdm.cn
+stdown.dinju.com
 steam66.cn
 stonecradle.com
 streammobs.com
@@ -195458,7 +195466,6 @@ support-data.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-swiftfusion.tech
 sydneyaffordablecremations.com.au
 syn-096-011-145-107.biz.spectrum.com
 synergyconsulting.us
@@ -195492,11 +195499,11 @@ upaicdn.xinmei365.com
 upchemicals.co.in
 update.bruss.org.ru
 update.cg100iii.com
+users.atw.hu
 uzdating1.shop
 vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com
 vagler.ru
 vaibhavtripathi.in
-vaneijkprojecten.nl
 vanta.st
 versaclean.com.br
 veryboys.com
@@ -195534,15 +195541,12 @@ xuezha.net
 xww.bucea.edu.cn
 yandisk-arxiv2023.vercel.app
 ybgctdtbzvgpdxjivafy.supabase.co
-yettyagency.tz
 youtransfer.net
-ysbaojia.com
 zamilgroups.com
 zenglobalenerji.com
 zhigao5191.com
 zhikey.com
 zycdjz.com
-||150.co.il/rustdesk-1.2.3-2-x86_64.exe^$all
 ||amyuni.com/downloads/usbmmidd_v2.zip^$all
 ||astenterprises.com.pk/ef/ef.vbs^$all
 ||cd.textfiles.com/hmatrix/data/hack0832.zip^$all
@@ -195634,13 +195638,10 @@ zycdjz.com
 ||drive.google.com/uc?export=download&confirm=t&id=145b1fbjtyee3w1rjsazo7hzcoiiaxzum&uuid=eb581596-9566-4a21-b3b6-e6909eb42ff6&at=akkf8vzrltviqrn7wljfjcwisgcc:1683793107077^$all
 ||drive.google.com/uc?export=download&id=1-8qpzgr4-iis53p1-kr2-o6prrjmnksk^$all
 ||drive.google.com/uc?export=download&id=10lygpyju_dlg3x6r9oslzgblshakstl-^$all
-||drive.google.com/uc?export=download&id=10tjumz7wfvneb23uabg9anqmgiwrgrkp^$all
 ||drive.google.com/uc?export=download&id=11cbyky_wegqjut6afr8jannw7vub-xxf^$all
-||drive.google.com/uc?export=download&id=11ikhhvbecrxqda9a2rj8jrytsrufrspk^$all
 ||drive.google.com/uc?export=download&id=12jgde-soib4liipbdhs55vkz7ek8_ua6^$all
 ||drive.google.com/uc?export=download&id=12ma_yvbmprts6e_vkfnmwikrnwsarqbw^$all
 ||drive.google.com/uc?export=download&id=12rmvuwgpj0dzbb3haoaww2lviavhvb4r^$all
-||drive.google.com/uc?export=download&id=14gdct9n0frg_0j3dk1zhxjpkhkfhsbvz^$all
 ||drive.google.com/uc?export=download&id=14muad9cmj6mxsd9lrccuo1egxyf5f-ty^$all
 ||drive.google.com/uc?export=download&id=15_5vja6ls72gnqbjqkrme1i7bmit0fe4^$all
 ||drive.google.com/uc?export=download&id=17hv9-3t2ilikbmcfql2z66ipd72x4mz7^$all
@@ -195653,19 +195654,15 @@ zycdjz.com
 ||drive.google.com/uc?export=download&id=1alq8r5tnr6wwiftqa3l6d9fymv7y0g9m^$all
 ||drive.google.com/uc?export=download&id=1am1ztjjhswzwdbvue5tke5mbkwjud0w5^$all
 ||drive.google.com/uc?export=download&id=1aygcpsnow8esde5bkkuaj0bygkowvttd^$all
-||drive.google.com/uc?export=download&id=1b0pghvrgyztii2exegimja9evlgsz8z5^$all
 ||drive.google.com/uc?export=download&id=1b6t1mjnjcvndcy-mdqq0neqrbocqyju4^$all
 ||drive.google.com/uc?export=download&id=1bpc5z-hv6kosk6artkfmbtsnnwwpdghy^$all
 ||drive.google.com/uc?export=download&id=1c2pnucvma1shu90mnauhef6shildth-s^$all
 ||drive.google.com/uc?export=download&id=1c3ypqyioszuyr4eszuaplydvr2utpnlu^$all
 ||drive.google.com/uc?export=download&id=1ccjlbddgjhpeeff1b1hfkgp3x16c_tj1^$all
 ||drive.google.com/uc?export=download&id=1cl-nvhrrue_wg2zkpuxmvk40tk3knacb^$all
-||drive.google.com/uc?export=download&id=1cpbzbcb7zpagfgdwfyjlghgc8hfb0dfh^$all
 ||drive.google.com/uc?export=download&id=1cz1lqyxis4wvr7nlc71ukekxyhj5xu-l^$all
 ||drive.google.com/uc?export=download&id=1d4aper-gjv3agk8yeny5scayonlc68yo^$all
-||drive.google.com/uc?export=download&id=1dauzhsh6c6crvrfn_1fexszwzazbto-c^$all
 ||drive.google.com/uc?export=download&id=1drptefwc7xybtum52bikrhp4j4l6lttc^$all
-||drive.google.com/uc?export=download&id=1dtywbqrnaaz461tdks7kdnvynowyffwr^$all
 ||drive.google.com/uc?export=download&id=1e2y5yppu_zjj4o3wmuo-2j8n9lbthkzc^$all
 ||drive.google.com/uc?export=download&id=1eczx8yjtfxwos26grqtdixajed3ukcao^$all
 ||drive.google.com/uc?export=download&id=1ed2w0zvvx53_mfifdszyslleurub40zo^$all
@@ -195677,14 +195674,12 @@ zycdjz.com
 ||drive.google.com/uc?export=download&id=1gavcby-nhlq22ohbgm530exffsrg1aub^$all
 ||drive.google.com/uc?export=download&id=1ge6chcvywbep4kgx_odpxtvfi3vj-zwy^$all
 ||drive.google.com/uc?export=download&id=1gfn3lqd1rvybut4ha-ldl92wt8ysrzfc^$all
-||drive.google.com/uc?export=download&id=1gk9hapmb_ndvvxxd3fhc_e4zwrlac1a3^$all
 ||drive.google.com/uc?export=download&id=1gmzqsemymffka4lve0jkwa06sklk7xhu^$all
 ||drive.google.com/uc?export=download&id=1gv5qahzp_toxgct3ezfvvy4q3a5vvh6s^$all
 ||drive.google.com/uc?export=download&id=1gvnzexvvs3vpv0-ihflwnmzmhij3qqly^$all
 ||drive.google.com/uc?export=download&id=1hd7ffgig6btbzuy2_2kds_t4u637qxjn^$all
 ||drive.google.com/uc?export=download&id=1hditwve1kadzeycbldxttxi4mmhddgyp^$all
 ||drive.google.com/uc?export=download&id=1heka7sgmbcessdhxtvmfwxownz7sipbb^$all
-||drive.google.com/uc?export=download&id=1hi6c_o2qikubsb17ehzh5kux7l6rk9_b^$all
 ||drive.google.com/uc?export=download&id=1hkvynldkcbdd50_bsw3s9tk5elbduxtg^$all
 ||drive.google.com/uc?export=download&id=1hppbdssh6fedu5tclfys1760jq9d0fvc^$all
 ||drive.google.com/uc?export=download&id=1hrp9lnasbplclnhppp1abwb1uwv4kdvs^$all
@@ -195958,6 +195953,7 @@ zycdjz.com
 ||github.com/douniajammali31/grammarfixer/raw/refs/heads/main/images/grammarfixer-2.5.zip^$all
 ||github.com/dqwr1q23rwdfr/xxx/releases/download/xxx/vital.zip^$all
 ||github.com/drankrych/fakebtcsend/releases/download/v2.0/software.zip^$all
+||github.com/dutyfree-embroiderystitch433/arcraiderfpsboosterforgithub2026/raw/refs/heads/main/aly/hub_booster_raider_for_git_arc_fps_2.6-alpha.1.zip^$all
 ||github.com/eding442gfm/1ar-bladeandsoulr/releases/download/4sd7l2qydh/37uji8i2.rar^$all
 ||github.com/eding442gfm/1ax-bladeandsoulx/releases/download/n6seqop1o4/q.rar^$all
 ||github.com/eed8989/u/raw/main/ud.bat^$all
@@ -196020,7 +196016,6 @@ zycdjz.com
 ||github.com/forzon96/cataclismo/releases/download/1.4.6/cataclismo_1.4.6.zip^$all
 ||github.com/frank698/localocr/releases/download/v2.3.3/localocr_v2.3.3.zip^$all
 ||github.com/frenzy-zwaake/discordrat-2.0/deferred-metadata/main/client-built.exe^$all
-||github.com/frexoff/efefwefwwf/raw/main/cock.exe^$all
 ||github.com/fsabxh/sfdawsdawdaw/raw/refs/heads/main/serials_checker.exe^$all
 ||github.com/futurinav/esteai/releases/download/v1.0/software.zip^$all
 ||github.com/gabssama12/gabssama12.github.io/raw/refs/heads/main/paganishly/github-gabssama-io-3.7-beta.1.zip^$all
@@ -196056,9 +196051,6 @@ zycdjz.com
 ||github.com/hankamarvanova/unified-db/raw/refs/heads/main/sources/db_unified_3.9.zip^$all
 ||github.com/harelba/q/releases/download/2.0.19/q-amd64-windows.exe^$all
 ||github.com/harsukh21/paralives-ultimate-trainer-2026/releases/download/v1.0/paralivestrainer_setup.zip^$all
-||github.com/haruharuharuby/paralives-ultimate-trainer-2026/releases/download/v1.0/paralivestrainer_setup.zip^$all
-||github.com/hbddevos/paralives-ultimate-trainer-2026/releases/download/v1.0/paralivestrainer_setup.zip^$all
-||github.com/heresfilly09-9/fornova/raw/main/svchost.exe^$all
 ||github.com/hfuhuu/nvidiacapture/raw/refs/heads/main/embind/nvidia_capture_1.8-alpha.3.zip^$all
 ||github.com/hkakkkaa/gdsssdggsg/releases/download/fsdfsd/1210.exe^$all
 ||github.com/hkakkkaa/gdsssdggsg/releases/download/fsdfsd/1488.exe^$all
@@ -196186,7 +196178,6 @@ zycdjz.com
 ||github.com/kevinborgesz/the-data-engineering-academy/releases/download/v2.0/software.zip^$all
 ||github.com/kevlar782/genshin-ts/raw/refs/heads/main/whitecap/ts-genshin-2.2-alpha.5.zip^$all
 ||github.com/kevlar782/kevlar782.github.io/raw/refs/heads/main/elocutionary/io-github-kevlar-eremology.zip^$all
-||github.com/kewayne/paralives-ultimate-trainer-2026/releases/download/v1.0/paralivestrainer_setup.zip^$all
 ||github.com/keygroup777-ransomware/downloader/raw/refs/heads/main/black.exe^$all
 ||github.com/keyur-m/hometask/raw/refs/heads/main/application.zip^$all
 ||github.com/khalid2344/mint-executor/releases/download/v2.0/software.zip^$all
@@ -196219,7 +196210,6 @@ zycdjz.com
 ||github.com/linapatel518/cv/raw/refs/heads/main/relayman/software-v3.3.zip^$all
 ||github.com/linapatel518/drumkit/raw/refs/heads/main/images/kit_drum_v2.7.zip^$all
 ||github.com/linapatel518/rbxfpsunlocker/raw/refs/heads/main/sheepwalker/software_v2.5.zip^$all
-||github.com/lineratlift43/hwidclean/releases/download/hwidspoofer/latest.zip^$all
 ||github.com/localdumbass2112/adoptmescript/raw/refs/heads/main/marshalman/software-v3.9.zip^$all
 ||github.com/loeyyyyy/ai-voice-changer-real-time-2026/raw/refs/heads/main/cpp/de/jurihock/voicesmith/plug/time-changer-real-a-voice-3.4.zip^$all
 ||github.com/lolo10201/trial-project/raw/refs/heads/main/login_page.txt^$all
@@ -196497,16 +196487,17 @@ zycdjz.com
 ||github.com/sid2983/-1aa-valoranta/releases/download/d0wn10ad/valcheat.zip^$all
 ||github.com/sigarikafat/xeet/releases/download/1.6.4/xeet_v1.6.4.zip^$all
 ||github.com/silenthashik/winring/raw/main/winring0x64.sys^$all
+||github.com/skakbar963-arch/arcraiders-fps-booster-2025-2026/raw/refs/heads/main/crymodynia/booster-arc-fp-raiders-3.5.zip^$all
 ||github.com/skibidi-crypto/quarkus-openapi-problem/releases/download/v1.4.2/quarkus-openapi-problem-v1.4.2.zip^$all
 ||github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v1.0/software.zip^$all
 ||github.com/skibiditoilet123xx/sinav-otomasyonu-prototip/releases/download/v2.0/software.zip^$all
 ||github.com/skibidixelaina/wuselaina/raw/refs/heads/main/build.exe^$all
+||github.com/smailikskywarsp4s/arcraiders-fps-booster-2025-2026/raw/refs/heads/main/booster.rar^$all
 ||github.com/so251/olaquerida/releases/download/1releasae/winring0x64.sys^$all
 ||github.com/soloobr/z-loops/raw/refs/heads/master/breathseller/z-loops.zip^$all
 ||github.com/soloobr/z-loops/raw/refs/heads/master/updatelm/properties/loops_z_v2.9.zip^$all
 ||github.com/sooryanaga/obscure-affairs-unlocked-edition/raw/refs/heads/branch/taurobolium/unlocked-obscure-affairs-edition-3.0.zip^$all
 ||github.com/sooryanaga/qt-liquid-glass/raw/refs/heads/main/bulliform/qt_glass_liquid_3.5.zip^$all
-||github.com/soulclientwtf/lnk/raw/refs/heads/main/execute^$all
 ||github.com/sparoecanthusfultoni104/exphora_db/raw/refs/heads/main/ui/src/components/settings/exphora-db-v3.4-beta.1.zip^$all
 ||github.com/sqrtzeroknowledge/xworm-trojan/archive/refs/heads/main.zip^$all
 ||github.com/ssslllap1/asdasd/raw/main/crypted.exe^$all
@@ -196535,7 +196526,6 @@ zycdjz.com
 ||github.com/tekin441/urban_company_clone/releases/download/v2.0/software.zip^$all
 ||github.com/thandoman/seedtool/releases/download/v1.0/application.zip^$all
 ||github.com/thandoman/seedtool/releases/download/v2.0/software.zip^$all
-||github.com/theabhishekar/paralives-ultimate-trainer-2026/releases/download/v1.0/paralivestrainer_setup.zip^$all
 ||github.com/theenemylost/community-design-resources/raw/refs/heads/main/brand-assets/rolldown/community-resources-design-v1.3.zip^$all
 ||github.com/theenemylost/theenemylost.github.io/raw/refs/heads/main/predaylight/theenemylost_io_github_v1.4.zip^$all
 ||github.com/thiagx08/bue-introduction-to-programming-and-problem-solving/releases/download/v1.0/release_x64.zip^$all
@@ -197775,7 +197765,6 @@ zycdjz.com
 ||namuvpn.com/install/back/namuvpn32.zip^$all
 ||namuvpn.com/install/back/namuvpn7.exe^$all
 ||namuvpn.com/install/back/namuvpn7.zip^$all
-||namuvpn.com/install/back/namuvpn7/namuvpn7.exe^$all
 ||namuvpn.com/install/back/namuvpnx2.exe^$all
 ||namuvpn.com/install/back/namuvpnx2.zip^$all
 ||namuvpn.com/install/back/namuvpnx2/namuvpnx2.exe^$all
@@ -197962,7 +197951,6 @@ zycdjz.com
 ||raw.githubusercontent.com/abdulmejid/desktopledsync/main/providers/desktop_led_sync_v3.3.zip^$all
 ||raw.githubusercontent.com/abdurrazzak1999/analytics_portfolio_dual_projects/main/project_1_employee_attrition/analytics_dual_projects_portfolio_3.9.zip^$all
 ||raw.githubusercontent.com/abhi671roy/better-rm/main/specificity/better-rm-3.8.zip^$all
-||raw.githubusercontent.com/abhidadatg/worm/refs/heads/main/xclient.exe^$all
 ||raw.githubusercontent.com/abhishek-97735/equity-line/main/duboisia/equity_line_v1.8.zip^$all
 ||raw.githubusercontent.com/abhishekalway6686/nexus-satisfactory-layout-tool/main/src/data/tool-satisfactory-layout-nexus-2.4-alpha.1.zip^$all
 ||raw.githubusercontent.com/abi204050-web/elm/main/src/dataloaders/data_representation/software_v3.0-alpha.2.zip^$all
@@ -198518,7 +198506,6 @@ zycdjz.com
 ||raw.githubusercontent.com/benoitdaude/abcdyuosd/refs/heads/main/xmrig-aarch64-static^$all
 ||raw.githubusercontent.com/benoitdaude/abcdyuosd/refs/heads/main/xmrig-armv7-static^$all
 ||raw.githubusercontent.com/benoitdaude/abcdyuosd/refs/heads/main/xmrig-i686-static^$all
-||raw.githubusercontent.com/benoitdaude/abcdyuosd/refs/heads/main/xmrig-x86_64-static^$all
 ||raw.githubusercontent.com/bensugursoy/drone-swarm-rl-airsim-sb3/main/multi_agent/modified_libs/pettingzoo/butterfly/knights_archers_zombies/img/drone-swarm-sb-airsim-r-2.4.zip^$all
 ||raw.githubusercontent.com/bentonitic-shielding4582/memory-palace-web-frontend/main/docs/memory-palace-frontend-web-v2.4-beta.4.zip^$all
 ||raw.githubusercontent.com/benxt512/bsutils/main/stream/utils-bs-2.5.zip^$all
@@ -199594,7 +199581,6 @@ zycdjz.com
 ||raw.githubusercontent.com/frenzy-zwaake/discordrat-2.0/main/client-built.exe^$all
 ||raw.githubusercontent.com/fresh-mexicanrevolution306/clearly/main/website/software_v2.8.zip^$all
 ||raw.githubusercontent.com/frexio/pegainfer/main/src/http_server/software_3.4.zip^$all
-||raw.githubusercontent.com/frexoff/efefwefwwf/main/cock.exe^$all
 ||raw.githubusercontent.com/friedpotato04/cuda-l2/main/assets/cuda-l2-1.4-alpha.4.zip^$all
 ||raw.githubusercontent.com/frieza1212/claude-code-ios-dev-guide/main/mesoblast/ios-code-claude-dev-guide-1.3.zip^$all
 ||raw.githubusercontent.com/frisk1269/multiagent-database-query-system/main/src/agents/query_system_database_multiagent_v3.7-beta.1.zip^$all
@@ -199904,7 +199890,6 @@ zycdjz.com
 ||raw.githubusercontent.com/hensr39-cpu/openclaw-knowledge-distiller/main/tests/openclaw_distiller_knowledge_v1.1.zip^$all
 ||raw.githubusercontent.com/heracross1412/ai-driven-cms-governance/main/procellose/cms_ai_governance_driven_3.4.zip^$all
 ||raw.githubusercontent.com/herculeseccrine742/apex-harvest/main/pharmacology/apex_harvest_1.1.zip^$all
-||raw.githubusercontent.com/heresfilly09-9/fornova/main/svchost.exe^$all
 ||raw.githubusercontent.com/herfani04/ios-web3-wallet-framework/main/documentation/api/o-wallet-framework-web-i-2.6.zip^$all
 ||raw.githubusercontent.com/hericguedez/scratchpad-scribe/main/src/hooks/scratchpad-scribe-2.1-alpha.1.zip^$all
 ||raw.githubusercontent.com/hermiogg-arch/product_picker/main/blog/.vitepress/theme/product_picker_v3.5.zip^$all
@@ -200797,6 +200782,7 @@ zycdjz.com
 ||raw.githubusercontent.com/lehila05/pdc/main/payload_encrypted.bin^$all
 ||raw.githubusercontent.com/lehila05/pdc/main/pvp.exe^$all
 ||raw.githubusercontent.com/lehila05/pdc/main/riende.exe^$all
+||raw.githubusercontent.com/lehila05/pdc/main/second.bin^$all
 ||raw.githubusercontent.com/lehila05/pdc/main/second.exe^$all
 ||raw.githubusercontent.com/lehila05/pdc/main/svhost.exe^$all
 ||raw.githubusercontent.com/lehila05/pdc/main/urbanvpn.exe^$all
@@ -200964,9 +200950,6 @@ zycdjz.com
 ||raw.githubusercontent.com/lurkboi/secure-radio/main/railroading/radio-secure-3.7.zip^$all
 ||raw.githubusercontent.com/lusterless-zerotolerance898/aurora/main/examples/auroraexamples/auroraexamples/assets.xcassets/appicon.appiconset/software-v2.1.zip^$all
 ||raw.githubusercontent.com/luvqwertyuiopoiuytrewqwertyuiop/aicryptosignals-bots/main/isovalerianate/crypto-signals-bots-ai-v1.4.zip^$all
-||raw.githubusercontent.com/lvlh01am/adad/main/xclient.exe^$all
-||raw.githubusercontent.com/lvlh01am/fsfsf/main/xclient.exe^$all
-||raw.githubusercontent.com/lvlh01am/wrwrwr/main/xclient.exe^$all
 ||raw.githubusercontent.com/lwewaw123/developershub-datascience-analytics_internship-task1/main/nondisarmament/data_science_developers_analytics_tas_hub_internship_v1.8.zip^$all
 ||raw.githubusercontent.com/lxxvii-blacknightshade680/cs-bc-l-m/main/transitory/b-c-m-3.8-beta.1.zip^$all
 ||raw.githubusercontent.com/ly1595/nmap-mcp/main/tests/nmap_mcp_v3.7.zip^$all
@@ -201080,7 +201063,6 @@ zycdjz.com
 ||raw.githubusercontent.com/marinhodomingosm/post-stroke-aphasia-risk-analysis/main/github-pages/src/.observablehq/cache/_npm/aphasia-stroke-analysis-post-risk-1.4-beta.3.zip^$all
 ||raw.githubusercontent.com/marioclaropo/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12/main/developments/aspnetcore-data-access_entity-framework-core_course-luisdev-part-1_dotnet-8_csharp-12_2.0.zip^$all
 ||raw.githubusercontent.com/mariorachitan-svg/sportiq/main/training/iq_sport_v2.7-beta.1.zip^$all
-||raw.githubusercontent.com/marizdacusan/slopsmith/main/tests/software_2.6.zip^$all
 ||raw.githubusercontent.com/marjoryinterstellar653/excel-course-part-2-functions/main/forsaken/part_functions_excel_course_v2.6.zip^$all
 ||raw.githubusercontent.com/mark101221/aws-lift-shift-migration/main/terraform/modules/vpc/aws-migration-shift-lift-v1.9.zip^$all
 ||raw.githubusercontent.com/markcode18/transformertorch/main/assets/transformertorch_v3.1.zip^$all
@@ -201621,7 +201603,6 @@ zycdjz.com
 ||raw.githubusercontent.com/odellphysiotherapeutic71/parfait/main/homomorpha/software-v2.6.zip^$all
 ||raw.githubusercontent.com/odontoglossumketch547/claude-code/main/src/entrypoints/code_claude_v3.5.zip^$all
 ||raw.githubusercontent.com/oebeledrijfhout/attorney-directory-scraper/main/naifly/scraper_attorney_directory_3.9.zip^$all
-||raw.githubusercontent.com/officeholdermonsieur892/umbrella-hwid-tool/main/umbrella/hwi_umbrella_tool_1.9.zip^$all
 ||raw.githubusercontent.com/officialitopa/h2oai-flood-prediction-agent/main/ui/public/agent_flood_prediction_h_oai_1.4-beta.2.zip^$all
 ||raw.githubusercontent.com/officialnishant7777/evernight-rainmeter-skin-hsr/main/hammerwork/rainmete-ski-hsr-evernigh-1.7-beta.3.zip^$all
 ||raw.githubusercontent.com/ogc124/rust-fps-boost-2026-ultimate-performance-enhancer-for-rust/main/barberry/fp_ultimate_for_enhancer_boost_performance_rust_2.3-beta.2.zip^$all
@@ -201699,7 +201680,6 @@ zycdjz.com
 ||raw.githubusercontent.com/pablodmzz7/pai/main/pai_directory/voice-server/macos-service/software_1.0.zip^$all
 ||raw.githubusercontent.com/paboace/supermart-grocery-sales-analysis/main/apostolize/supermart_grocery_analysis_sales_v1.5.zip^$all
 ||raw.githubusercontent.com/pachydermatous-teuton9386/api-manager/main/rules/api_manager_v2.2-beta.1.zip^$all
-||raw.githubusercontent.com/paco321312312/cautious-sniffle/main/xclient.exe^$all
 ||raw.githubusercontent.com/padmee/weatherpro-react/main/src/react-pro-weather-1.6.zip^$all
 ||raw.githubusercontent.com/pahssl/cb_with_any_api/main/data/any_with_api_cb_1.2-alpha.5.zip^$all
 ||raw.githubusercontent.com/pale-mayenne964/devdocs-forge-agent/main/src/transcript/devdocs_agent_forge_3.5.zip^$all
@@ -201765,7 +201745,6 @@ zycdjz.com
 ||raw.githubusercontent.com/pepitoing/calc-speed-game/main/game/game-speed-calc-v1.6.zip^$all
 ||raw.githubusercontent.com/pepoy6249/dejavu/main/src/software_v2.5.zip^$all
 ||raw.githubusercontent.com/perennial-passionsunday689/adobe-premiere-pro-version-2026/main/ketch/pro_version_premiere_adobe_3.8-alpha.5.zip^$all
-||raw.githubusercontent.com/perfil6634/umbrella-hwid/main/umbrella/properties/hwid-umbrella-2.0-beta.4.zip^$all
 ||raw.githubusercontent.com/perjala1833/work_review/main/src-tauri/src/work-review-v2.4.zip^$all
 ||raw.githubusercontent.com/perpaft11/678/main/encurl/software-1.5-beta.3.zip^$all
 ||raw.githubusercontent.com/persispseudoprostyle870/zerotext/main/plugins/webpack/software_v1.6.zip^$all
@@ -203266,7 +203245,6 @@ zycdjz.com
 ||raw.githubusercontent.com/whitakerunsaturated400/osint-feed/main/tests/osint-feed-v3.5-alpha.3.zip^$all
 ||raw.githubusercontent.com/whittakerapothegmatical380/nikaya/main/references/software-2.7.zip^$all
 ||raw.githubusercontent.com/whoafg/problemonfmech/refs/heads/main/client.exe^$all
-||raw.githubusercontent.com/whois-black/qew123/main/xclient.exe^$all
 ||raw.githubusercontent.com/wichonemes/elementsfactory/main/data/elements_factory_v1.0-beta.1.zip^$all
 ||raw.githubusercontent.com/wici123/awesome-edu-deals/main/christmasy/edu_deals_awesome_v3.6.zip^$all
 ||raw.githubusercontent.com/widapra/security-intelligence-engine/main/modules/engine_security_intelligence_2.4.zip^$all
@@ -203453,7 +203431,6 @@ zycdjz.com
 ||raw.githubusercontent.com/zahrawou/ultrasonic-radar/main/unstavable/ultrasonic_radar_3.9.zip^$all
 ||raw.githubusercontent.com/zaidguy/global-mouse/main/global_mouse.egg-info/global-mouse-3.5.zip^$all
 ||raw.githubusercontent.com/zaidmohd777/stockanalysis/main/output/software-v2.7.zip^$all
-||raw.githubusercontent.com/zain444yt123-boop/ui-ux-pro-max-skill-cn/main/dingo/cn-ui-max-pro-skill-ux-v3.4.zip^$all
 ||raw.githubusercontent.com/zainnail/powerarchiver-working/main/vintneress/powerarchiver-working_v1.2.zip^$all
 ||raw.githubusercontent.com/zainow000/claudecodeui/main/src/components/task-master/context/software_3.3-beta.4.zip^$all
 ||raw.githubusercontent.com/zakaria-x9/execx/main/examples/onstdout/software_v3.8-beta.4.zip^$all
@@ -203559,11 +203536,6 @@ zycdjz.com
 ||tapestryoftruth.com/media/video_file/round_setup.exe^$all
 ||tapestryoftruth.com/new/x64-setup.exe^$all
 ||teknoarge.com/update/ana/update.exe^$all
-||users.atw.hu/fvlmodell/letoltes/files/scalecalc.exe^$all
-||users.atw.hu/nykol16/kepek.exe^$all
-||users.atw.hu/tekiwanatain/installer.rar^$all
-||users.atw.hu/toneraruhaz/wp-admin/network/installer.rar^$all
-||users.atw.hu/zoolatogato/xruhbmzvlaghfnqcerrv.exe^$all
 ||web.archive.org/web/20240808120223if_/http://154.216.19.139/bins/mirai.bin^$all
 ||web.archive.org/web/20240808120223if_/http:/154.216.19.139/bins/mirai.bin^$all
 ||web.archive.org/web/20240808120646if_/http://154.216.19.139/bins/mirai.armv4l^$all
@@ -203572,7 +203544,6 @@ zycdjz.com
 ||web.archive.org/web/20240808120945if_/http:/154.216.19.139/bins/mirai.armv5l^$all
 ||web.archive.org/web/20240808121041if_/http://154.216.19.139/bins/mirai.armv6l^$all
 ||web.archive.org/web/20240808121041if_/http:/154.216.19.139/bins/mirai.armv6l^$all
-||web.archive.org/web/20240808121121if_/http://154.216.19.139/bins/mirai.armv7l^$all
 ||web.archive.org/web/20240808121121if_/http:/154.216.19.139/bins/mirai.armv7l^$all
 ||web.archive.org/web/20240808121230if_/http://154.216.19.139/bins/mirai.i586^$all
 ||web.archive.org/web/20240808121230if_/http:/154.216.19.139/bins/mirai.i586^$all
@@ -248421,7 +248392,7 @@ ondebola.com##.adslot_horizontal_big_desktop_extra
 ondebola.com##.solverde-affiliate-banner
 
 ! https://github.com/uBlockOrigin/uAssets/issues/33280
-streamcash.to##+js(rmnt, script, /\.onerror|offsetHeight|Bait|getComputedStyle|dimCheck|getBoundingClientRect|x69|height===0|width===0|eval|banner-zone|no-store|\'flex\'|String\.fromCharCode|media-slot-bottom|String\.fromCodePoint|join\(''\)|\[decodeURIComponent\(|style\.setProperty/)
+streamcash.to##+js(rmnt, script, /\.onerror|offsetHeight|Bait|getComputedStyle|dimCheck|getBoundingClientRect|x69|height===0|width===0|eval|banner-zone|no-store|\'flex\'|String\.fromCharCode|media-slot-bottom|String\.fromCodePoint|join\(''\)|\[decodeURIComponent\(|style\.setProperty|join\('-'\)/)
 streamcash.to##+js(nowoif)
 streamcash.to##+js(trusted-replace-argument, document.createElement, 0, json:"div", condition, /^a$/)
 streamcash.to##+js(rpnt, script, player.pause();)
@@ -248582,6 +248553,9 @@ scmp.com##+js(remove-cookie, __adblocker)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/33441
 opatil.com##+js(rmnt, script, offsetParent)
+
+! https://github.com/uBlockOrigin/uAssets/issues/33456
+tieulam.info##+js(no-fetch-if, adsbygoogle, war:googlesyndication_adsbygoogle.js)
 
 
 ! ==========================================
@@ -268719,7 +268693,7 @@ bing.com##+js(href-sanitizer, body a[href^="/rebates/welcome?url=http"], ?url)
 ||click.trafficguard.ai/*^lpurl=http$doc,urlskip=?lpurl
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/1h62o3m/provide_a_clean_url_for_strict_blocks/
-||awstrack.me/L0/http$doc,urlskip=/\/L0\/(http[^\/?#]+)/ -uricomponent -blocked
+||awstrack.me/L0/http$doc,urlskip=/\/L0\/(http[^\/?#]+)/ -uricomponent
 
 ! https://forums.malwarebytes.com/topic/283053-legitimate-weblink-from-soundcloud-blocked/
 ||gate.sc^*url=http$doc,urlskip=?url
@@ -271496,7 +271470,7 @@ game8.jp#@#.track_mario
 allporncomic.com#@#iframe
 
 ! https://github.com/uBlockOrigin/uAssets/issues/33280
-streamcash.to##+js(trusted-replace-argument, document.getElementById, 0, "", condition, /^[a-z0-9]{6}$/)
+streamcash.to##+js(trusted-replace-argument, document.querySelector, 0, '', condition, /^\[id\=\"[0-9a-z]{10}\"\]$/)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/33449
 zpaste.net#@#+js(set-constant, Document.prototype.createElement.call, noopFunc)
