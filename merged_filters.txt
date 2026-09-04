@@ -35143,7 +35143,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 ||electricfencing.co.uk/prnewsletterpopup/
 ||ewnews.com/wp-content/themes/dw-focus/newsletter.png
 ||form.flodesk.com^$domain=stacker.com
-||form.jotform.com^$domain=premierchristian.news
 ||forms-content.sg-form.com^$domain=12tomatoes.com
 ||forms.aweber.com^$domain=thetruthaboutguns.com
 ||forms.blackhawks.com/newsletter-signup$subdocument
@@ -35154,6 +35153,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 ||inews.co.uk/wp-content/client-mu-plugins/piano/piano-loader.js
 ||insidesources.com/wp-content/themes/insidesources/js/jquery.fancybox.js
 ||irishstar.com/newsletter-preference-centre
+||jotform.com^$domain=discoverwildlife.com|premierchristian.news
 ||listrakbi.com^$script,domain=ruralking.com
 ||news.atptour.com/p/$subdocument
 ||nscreenmedia.com/wp-content/uploads/subscribe-nscreen-newsletter.jpg
@@ -52806,7 +52806,7 @@ reserveamerica.com##.acm-article-share
 marriott.com,sandiegouniontribune.com,walb.com##.action-bar
 greekcitytimes.com##.adasprso-inline-container
 wccftech.com##.add-google
-jalopnik.com##.add-on-google-widget
+bgr.com,chowhound.com,engadget.com,foodie.com,foodrepublic.com,gardenguides.com,glam.com,grunge.com,housedigest.com,hunker.com,islands.com,jalopnik.com,looper.com,nickiswift.com,planetware.com,sciencing.com,slashfilm.com,slashgear.com,thedailymeal.com,thelist.com,thetakeout.com,tvline.com,women.com,wrestlinginc.com##.add-on-google-widget
 consequence.net##.add-to-google
 usmagazine.com##.add-to-google-banner
 womansworld.com##.add-to-google-banner__wrapper___1PWZa
@@ -71627,6 +71627,7 @@ browsershots.org#@#.advert_area
 ||071kk.com^
 ||077ef2133b.com^
 ||07b5ec4fa6.com^
+||07bfd39c76.com^
 ||0832fddfc8.com^
 ||08675bd78b.com^
 ||087f389ba8.com^
@@ -71707,6 +71708,7 @@ browsershots.org#@#.advert_area
 ||127e2202ec.com^
 ||12b500858d.com^
 ||12ezo5v60.com^
+||12jwe4flx3eu73vp8.cfd^
 ||12xlwin4m.com^
 ||130gelh8q.de^
 ||132delta.net^
@@ -71717,6 +71719,7 @@ browsershots.org#@#.advert_area
 ||1355768492.com^
 ||13728c1810.com^
 ||137kfj65k.de^
+||138d525093.com^
 ||138d93d65a.com^
 ||13fbbc0ff4.com^
 ||13juk6f4qujcon697yuxhwy9tbi9pckz7rb.cfd^
@@ -74036,6 +74039,7 @@ browsershots.org#@#.advert_area
 ||afwfwhqmvjgmo.online^
 ||afwveqtngyjxs.site^
 ||afy.agency^
+||afzaspjhyo.in^
 ||afzehmazj.com^
 ||agaarvusbarpp.space^
 ||agacelebir.com^
@@ -74285,6 +74289,7 @@ browsershots.org#@#.advert_area
 ||ajgsadialtyzq.store^
 ||ajhcicem.com^
 ||ajidwxdtp.com^
+||ajjkmooarokv.top^
 ||ajjlasruwwrlt.store^
 ||ajlsatad.in^
 ||ajmivgvmaclye.online^
@@ -74360,6 +74365,7 @@ browsershots.org#@#.advert_area
 ||alangcoffee.cyou^
 ||alangharmer.shop^
 ||alangoverawn.qpon^
+||alaninesopites.shop^
 ||alaninesturt.shop^
 ||alaninscaraipeterrar.cyou^
 ||alantintenants.cyou^
@@ -74823,6 +74829,7 @@ browsershots.org#@#.advert_area
 ||antiquepillar.com^
 ||antiquerelation.com^
 ||antiqueskinnyminute.com^
+||antirunvoted.cfd^
 ||antirustexistingtaking.com^
 ||antiwargorgonseburine.cyou^
 ||antlerlode.com^
@@ -75202,6 +75209,7 @@ browsershots.org#@#.advert_area
 ||as5000.com^
 ||asacdn.com^
 ||asafesite.com^
+||asanahoked.cyou^
 ||asaumbakblnpj.space^
 ||asaumpimlqysg.site^
 ||asaunmavgitw.com^
@@ -77637,6 +77645,7 @@ browsershots.org#@#.advert_area
 ||bromoilnapalms.com^
 ||bromuscodrus.qpon^
 ||bronca.site^
+||bronxmavie.shop^
 ||bronzesong.pro^
 ||broodbelongminiature.com^
 ||broodoppressiveuptodate.com^
@@ -78558,6 +78567,7 @@ browsershots.org#@#.advert_area
 ||ccn08sth.de^
 ||ccncyngyyiwpz.space^
 ||ccpdaindrmyyx.online^
+||ccqfqdwfdcvjo.online^
 ||ccrdcfkugujnl.space^
 ||ccshymxkbepsl.online^
 ||cctblmittniqn.space^
@@ -79038,6 +79048,7 @@ browsershots.org#@#.advert_area
 ||churnedtention.qpon^
 ||churneruncowl.cfd^
 ||churroautre.cyou^
+||chutedbeento.cfd^
 ||chvvodcmswbgfl.com^
 ||chxfqemkekb.com^
 ||chxknzcvpciju.site^
@@ -79501,6 +79512,7 @@ browsershots.org#@#.advert_area
 ||coateenocking.cyou^
 ||coationsundown.cyou^
 ||coatsanguine.com^
+||coaxedmastkilobar.qpon^
 ||coaxyweans.cyou^
 ||coazdbbxocvgi.site^
 ||coazoveekjecr.space^
@@ -79810,6 +79822,7 @@ browsershots.org#@#.advert_area
 ||consolevolcano.com^
 ||constantlyauthoritativegradually.com^
 ||constellationexclusion.com^
+||consterabsmho.shop^
 ||consternationeffaceearlier.com^
 ||constructpreachystopper.com^
 ||consulsdealate.cyou^
@@ -79943,6 +79956,7 @@ browsershots.org#@#.advert_area
 ||coragefugging.shop^
 ||corajigustful.qpon^
 ||coralcanarydepend.com^
+||coramfendy.qpon^
 ||corantotailagedogtie.qpon^
 ||corbedpeckers.com^
 ||corbinatoda.cfd^
@@ -80590,6 +80604,7 @@ browsershots.org#@#.advert_area
 ||curatnestful.com^
 ||curberstownletwur.qpon^
 ||curchesophitic.cfd^
+||curerowland.com^
 ||curiaradiazole.cfd^
 ||curiaraewery.cfd^
 ||curiarawolfkin.com^
@@ -82265,6 +82280,7 @@ browsershots.org#@#.advert_area
 ||dowageenjaillasers.cyou^
 ||dowagergalera.cfd^
 ||dowarmhugo.com^
+||doweralloggia.com^
 ||dowerdentileens.cyou^
 ||dowerycleared.com^
 ||dowietampoonjuglans.cfd^
@@ -83417,6 +83433,7 @@ browsershots.org#@#.advert_area
 ||eeaeghdfwnjnz.site^
 ||eealrrwurmesx.space^
 ||eeawcdhxtjmkb.site^
+||eebd3c4c48.com^
 ||eebivsjgsjktp.store^
 ||eechicha.com^
 ||eeco.xyz^
@@ -83611,6 +83628,7 @@ browsershots.org#@#.advert_area
 ||ejgmkvprpjqww.site^
 ||ejihhtgvjeglq.online^
 ||ejjhnqgrmrrlh.space^
+||ejky29he9e4ek7.cfd^
 ||ejlqdcyrjsakh.site^
 ||ejnhzgcgazhjl.site^
 ||ejnjjqepwavf.com^
@@ -84944,6 +84962,7 @@ browsershots.org#@#.advert_area
 ||farriercategoryidentifier.com^
 ||fartmoda.com^
 ||fartsathel.qpon^
+||fartsrainout.cyou^
 ||fascespro.com^
 ||fasciaesleave.qpon^
 ||fascismmuchly.shop^
@@ -87030,6 +87049,7 @@ browsershots.org#@#.advert_area
 ||gffggfxim.com^
 ||gffoycbmmfptr.space^
 ||gfglsjrfdxvte.website^
+||gfgobwcfaophx.site^
 ||gfhgxmczmrcda.site^
 ||gfhhghnduzqiq.site^
 ||gfkfqilsulylx.website^
@@ -89686,6 +89706,7 @@ browsershots.org#@#.advert_area
 ||hymnxxeqbnrjy.site^
 ||hynvvtkmdvjdv.website^
 ||hynycrgzzevgb.space^
+||hyoidalbedder.cyou^
 ||hypemakers.net^
 ||hyperanodizereer.com^
 ||hyperbanner.net^
@@ -89826,6 +89847,7 @@ browsershots.org#@#.advert_area
 ||icowfqutnpsfm.online^
 ||icowhojcnqnuz.space^
 ||icqpgnbeifefi.website^
+||ictfhqpegutep.site^
 ||ictuatecatharanthood.cyou^
 ||ictuizwgjgozv.website^
 ||icubeswire.co^
@@ -89858,6 +89880,7 @@ browsershots.org#@#.advert_area
 ||idgxgsfkkrbhdyg.com^
 ||idhoyoadekuzf.website^
 ||idimquynuaxkm.space^
+||idiomapron.com^
 ||idiomsettler.cfd^
 ||idkaawqep.com^
 ||idkcmqzzrnq.com^
@@ -90702,6 +90725,7 @@ browsershots.org#@#.advert_area
 ||intuitionlastly.com^
 ||intwineblindsgrim.cfd^
 ||inuadasonqefk.website^
+||inulasebortsch.shop^
 ||inurebolded.cfd^
 ||inurneddoggish.com^
 ||inutilecooeed.cyou^
@@ -91309,6 +91333,7 @@ browsershots.org#@#.advert_area
 ||jbbyyryolmlvq.top^
 ||jbbyyryywmkkb.top^
 ||jbcekxybbwsbz.website^
+||jbchzbhwbtvvt.site^
 ||jbcotssmdjetb.site^
 ||jbeecljo.com^
 ||jbkdjuxuymejr.site^
@@ -91465,6 +91490,7 @@ browsershots.org#@#.advert_area
 ||jfllppccauvpj.online^
 ||jflmhtxvgslfe.space^
 ||jfmwbodrxwpru.online^
+||jfneispdtvowp.site^
 ||jfqqvtevayyfm.online^
 ||jfrthphciuxjk.website^
 ||jfrtopxglnetf.online^
@@ -92325,6 +92351,7 @@ browsershots.org#@#.advert_area
 ||kathrynnubbierbdft.cfd^
 ||katinkacerumen.qpon^
 ||katldpsrjggef.space^
+||katsdisk.cfd^
 ||kaubapsy.com^
 ||kaudawwhwjllo.site^
 ||kaushooptawo.net^
@@ -92879,6 +92906,7 @@ browsershots.org#@#.advert_area
 ||knxnrqidbmlen.site^
 ||knxvgbbvpymdke.com^
 ||knyhnvzqbsqdc.website^
+||knyyuoxxglvqb.space^
 ||knzvoajcwwuvg.store^
 ||knzxskwpxfpij.site^
 ||knzympordzwua.website^
@@ -93073,6 +93101,7 @@ browsershots.org#@#.advert_area
 ||ksxqznsgtwfiz.space^
 ||ksxteldtlbtss.website^
 ||kszrmrhuwgrsy.website^
+||ktaeeijijmbx.com^
 ||ktceuakfbblrx.store^
 ||ktcnisakfzhzc.online^
 ||ktdxuexumxvji.space^
@@ -93431,6 +93460,7 @@ browsershots.org#@#.advert_area
 ||larariawirdholiday.qpon^
 ||larasub.conxxx.pro^
 ||larchesrotates.com^
+||lardedjubas.shop^
 ||lardedronnels.cyou^
 ||lardrymizzenspointel.cfd^
 ||lardylathercenter.com^
@@ -94201,6 +94231,7 @@ browsershots.org#@#.advert_area
 ||lleana.com^
 ||lleusudoral.shop^
 ||llfmhykgqdue.com^
+||llfomyqtmwmmj.online^
 ||llfpaondsunun.site^
 ||llfyjvskyxnsv.site^
 ||llglxmzxsmcgo.space^
@@ -94673,6 +94704,7 @@ browsershots.org#@#.advert_area
 ||luckydefinition.pro^
 ||luckyforbet.com^
 ||lucrespataoinner.cfd^
+||lucrifystealy.cfd^
 ||lucrinearraign.com^
 ||lucrinefracas.qpon^
 ||ludopope.qpon^
@@ -96199,6 +96231,7 @@ browsershots.org#@#.advert_area
 ||momotusreddles.cyou^
 ||momrollback.com^
 ||momusesconrail.cyou^
+||monacandoormat.qpon^
 ||monadplug.com^
 ||monalgarters.cyou^
 ||monarchycurrencyinjury.com^
@@ -96855,6 +96888,7 @@ browsershots.org#@#.advert_area
 ||mysmbkoapuust.website^
 ||mysterious-emotion.com^
 ||mysterysaunaawkward.com^
+||mysticmodelsgrieced.cyou^
 ||mysticomen.com^
 ||mysweet-flirts-hubs.com^
 ||mytdsnet.com^
@@ -96930,6 +96964,7 @@ browsershots.org#@#.advert_area
 ||nagaikaslojd.com^
 ||naganasturvy.cfd^
 ||naggingdocumentationgrow.com^
+||naggingver.shop^
 ||nagingfinns.shop^
 ||nagmaalslapdab.com^
 ||nagolympics.com^
@@ -97045,6 +97080,7 @@ browsershots.org#@#.advert_area
 ||nauseasorache.com^
 ||nauseousemerge.com^
 ||nauseousrocketjosephine.com^
+||nausitygrimly.com^
 ||nauticalgelatine.com^
 ||nauticalhair.com^
 ||nauticaloffice.com^
@@ -97141,6 +97177,7 @@ browsershots.org#@#.advert_area
 ||ndhvcwnczxupa.online^
 ||ndifzhemlnlop.space^
 ||ndkdobohmlqxw.website^
+||ndoqxebszxnsc.site^
 ||ndourapfeafmy.space^
 ||ndprocesosfultr.org^
 ||ndqpopziznuuq.space^
@@ -97766,6 +97803,7 @@ browsershots.org#@#.advert_area
 ||noqxfuqrbngpi.space^
 ||norahtomes.shop^
 ||noretia.com^
+||norirenewal.cfd^
 ||normal-place.com^
 ||normallydemandedalter.com^
 ||normalmotor.com^
@@ -98502,6 +98540,7 @@ browsershots.org#@#.advert_area
 ||oeyqfwftrbzvh.space^
 ||of-bo.com^
 ||of-results.com^
+||of6492j4hoi5ye9y25.rest^
 ||ofaskphdspgqe.online^
 ||ofbcfjafesiuu.website^
 ||ofbdaktxxxldn.space^
@@ -98643,6 +98682,7 @@ browsershots.org#@#.advert_area
 ||ohfuuzzotyffr.online^
 ||ohganpxujow.in^
 ||ohgbefqegvejj.store^
+||ohgdobrsxkwcj.site^
 ||ohgriforkvan.com^
 ||ohgwkaedrbujt.website^
 ||ohhkcjqjwjgid.space^
@@ -99057,6 +99097,7 @@ browsershots.org#@#.advert_area
 ||optionsdisk.com^
 ||optionupcast.shop^
 ||optnx.com^
+||optnztbbvkaao.online^
 ||optraising.com^
 ||optungjyfustb.space^
 ||optvz.com^
@@ -99924,6 +99965,7 @@ browsershots.org#@#.advert_area
 ||pasttrust.com^
 ||pastunit.pro^
 ||pastureoriental.com^
+||paswtpetmblqd.site^
 ||pasxfixs.com^
 ||patacabowsery.cyou^
 ||patacajabia.com^
@@ -100523,6 +100565,7 @@ browsershots.org#@#.advert_area
 ||pibikakrg.com^
 ||pic2host.icu^
 ||picamarchatti.qpon^
+||picardroanoke.cyou^
 ||picarossuccubi.cfd^
 ||picheytaxemesaurian.cyou^
 ||pichost24.club^
@@ -101293,6 +101336,7 @@ browsershots.org#@#.advert_area
 ||pplvsszskf.com^
 ||pplwjjpkrxcqm.site^
 ||ppnocdzdwlvpk.space^
+||ppnqpjpjfkiqh.space^
 ||ppovbdxry.com^
 ||pppbr.com^
 ||pppbwjjikbotk.online^
@@ -101956,6 +102000,7 @@ browsershots.org#@#.advert_area
 ||pugliason.cfd^
 ||pugmarktagua.com^
 ||pugreeakoleftish.qpon^
+||pugreehordegeopony.qpon^
 ||puhtml.com^
 ||puhvfc7n5t7gvf92t6vh.cfd^
 ||puhyjyf.com^
@@ -102154,6 +102199,7 @@ browsershots.org#@#.advert_area
 ||pvuznrtadztxu.space^
 ||pvvkigebunabd.site^
 ||pvzesryoifiit.online^
+||pwaefamkqslht.site^
 ||pwbxyinigxrju.website^
 ||pwfwyafdfwwiq.site^
 ||pwgp5xyv24j4njib.cfd^
@@ -102542,6 +102588,7 @@ browsershots.org#@#.advert_area
 ||qknfphbmncxdc.online^
 ||qkosavpevkjzc.site^
 ||qkplapmvmbtbj.online^
+||qkqlqjbbwjob.top^
 ||qkrajptqgetsb.online^
 ||qkrfmiemfqble.site^
 ||qksrv.net^
@@ -102990,6 +103037,7 @@ browsershots.org#@#.advert_area
 ||qwvvoallwekr.top^
 ||qwwrqxlbplpws.website^
 ||qwxhqxbubtnay.site^
+||qwxjloqrytusf.online^
 ||qwxolavxykodb.site^
 ||qwyvmjkayeyez.top^
 ||qwzly.com^
@@ -103832,6 +103880,7 @@ browsershots.org#@#.advert_area
 ||repuremucro.qpon^
 ||repurgedombeya.cfd^
 ||requestinclude.com^
+||requinsrepure.shop^
 ||required-crack.pro^
 ||requisitezap.com^
 ||rereddit.com^
@@ -104308,6 +104357,7 @@ browsershots.org#@#.advert_area
 ||rkmdodaubyhyp.space^
 ||rknscandisvqp.space^
 ||rkomf.com^
+||rkouo3tk9izfkr.rest^
 ||rkpysrmmnhhwi.online^
 ||rkqfgycnzlatb.online^
 ||rkqukvcjklmns.site^
@@ -106387,6 +106437,7 @@ browsershots.org#@#.advert_area
 ||sinnerhealthypoured.com^
 ||sinningzimmi.com^
 ||sinologtrumph.shop^
+||sinonneurism.com^
 ||sinproductors.org^
 ||sintersstott.shop^
 ||sintudruses.cyou^
@@ -106529,6 +106580,7 @@ browsershots.org#@#.advert_area
 ||skniymvvknmxx.space^
 ||sknujodgbpegrr.com^
 ||skrblsszekwia.online^
+||skreeghlexeme.qpon^
 ||sktjertughlc.com^
 ||skujrebczynhb.website^
 ||skullunrough.shop^
@@ -106718,6 +106770,7 @@ browsershots.org#@#.advert_area
 ||smart2cnjuh34jb.com^
 ||smartadserver.com^
 ||smartcpatrack.com^
+||smartkarosclaps.cfd^
 ||smarttds.org^
 ||smarttopchain.nl^
 ||smartytech.io^
@@ -107206,6 +107259,7 @@ browsershots.org#@#.advert_area
 ||spermaousia.cfd^
 ||speronwombier.shop^
 ||spevybdnwkzzd.space^
+||spewsweirderhumbug.cfd^
 ||spfuiiitfethh.site^
 ||spherepsoai.com^
 ||spheretownish.cfd^
@@ -108831,6 +108885,7 @@ browsershots.org#@#.advert_area
 ||telsoncirrus.cfd^
 ||teltdnnvbbmxq.online^
 ||teltlowlier.com^
+||tembecacao.cfd^
 ||temksrtd.net^
 ||temperaturebassaccidentally.com^
 ||tempercurtexperimental.com^
@@ -108850,6 +108905,7 @@ browsershots.org#@#.advert_area
 ||tendencyvalleysrod.com^
 ||tendrelbeddedovality.qpon^
 ||tendrelkoelsbraider.cfd^
+||tendrongiantry.com^
 ||tenebracaption.cfd^
 ||teneralrespice.cyou^
 ||tenlets.com^
@@ -108867,6 +108923,7 @@ browsershots.org#@#.advert_area
 ||tentaclespencil.com^
 ||tentilyrouth.qpon^
 ||tentionswaver.qpon^
+||tentsanabas.shop^
 ||teoaxzazksyuo.site^
 ||teotnajhxmwts.site^
 ||tepasricksvet.qpon^
@@ -109042,6 +109099,7 @@ browsershots.org#@#.advert_area
 ||these-catch.pro^
 ||these-organization.pro^
 ||thesisadornpathetic.com^
+||thetiskikuyu.com^
 ||thetrendytales.com^
 ||theweblocker.net^
 ||thewrazeingparrots.cyou^
@@ -109611,6 +109669,7 @@ browsershots.org#@#.advert_area
 ||topodat.info^
 ||toppedochre.qpon^
 ||topperanlases.com^
+||toppersbramah.qpon^
 ||topprofitablecpm.com^
 ||topprofitablegate.com^
 ||toppyswedge.shop^
@@ -110365,6 +110424,7 @@ browsershots.org#@#.advert_area
 ||twbzhzsfluorp.website^
 ||twctduiyoykcl.online^
 ||tweadsialing.com^
+||tweakerchopine.qpon^
 ||tweakersaturyyachter.cfd^
 ||tweakjerk.com^
 ||tweakpersuadelowest.com^
@@ -112409,6 +112469,7 @@ browsershots.org#@#.advert_area
 ||vividwithmainstay.net^
 ||vivifysation.shop^
 ||vivodemisrentas.net^
+||vivrefrailer.cyou^
 ||vivresint.cfd^
 ||vivxuzpwao.in^
 ||vizardpurdas.shop^
@@ -112934,6 +112995,7 @@ browsershots.org#@#.advert_area
 ||w6xwt2ygfq2o5z95.cfd^
 ||w7p7mb2zt52xrl7yxokc.cfd^
 ||waacglost.qpon^
+||wabayoagrest.com^
 ||wabewxwoytqpi.website^
 ||wabifuzzily.qpon^
 ||wabkutohq.in^
@@ -113028,6 +113090,7 @@ browsershots.org#@#.advert_area
 ||wandgigful.cfd^
 ||wandgleaming.com^
 ||wandlbbeuwauj.store^
+||wandoodeistcalzone.cyou^
 ||wandookickup.qpon^
 ||waneycany.com^
 ||wangfenxi.com^
@@ -113241,6 +113304,7 @@ browsershots.org#@#.advert_area
 ||wdaybyzzjnpri.online^
 ||wdbbnerscjscs.space^
 ||wdbecodqxlyuu.site^
+||wdciliercqndn.site^
 ||wdczlavbweeby.online^
 ||wdemwdmwehswi.online^
 ||wdgqhgmczfdrb.website^
@@ -113693,6 +113757,7 @@ browsershots.org#@#.advert_area
 ||widdlearuspex.cfd^
 ||wide-mine.pro^
 ||wideeyed-stay.com^
+||widenedcurfs.cyou^
 ||wideprophetbeast.com^
 ||widespreadcomponent.com^
 ||widgetbucks.com^
@@ -114337,6 +114402,7 @@ browsershots.org#@#.advert_area
 ||wtatrrum.net^
 ||wtbhopinrcyex.site^
 ||wtcailhxmpge.com^
+||wtcvyejnenxep.space^
 ||wtdpgptogzgauz.com^
 ||wtdshzjdlppil.online^
 ||wtdttepdbcpnx.site^
@@ -114532,6 +114598,7 @@ browsershots.org#@#.advert_area
 ||wzuarqzexkjiy.website^
 ||wzutebvjpxwwu.site^
 ||wzvqgevepjmwi.online^
+||wzwhvquciwzsst.com^
 ||wzwndbifflvvw.website^
 ||wzxxconhwowni.space^
 ||wzz46x8e.xyz^
@@ -129182,6 +129249,7 @@ the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie##.customiser-v2-layout-1
 the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie##.customiser-v2-layout-three-native-ad-container
 f150lightningforum.com##.customizedBox
 coincarp.com##.customspon
+stuff.co.nz##.cw-hp-top-banner-container
 citywire.com##.cw-top-advert
 futurecurrencyforecast.com##.cwc-tor-widget
 marketwatch.com##.cxense-loading
@@ -134473,6 +134541,7 @@ themarysue.com##.primis-player-container
 eurogamer.net##.primis_wrapper
 iheart.com##.provider-stn
 businessinsider.com##.rail.has-video-ad
+foodrepublic.com,hunker.com,islands.com,mashed.com,nickiswift.com,thelist.com##.raptive-video-player
 pedestrian.tv##.recent-jobs-widget
 kidspot.com.au##.secondary-video
 ootrandomizer.com##.slot-top-video
@@ -141083,6 +141152,7 @@ omni.soundestlink.com$image
 ||g2575096355.co^
 ||g594253006.co^
 ||g792337340.co^
+||g792337341.co^
 ||g792337342.co^
 ||g792337343.co^
 ||g8715710740.co^
@@ -144712,6 +144782,7 @@ omni.soundestlink.com$image
 ||dicecandies.com^
 ||difficultfog.com^
 ||digestiondrawer.com^
+||digitalatticnewsletter.com^
 ||digitalblend.net^
 ||digithalo.com^
 ||digitizedcopy.com^
@@ -155091,7 +155162,7 @@ bolighub.dk##+js(acs, document.getElementsByTagName, gtm.js)
 ||static.chartbeat.com/js/chartbeat_mab.js$redirect=chartbeat.js,script
 ! Admiral
 247sports.com,al.com,arstechnica.com,bringmethenews.com,cattime.com,cbr.com,cheatsheet.com,collider.com,comingsoon.net,crooksandliars.com,cwtv.com,dogtime.com,esportstales.com,forums.hfboards.com,freep.com,fresnobee.com,gamerant.com,gbatemp.net,golfdigest.com,grabify.link,hancinema.net,hemmings.com,howtogeek.com,ijr.com,informazionefiscale.it,inquirer.net,insider-gaming.com,knowyourmeme.com,magesypro.pro,makeuseof.com,mlive.com,money.it,motorbiscuit.com,movieweb.com,nationalreview.com,nbcnews.com,neopets.com,nofilmschool.com,nypost.com,omg.blog,order-order.com,oregonlive.com,pcwelt.de,pennlive.com,playstationlifestyle.net,pwinsider.com,savvytime.com,screenrant.com,siliconera.com,simpleflying.com,sporcle.com,stealthoptional.com,techlicious.com,technicpack.net,thedraftnetwork.com,thefashionspot.com,thegamer.com,thelayoff.com,thenerdstash.com,theprovince.com,titantv.com,topspeed.com,twinfinite.net,videogamer.com,webmail.wiki,wnd.com,worldpopulationreview.com,wral.com,wrestlezone.com,wrestlinginc.com,xda-developers.com##+js(acs, document.createElement, admiral)
-10tv.com,11alive.com,12news.com,12newsnow.com,13newsnow.com,13wmaz.com,5newsonline.com,9news.com,abc10.com,al.com,apnews.com,artforum.com,artnews.com,billboard.com,birdsandblooms.com,calgaryherald.com,calgarysun.com,cbs19.tv,cbs8.com,cleveland.com,crooksandliars.com,deadline.com,dpreview.com,driving.ca,familyhandyman.com,financialpost.com,firstcoastnews.com,fox43.com,fox61.com,goldderby.com,golfdigest.com,hollywoodreporter.com,indiewire.com,kare11.com,kcentv.com,kens5.com,kgw.com,kiiitv.com,king5.com,krem.com,ktvb.com,kvue.com,lehighvalleylive.com,lfpress.com,localmemphis.com,masslive.com,myfoxzone.com,nationalpost.com,nbcsports.com,newscentermaine.com,newswest9.com,nj.com,oregonlive.com,ottawacitizen.com,ottawasun.com,rd.com,robbreport.com,rollingstone.com,sherdog.com,sidereel.com,superherohype.com,syracuse.com,tasteofhome.com,techcrunch.com,thehealthy.com,thv11.com,torontosun.com,vancouversun.com,variety.com,vibe.com,wbir.com,wcnc.com,weareiowa.com,wfaa.com,wfmynews2.com,wgrz.com,whas11.com,windsorstar.com,wkyc.com,wltx.com,wnep.com,wqad.com,wthr.com,wtol.com,wtsp.com,wusa9.com,wwd.com,wwltv.com,wzzm13.com##+js(acs, document.getElementsByTagName, .pubads)
+10tv.com,11alive.com,12news.com,12newsnow.com,13newsnow.com,13wmaz.com,5newsonline.com,9news.com,abc10.com,al.com,apnews.com,artforum.com,artnews.com,billboard.com,birdsandblooms.com,calgaryherald.com,calgarysun.com,cbs19.tv,cbs8.com,cleveland.com,crooksandliars.com,deadline.com,dpreview.com,driving.ca,familyhandyman.com,financialpost.com,firstcoastnews.com,fox43.com,fox61.com,futbin.com,goldderby.com,golfdigest.com,gulflive.com,hollywoodreporter.com,indiewire.com,kare11.com,kcentv.com,kens5.com,kgw.com,kiiitv.com,king5.com,krem.com,ktvb.com,kvue.com,lehighvalleylive.com,lfpress.com,localmemphis.com,masslive.com,myfoxzone.com,nationalpost.com,nbcsports.com,newscentermaine.com,newswest9.com,nj.com,oregonlive.com,ottawacitizen.com,ottawasun.com,rd.com,robbreport.com,rollingstone.com,sherdog.com,sidereel.com,superherohype.com,syracuse.com,tasteofhome.com,techcrunch.com,thehealthy.com,thv11.com,torontosun.com,vancouversun.com,variety.com,vibe.com,wbir.com,wcnc.com,weareiowa.com,wfaa.com,wfmynews2.com,wgrz.com,whas11.com,windsorstar.com,wkyc.com,wltx.com,wnep.com,wqad.com,wthr.com,wtol.com,wtsp.com,wusa9.com,wwd.com,wwltv.com,wzzm13.com##+js(acs, document.getElementsByTagName, .pubads)
 ranker.com##+js(aost, HTMLElement.prototype.insertBefore, /[A-Z] .+chunks\/\d{4}\./)
 reuters.com##+js(aost, admiral, .js?)
 al.com,attackofthefanboy.com,beavertonvalleytimes.com,destructoid.com,edmontonsun.com,gamepur.com,gamerjournalist.com,gameskinny.com,lehighvalleylivecom,lgbtqnation.com,macwelt.de,masslive.com,mlive.com,news8000.com,nj.com,oregonlive.com,pcwelt.de,pennlive.com,portlandtribune.com,primagames.com,progameguides.com,queerty.com,siliconera.com,silive.com,sporcle.com,techcrunch.com,thebeenews.com,themarysue.com,theoutlookonline.com,touchtapplay.com,wegotthiscovered.com##+js(aost, decodeURI, /(?=^(?!.*\.js))/)
@@ -155099,7 +155170,7 @@ mensjournal.com##+js(json-edit, ..props.children.*[?.key=="admiral-script"])
 247sports.com,cbsnews.com,cbssports.com,indiewire.com,nypost.com,pagesix.com,pennlive.com##+js(rmnt, script, '"data-adm-url"')
 abc17news.com,al.com,artforum.com,artnews.com,awkward.com,awkwardmom.com,bailiwickexpress.com,barnsleychronicle.com,becomingpeculiar.com,bethcakes.com,blogher.com,bluegraygal.com,briefeguru.de,carmagazine.co.uk,cattime.com,cbr.com,chaptercheats.com,collider.com,comingsoon.net,commercialobserver.com,competentedigitale.ro,crafty.house,dailyvoice.com,decider.com,didyouknowfacts.com,dogtime.com,dualshockers.com,dustyoldthing.com,faithhub.net,femestella.com,footwearnews.com,freeconvert.com,frogsandsnailsandpuppydogtail.com,fsm-media.com,funtasticlife.com,fwmadebycarli.com,gamerant.com,gfinityesports.com,givemesport.com,gulflive.com,helloflo.com,homeglowdesign.com,honeygirlsworld.com,hotcars.com,howtogeek.com,insider-gaming.com,insurancejournal.com,jasminemaria.com,kion546.com,lehighvalleylive.com,lettyskitchen.com,lifeinleggings.com,liveandletsfly.com,lizzieinlace.com,localnews8.com,lonestarlive.com,madeeveryday.com,maidenhead-advertiser.co.uk,makeuseof.com,mardomreport.net,melangery.com,milestomemories.com,mlive.com,modernmom.com,momtastic.com,mostlymorgan.com,motherwellmag.com,movieweb.com,muddybootsanddiamonds.com,musicfeeds.com.au,nationalreview.com,nj.com,nordot.app,nothingbutnewcastle.com,nsjonline.com,oakvillenews.org,observer.com,pagesix.com,pennlive.com,pinkonthecheek.com,predic.ro,puckermom.com,qtoptens.com,realgm.com,robbreport.com,royalmailchat.co.uk,samchui.com,sandrarose.com,screenrant.com,sheknows.com,sherdog.com,sidereel.com,simpleflying.com,sloughexpress.co.uk,spacenews.com,sportsgamblingpodcast.com,spotofteadesigns.com,ssnewstelegram.com,stacysrandomthoughts.com,superherohype.com,tablelifeblog.com,thebeautysection.com,thecelticblog.com,thecurvyfashionista.com,thefashionspot.com,thegamer.com,thenerdyme.com,thenonconsumeradvocate.com,thethings.com,timesnews.net,topspeed.com,toyotaklub.org.pl,travelingformiles.com,tvline.com##+js(rmnt, script, '"v4ac1eiZr0"')
 baeldung.com,cheatsheet.com,pcwelt.de,pwinsider.com##+js(rmnt, script, admiral)
-gbatemp.net,usatoday.com##+js(set, admiral, noopFunc)
+cbssports.com,gbatemp.net,usatoday.com##+js(set, admiral, noopFunc)
 usatoday.com##+js(set, gnt.x.adm, '')
 ||operationsports.com/wp-json/navy/v1/tag?pid=
 ! noopjson
@@ -193866,7 +193937,7 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 ! --- Source: urlhaus-filter-online.txt ---
 ! ==========================================
 ! Title: Online Malicious URL Blocklist
-! Updated: 2026-09-03T00:10:16Z
+! Updated: 2026-09-04T00:06:36Z
 ! Expires: 12 hours (update frequency)
 ! Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 ! License: https://gitlab.com/malware-filter/urlhaus-filter#license
@@ -193883,7 +193954,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 101.126.11.168
 101.200.193.211
 101.200.220.118
-101.29.22.214
 101.35.56.7
 101.43.49.183
 102.212.61.41
@@ -193912,40 +193982,39 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 103.179.240.227
 103.187.151.107
 103.20.213.34
-103.203.210.102
 103.206.139.61
 103.209.67.34
 103.217.215.238
 103.226.124.232
-103.227.118.45
 103.231.14.104
 103.236.133.81
 103.236.135.177
 103.240.211.121
 103.245.10.51
+103.245.204.42
 103.247.164.242
-103.249.199.1
 103.36.80.114
 103.45.66.107
-103.54.153.49
+103.59.134.98
 103.68.95.197
 103.74.5.124
+103.8.112.154
+103.8.112.155
+103.8.112.156
 103.8.164.18
-103.80.57.126
 103.83.87.122
 103.90.206.87
+103.90.207.13
 103.90.207.234
+103.96.96.35
 104.168.4.206
 104.199.248.167
 105.184.31.171
 105.184.91.101
-105.186.83.56
-105.187.26.237
 106.14.58.169
 106.14.68.26
 106.15.6.205
 106.254.250.98
-106.40.243.20
 106.54.220.107
 106.54.223.106
 106.57.6.80
@@ -193958,8 +194027,8 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 107.175.88.87
 107.175.91.154
 107.180.89.159
+107.189.6.236
 107.198.40.184
-108.41.80.142
 108.61.166.232
 109.108.84.121
 109.160.87.2
@@ -193970,17 +194039,24 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 109.207.217.114
 109.236.46.215
 109.25.123.70
+109.69.79.44
 109.74.204.206
 109.92.143.90
-110.138.3.140
+110.139.35.220
 110.186.228.150
+110.93.196.173
 111.185.147.232
 111.235.143.155
 111.59.254.165
 111.74.21.155
+112.113.68.159
+112.163.117.220
+112.198.130.112
+112.198.186.249
 112.229.203.112
+112.230.155.183
 112.240.165.27
-112.242.152.173
+112.248.108.140
 112.248.143.116
 112.254.223.118
 112.254.25.161
@@ -193989,51 +194065,56 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 112.74.47.172
 113.160.251.236
 113.221.24.213
-113.221.58.41
 113.221.76.194
 113.225.35.229
+113.228.158.111
 113.229.179.183
 113.229.36.102
 113.229.49.112
 113.230.30.175
+113.231.108.98
 113.231.219.14
 113.231.227.45
 113.231.250.48
-113.231.84.91
 113.233.7.210
 113.236.123.97
 113.236.147.89
 113.236.67.209
 113.237.108.77
+113.237.54.47
 113.239.211.197
 113.254.36.153
 113.45.17.8
 114.129.49.131
 114.132.77.127
 114.226.119.232
+114.226.120.28
+114.226.24.72
 114.227.64.129
+114.228.186.181
+114.231.138.67
 114.55.106.136
 114.7.160.114
 114.7.209.193
 115.127.68.162
 115.159.149.113
 115.178.100.190
-115.190.161.178
 115.190.250.28
 115.240.70.185
-115.48.138.178
-115.48.40.92
-115.49.211.162
-115.49.73.224
-115.51.180.51
+115.48.54.18
+115.49.216.36
+115.51.63.21
 115.52.111.131
+115.54.133.39
+115.55.173.148
 115.55.190.64
 115.55.221.28
+115.55.244.240
 115.55.253.18
-115.57.254.136
-115.58.80.45
-115.60.221.175
-115.63.206.246
+115.57.80.149
+115.58.135.65
+115.62.181.25
+115.63.84.231
 116.118.47.149
 116.136.142.2
 116.138.96.149
@@ -194042,17 +194123,19 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 116.139.32.60
 116.15.188.27
 116.171.106.3
+116.2.43.97
 116.205.168.247
-116.58.51.90
 116.58.62.74
 116.86.50.18
 116.90.225.193
 116.90.236.250
 117.131.92.150
 117.157.17.194
+117.20.17.17
 117.20.27.25
-117.216.139.127
+117.215.129.223
 117.240.155.245
+117.252.240.213
 117.72.181.104
 117.72.242.9
 118.139.167.36
@@ -194070,15 +194153,17 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 118.70.244.17
 118.71.250.6
 118.89.88.183
-119.115.36.109
+119.109.212.54
+119.114.224.187
 119.116.121.152
 119.116.141.41
 119.116.166.106
 119.116.93.73
-119.117.74.66
 119.118.55.26
 119.165.89.154
 119.166.194.8
+119.179.251.19
+119.179.254.3
 119.179.30.73
 119.192.128.163
 119.193.158.215
@@ -194087,18 +194172,20 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 119.91.141.214
 120.26.166.249
 120.26.66.176
+120.28.161.11
 120.28.189.248
-120.28.194.30
 120.28.199.24
+120.28.201.138
 120.28.218.170
 120.46.12.14
 120.46.15.254
 120.71.0.131
+120.76.143.184
 120.77.1.20
 120.77.237.174
 120.77.79.42
 120.79.64.164
-120.84.213.26
+120.84.213.157
 120.84.214.107
 120.84.214.221
 121.101.79.178
@@ -194124,30 +194211,25 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 122.170.8.40
 122.179.136.112
 122.201.25.95
+122.233.29.62
+122.241.130.212
 122.99.60.138
-123.10.225.139
 123.11.11.52
 123.11.7.143
 123.117.136.97
-123.12.158.240
-123.129.134.33
-123.13.27.188
 123.132.166.255
+123.14.81.41
 123.143.141.75
 123.161.90.221
-123.172.56.34
-123.188.42.78
 123.188.64.124
-123.188.72.146
-123.189.129.48
+123.188.64.71
 123.189.134.98
+123.189.150.115
 123.190.104.168
-123.190.23.212
 123.190.6.182
 123.232.43.185
-123.245.99.52
 123.249.20.250
-123.252.17.79
+123.5.152.25
 123.57.250.154
 123.57.51.183
 123.8.80.73
@@ -194156,32 +194238,38 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 124.135.10.58
 124.223.105.161
 124.230.216.19
+124.234.200.151
+124.235.130.21
 124.235.169.39
+124.36.156.140
 124.44.3.74
 124.6.167.121
+124.6.169.46
 124.6.185.132
 124.66.99.102
 124.67.254.109
 124.94.194.151
 124.94.223.135
+125.110.49.63
+125.160.139.10
 125.253.125.72
 125.40.74.144
-125.41.211.58
-125.42.14.164
 125.43.45.149
 125.43.8.244
-125.44.39.235
 125.46.214.183
-125.47.249.24
+125.46.234.68
 126.23.203.236
 126.76.103.220
 129.152.20.82
 13.113.8.105
 13.71.2.244
+130.12.182.128
 130.12.182.175
+130.12.209.147
 130.12.46.45
 130.185.193.208
 130.61.147.74
+131.108.39.235
 132.247.103.239
 132.255.192.122
 132.red-81-42-249.staticip.rima-tde.net
@@ -194198,14 +194286,12 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 139.159.233.200
 139.196.111.118
 139.198.15.223
-14-0-204-188.static.pccw-hkt.com
-14.0.204.188
 14.142.209.198
 14.161.6.225
+14.224.205.246
 140.238.229.80
 141.11.100.247
 141.134.214.217
-141.134.214.46
 141.147.43.219
 141.155.36.213
 141.98.11.207
@@ -194221,7 +194307,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 144.6.89.62
 146.0.42.82
 148.113.205.94
-149.102.155.8
 149.62.200.106
 150.158.25.244
 150.187.25.242
@@ -194244,23 +194329,15 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 157.10.63.251
 157.185.170.200
 158.255.83.204
-158.94.211.92
 159.112.183.71
 159.196.16.186
 159.250.122.151
 160.119.69.4
 160.119.71.134
 160.202.15.212
-160.250.181.124
 162.215.130.152
 162.215.218.82
 162.215.218.94
-163.142.77.114
-163.142.92.46
-163.142.92.67
-163.142.93.157
-163.142.93.233
-163.142.94.124
 163.182.97.242
 164.126.129.225
 164.160.41.10
@@ -194272,51 +194349,53 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 167.250.193.253
 168.121.168.84
 168.138.162.78
-168.222.254.23
 170.210.81.101
 170.210.81.104
 170.55.7.234
-171.233.36.95
 1717.1000uc.com
 172.236.108.48
 172.96.189.153
+173.92.213.119
 174.105.154.212
 174.71.237.86
 174.71.238.196
-175.0.60.188
 175.146.154.219
 175.146.155.188
 175.146.156.32
 175.147.155.33
+175.147.156.105
 175.148.148.111
 175.148.87.144
 175.149.67.64
 175.150.67.86
 175.150.74.114
+175.150.74.42
 175.150.93.234
 175.151.122.168
 175.151.123.5
 175.165.106.238
 175.165.141.12
-175.165.76.134
 175.166.4.43
 175.167.230.83
-175.173.74.150
-175.173.81.57
+175.168.197.209
+175.173.116.250
+175.174.46.121
+175.175.192.169
 175.175.210.205
 175.175.22.43
 175.30.114.108
 175.44.156.36
+175.9.166.233
 176.106.241.72
-176.120.203.230
+176.221.111.222
 176.65.139.136
-176.65.139.137
 176.65.139.139
 176.65.139.140
+176.65.139.195
 176.65.139.196
 176.65.139.202
-176.65.139.206
 176.65.139.208
+176.65.139.211
 176.65.139.218
 176.65.139.226
 176.65.139.234
@@ -194352,7 +194431,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 178.183.70.63
 178.188.30.171
 178.198.246.24
-178.206.213.222
 178.210.214.48
 178.210.83.9
 178.211.135.170
@@ -194360,51 +194438,42 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 178.238.27.138
 178.248.3.202.ll.sta.mana.pf
 178.61.160.6
+179.108.90.55
 179.189.254.54
 179.214.0.18
 179.248.3.202.ll.sta.mana.pf
 179.60.216.19
 179.63.168.2
 18.176.47.246
-180.116.71.179
+180.115.168.174
 180.148.33.24
 180.149.198.22
 180.191.16.206
 180.191.22.170
+180.191.32.197
 180.191.36.99
 180.191.42.15
-180.245.43.93
-180.76.137.37
 180.76.153.78
-180.92.225.138
 181.129.100.123
 181.129.177.162
 181.129.182.138
 181.171.188.254
 181.211.252.34
 181.49.47.190
-181.55.251.93
 181.60.246.15
 182.109.0.22
-182.117.107.119
-182.118.244.54
-182.119.191.143
+182.112.7.122
 182.119.250.57
-182.119.68.47
+182.120.43.111
+182.121.224.68
 182.121.239.171
 182.122.193.170
-182.122.232.225
 182.124.20.96
-182.126.113.144
-182.126.116.9
-182.126.122.180
-182.126.84.3
+182.126.201.152
 182.126.93.152
+182.126.93.33
 182.127.113.69
-182.127.123.182
-182.127.165.77
 182.160.102.188
-182.163.114.232
 182.23.87.242
 182.253.115.155
 182.253.115.156
@@ -194417,10 +194486,9 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 183.109.132.168
 183.150.141.1
 183.151.171.156
-183.153.114.172
-183.63.8.194
+183.81.156.121
 183.81.156.123
-183.81.156.125
+183.81.156.124
 183.83.186.77
 183.91.77.253
 184.160.27.44
@@ -194433,7 +194501,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 185.136.195.193
 185.152.219.150
 185.166.91.145
-185.168.227.130
 185.190.20.228
 185.191.89.120
 185.191.89.122
@@ -194443,7 +194510,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 185.224.107.4
 185.242.3.87
 185.253.75.188
-185.32.179.229
 185.4.64.128
 185.43.16.137
 185.43.17.123
@@ -194455,7 +194521,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 185.8.233.160
 185.80.0.36
 185.82.165.26
-185.9.139.117
 185.93.89.72
 186.138.107.5
 186.154.93.81
@@ -194471,24 +194536,18 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 188.170.32.148
 188.173.136.155
 188.212.158.75
-188.234.93.168
 188.243.36.33
 188.246.178.42
-188.56.204.166
+188.44.110.215
 188.72.6.218
-188.81.134.196
 188.82.127.68
 188.95.148.167
 190.104.195.210
 190.104.213.45
 190.108.63.242
 190.109.228.150
-190.113.124.155
 190.12.99.194
 190.123.46.208
-190.128.195.138
-190.145.205.178
-190.183.254.69
 190.185.119.13
 190.196.38.77
 190.2.237.104
@@ -194510,42 +194569,35 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 193.163.187.75
 193.165.245.46
 193.248.186.21
-193.26.115.225
 193.32.162.236
 193.37.69.43
-194.36.80.225
 195.103.203.106
 195.158.88.156
 195.158.90.40
 195.178.110.204
+195.211.197.30
 195.26.97.59
 195.34.102.234
 195.34.91.22
-196.189.3.1
-196.189.9.27
+196.189.69.192
 196.251.107.186
 196.251.121.142
 196.251.121.185
 196.39.143.113
 196.41.63.178
 197.159.1.58
-198.144.179.82
 198.166.72.242
-198.58.186.53
-198348.gl
 199.168.184.115
 1h.vuregyy1.ru
 1h.xeteloi4.ru
 2.136.203.189
 2.136.63.232
+2.187.98.47
 2.26.81.46
-2.27.248.13
 2.27.62.90
 2.54.238.31
 2.54.239.97
 2.54.239.98
-2.54.81.12
-2.54.83.40
 2.54.83.78
 2.54.84.143
 2.54.85.90
@@ -194555,7 +194607,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 2.55.126.179
 2.55.81.169
 2.55.94.142
-2.56.10.3
 2.57.122.121
 200.122.211.138
 200.14.250.72
@@ -194563,13 +194614,11 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 200.54.221.234
 200.61.163.235
 200.69.219.25
-201.16.236.187
 201.182.25.51
 201.94.181.7
 201.98.176.195
 202.1.26.13
 202.105.196.30
-202.107.94.35
 202.110.2.191
 202.129.16.119
 202.129.16.172
@@ -194581,17 +194630,19 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 202.148.20.138
 202.148.5.34
 202.155.8.56
+202.162.36.210
+202.163.107.242
 202.166.218.154
 202.175.181.210
 202.3.248.178
 202.3.248.179
 202.4.101.78
+202.40.178.238
 202.5.50.108
 202.53.164.214
 202.53.164.46
 202.57.39.2
 202.57.43.234
-202.59.90.109
 202.62.41.165
 202.74.75.181
 202.78.201.3
@@ -194619,6 +194670,7 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 209.162.229.229
 209.250.2.244
 209.54.103.130
+209.81.111.104
 210.16.163.207
 210.208.106.68
 210.208.110.130
@@ -194642,13 +194694,10 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 211.194.20.7
 211.204.100.20
 211.219.49.173
-212.107.232.167
-212.156.106.146
 212.224.107.246
 212.232.22.87
 212.27.26.206
 212.3.211.157
-212.73.75.82
 212.73.75.84
 212.85.166.12
 212.93.103.10
@@ -194665,87 +194714,76 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 213.91.236.237
 213.96.13.100
 216.119.126.23
-216.129.184.213
-216.155.92.203
+216.126.86.154
 216.196.170.32
 216.201.80.197
 216.9.226.120
 217.115.212.126
 217.145.226.130
 217.168.128.146
-217.218.235.202
 217.60.102.12
 217.60.195.113
 217.60.195.219
-217.60.241.32
 217.75.193.34
 217.92.214.15
 218.103.122.102
 218.155.74.6
 218.188.43.38
 218.212.2.95
-218.28.151.239
-219.155.200.86
+218.58.146.50
+219.156.112.101
 219.157.16.109
 219.157.63.238
+220.118.75.244
+220.177.11.172
 220.180.99.71
 220.192.240.230
 220.192.250.202
-220.201.25.49
 220.246.34.66
+221.1.226.106
 221.10.233.217
-221.124.94.188
-221.14.174.131
 221.143.49.222
-221.15.12.42
-221.15.173.160
 221.202.17.138
 221.202.182.36
 221.203.86.144
 221.203.95.195
-222.127.68.115
 222.134.172.157
+222.137.175.220
 222.137.208.37
 222.138.213.176
-222.141.117.155
-222.142.244.43
+222.139.34.67
 222.185.199.120
 222.239.87.50
 222.246.42.116
 222.252.31.94
 223.108.58.13
+223.108.58.15
 223.76.100.36
 223.82.83.143
 223.83.211.82
 23.140.244.57
 23.146.240.17
 23.238.39.247
-23.239.12.230
 23.242.193.144
-23.94.145.229
 24.234.159.5
-24.95.54.96
+27.12.96.57
 27.125.169.235
 27.147.225.2
-27.152.10.10
-27.153.152.10
+27.193.158.205
 27.202.53.216
-27.203.158.156
 27.215.108.44
-27.215.210.140
 27.215.80.198
-27.215.84.127
+27.215.84.25
 27.218.236.119
 27.219.119.11
-27.222.48.192
 27.222.89.207
 27.44.144.48
-27.44.145.189
 27.44.145.233
 27.44.146.47
 27.72.159.162
 27.96.228.235
 2cfc0222.salamanderprocessing.pages.dev
+3.141.75.29
 3.18.128.17
 3.zhzy999.net
 3.zhzy999.net3.zhzy999.net
@@ -194759,54 +194797,54 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 31.220.3.140
 31.222.113.214
 31.4.254.241
+31.55.236.199
 31.56.209.210
 31.57.184.249
 31.7.149.228
 31.76.20.19
 31.76.29.161
 32.219.189.94
+34.23.45.74
 34.45.47.180
 34.70.102.215
 34.88.165.144
 35.226.92.8
 35.75.68.158
 36.110.15.211
-36.138.125.70
 36.154.188.50
 36.158.34.122
-36.251.0.14
 36.255.97.21
 36.255.97.23
 36.64.227.134
-36.66.139.36
 36.67.246.82
+36.70.196.73
 36.88.180.115
 36.88.6.203
 36.89.62.19
 36.92.110.187
+36.92.24.250
 36.92.68.241
 36.93.2.29
+36.95.137.155
 37.142.77.163
 37.157.212.138
-37.157.219.158
 37.220.123.125
 37.233.63.185
 37.252.66.188
 37.252.69.10
 37.255.210.242
 37.255.217.87
+37.28.177.69
 37.34.230.9
-37.52.132.186
+37.34.242.99
 37.57.33.51
 37.77.150.214
 38.54.37.216
 38.76.201.42
 39.100.33.142
 39.105.223.127
-39.73.206.50
-39.74.18.45
-39.79.47.37
-39.80.60.21
+39.65.202.109
+39.74.114.50
 39.81.37.15
 39.86.115.129
 39.87.50.123
@@ -194814,86 +194852,78 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 41.160.234.219
 41.190.69.6
 41.215.23.222
-41.216.189.34
 41.78.75.186
 41.87.80.123
 42.177.122.244
-42.178.153.144
 42.179.15.176
 42.180.152.31
 42.180.220.46
 42.180.80.226
 42.192.39.152
-42.224.115.189
+42.224.127.169
 42.224.174.102
-42.224.4.46
 42.224.7.191
-42.225.200.135
+42.224.78.23
 42.226.79.45
+42.227.179.13
 42.228.239.154
-42.231.89.50
 42.232.229.148
-42.233.107.113
-42.233.210.159
+42.232.90.35
 42.5.16.145
 42.52.200.244
 42.53.25.46
 42.53.254.96
+42.54.13.17
 42.54.157.172
 42.54.169.50
 42.54.30.220
-42.55.189.81
-42.55.8.85
 42.57.220.37
 42.59.234.164
-42.59.235.188
+42.59.71.140
 42.59.89.223
-42.6.33.53
 42.7.121.38
+42.7.139.85
+42.7.152.135
 42.7.200.149
-42.7.203.122
 42.7.222.97
 42.85.15.247
-42.85.203.26
-42.85.209.65
 42.86.109.40
 42.86.133.153
+42.87.168.173
 42.87.43.36
 43.132.12.146
 43.132.13.252
 43.139.88.161
+43.226.39.44
 43.228.157.102
 43.228.157.73
 43.229.20.247
 43.229.20.42
 43.230.44.36
-43.245.131.27
 43.245.39.127
 43.245.39.42
 43.249.54.246
+43.252.159.101
 43.252.159.78
 43.252.159.79
 43.255.216.26
 44.208.147.17
-45.112.126.123
-45.115.254.91
 45.118.79.103
 45.120.38.214
 45.125.44.137
+45.129.231.1
 45.13.186.37
 45.135.193.113
 45.138.16.51
-45.141.119.82
 45.144.233.192
-45.171.177.193
 45.173.12.30
 45.177.33.169
 45.194.25.221
 45.197.12.73
 45.207.157.28
 45.225.135.160
-45.233.94.135
 45.234.234.14
+45.236.116.198
 45.66.228.93
 45.76.122.186
 45.77.254.180
@@ -194905,15 +194935,12 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 46.151.182.200
 46.151.182.208
 46.151.56.42
-46.175.139.20
 46.209.88.218
 46.216.199.241
 46.236.65.106
 46.236.65.141
 46.236.65.142
 46.236.65.145
-46.236.65.160
-46.236.65.163
 46.236.65.23
 46.236.65.230
 46.236.65.235
@@ -194921,27 +194948,24 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 46.250.54.75
 46.77.52.190
 46.8.228.191
-47.103.197.73
 47.104.31.7
 47.104.96.89
 47.105.36.109
 47.109.198.8
 47.113.113.162
 47.115.37.164
-47.120.32.72
 47.121.138.211
 47.121.184.138
 47.152.112.236
 47.201.14.128
 47.212.193.38
-47.22.166.163
+47.215.224.64
 47.236.122.72
 47.236.146.147
 47.236.28.220
 47.236.70.102
 47.237.167.249
 47.239.127.71
-47.239.191.177
 47.242.66.123
 47.243.208.30
 47.245.111.51
@@ -194950,7 +194974,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 47.83.203.183
 47.84.190.146
 47.89.173.214
-47.96.106.127
 49.176.254.54
 49.204.232.47
 49.205.173.192
@@ -194959,6 +194982,8 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 5.166.107.132
 5.182.210.174
 5.202.46.59
+5.230.201.18
+5.250.157.166
 5.26.174.234
 5.63.157.201
 5.89.102.77
@@ -194967,12 +194992,9 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 51.255.46.245
 51.79.124.111
 52.248.41.253
-57.129.23.24
 58.145.168.170
 58.182.146.104
 58.216.207.82
-58.22.18.152
-58.255.40.142
 58.37.101.152
 58.49.210.250
 59.110.9.189
@@ -194980,24 +195002,25 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 60.160.2.40
 60.18.10.146
 60.18.123.60
-60.19.4.185
+60.18.214.19
+60.18.8.218
+60.19.172.59
 60.215.197.174
-60.216.131.62
 60.22.23.50
+60.23.159.201
 60.23.192.74
-60.23.235.89
+60.23.72.121
 60aaf9c6.salamanderprocessing.pages.dev
 61.137.234.158
+61.144.102.183
 61.160.215.114
 61.176.197.31
+61.176.69.173
 61.183.16.127
 61.184.10.103
 61.240.239.106
-61.244.254.110
-61.52.37.73
-61.53.120.105
-61.53.122.56
-61.54.167.178
+61.53.151.142
+61.53.88.100
 62.197.62.195
 62.56.225.99
 62.60.226.140
@@ -195013,6 +195036,8 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 65.49.44.84
 65.99.181.12
 66.185.26.66
+66.196.62.177
+66.212.173.225
 66.39.79.68
 66.71.242.67
 66.71.242.68
@@ -195038,6 +195063,7 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 72.132.64.183
 72.173.80.89
 72.29.46.195
+74.194.191.52
 74.62.255.234
 75.119.134.80
 75.144.208.234
@@ -195055,7 +195081,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 77.39.107.229
 77.46.170.18
 77.50.222.238
-77.83.39.20
 77.89.245.118
 78-20-115-5.access.telenet.be
 78.140.32.219
@@ -195069,6 +195094,7 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 78.38.16.176
 78.44.199.50
 79.1.229.42
+79.135.225.50
 8.131.63.6
 8.138.96.41
 8.148.152.143
@@ -195081,10 +195107,10 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 8.219.62.229
 8.219.69.227
 8.219.85.120
-8.222.179.91
 8.222.247.229
 80.11.25.16
 80.11.36.4
+80.110.37.104
 80.14.38.66
 80.147.155.189
 80.147.3.138
@@ -195102,13 +195128,12 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 81.230.148.181
 81.231.7.219
 81.236.234.16
+81.4.156.50
 81.42.247.62
 81.42.249.132
 81.45.183.125
-82.102.74.238
 82.114.178.6
 82.114.181.233
-82.139.187.78
 82.139.95.202
 82.146.62.232
 82.148.194.54
@@ -195120,7 +195145,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 83.68.249.16
 84.236.147.129
 84.86.236.173
-85.12.205.35
 85.12.251.50
 85.130.160.219
 85.137.245.141
@@ -195145,17 +195169,14 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 88.119.151.142
 88.119.193.17
 88.135.26.83
-88.180.236.68
 88.190.74.159
 88.24.52.121
 88.28.218.163
 88.8.20.75
 88.86.246.233
 88.88.191.25
-89.101.123.50
 89.121.250.206
 89.184.185.198
-89.189.181.54
 89.216.100.166
 89.216.107.99
 89.231.14.137
@@ -195174,6 +195195,7 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 91.189.183.211
 91.197.122.35
 91.204.154.197
+91.226.129.239
 91.231.190.163
 91.240.165.44
 91.92.240.150
@@ -195182,7 +195204,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 91.92.43.200
 91.92.82.180
 92.118.39.62
-92.126.230.58
 92.127.156.174
 92.150.82.148
 92.203.169.41
@@ -195198,7 +195219,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 93.152.221.234
 93.182.76.169
 93.182.77.20
-93.189.222.80
 93.39.215.44
 93.43.53.67
 93.55.251.246
@@ -195212,10 +195232,9 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 94.154.43.120
 94.154.43.66
 94.154.43.69
-94.183.174.77
+94.19.130.58
 94.203.254.14
 94.244.113.217
-94.251.5.51
 94.26.106.206
 94.26.106.80
 94.26.90.90
@@ -195234,9 +195253,9 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 95.47.248.146
 95.56.232.109
 95.62.202.150
-95.9.35.137
-96.11.145.107
+96.125.128.2
 96.125.189.7
+96.245.232.83
 96.49.197.7
 96.66.24.241
 98.103.171.36
@@ -195247,10 +195266,12 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 99-118-215-24.lightspeed.irvnca.sbcglobal.net
 99.118.215.24
 99194034-96-20180108171507.webstarterz.com
+abonent-app.ru
 acc.jiangsujiaxue.com
 acms.saleseos.com
 admin.byte.in.ua
 admin.gestroom.it
+aetherone.su
 aftelecom.com.br
 aidlifempowerment.com
 airtickts.com
@@ -195270,15 +195291,16 @@ atom.freehosting.dev
 attach.66rpg.com
 attach.mail.daum.net
 audicontadores.com
-authowareinc1.screenconnect.com
 automobile-bk.de
 awarenessexhibition.com
+b2b.jewmailer.net
 backupallfresh2030.com
 backupso.com
 balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 balkarsoftware.cubistech.com
 bamautzky.de
 baolongwes.oss-ap-southeast-1.aliyuncs.com
+beak.in
 benshamcentre.co.uk
 best.obs.cn-sz1.ctyun.cn
 best10cdn.blob.core.windows.net
@@ -195292,7 +195314,6 @@ bmdcompany.com
 bnet-api.playm8ru.win
 bnet.playm8ru.win
 book.rollingvideogames.com
-booking.captcha-message-extranet.com
 bratusferramentas.grupomoltz.com.br
 bridgeroad.maverickpreviews.com
 brightroseax.blog
@@ -195308,7 +195329,9 @@ cat.dashabi.in
 cat.xiaojiji.nl
 cat.xiaoshabi.nl
 catbaparadisehotel.com.vn
+cdaonline.com.ar
 cdn-10049480.file.myqcloud.com
+cdn.file6.goodid.com
 cdn.gomlab.com
 cdn.novoline.top
 cdn.xiaoduoai.com
@@ -195319,6 +195342,7 @@ cfs13.tistory.com
 cfs7.blog.daum.net
 cfs9.blog.daum.net
 chat-server.maverickpreviews.com
+cheatclients.com
 checkfivem.com
 chenwangqiao.com
 chiptune.com
@@ -195340,7 +195364,6 @@ coralasargetia.ro
 cpc188.day
 cpofficial.com
 cqintzfep6rw6jc9.public.blob.vercel-storage.com
-crazy2cdn.com
 crazywickedaddiction.com
 crystalpvp.ru
 cs.go.kg
@@ -195364,6 +195387,7 @@ dezcom.com
 dfd.zhzy999.net
 disk.accord1key.cn
 divvanews.com
+dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
 dlied6.bytes.tcdnos.com
@@ -195379,16 +195403,15 @@ down.qqfarmer.com.cn
 down.ruanmei.com
 down10d.zol.com.cn
 downali.game.uc.cn
-download-sougou.com.cn
 download.bt.cn
 download.caihong.com
 download.doumaibiji.cn
 download.haozip.com
 download.kaobeitu.com
+download.kbcard.com
 download.pdf00.cn
 download.pdf00.com
 download.suxiazai.com
-download.tfyxzai.com
 download2.huduntech.com
 dreamwatchevent.com
 dreemix.com
@@ -195411,6 +195434,7 @@ fakers.co.jp
 fb6390d5.infinityindians.pages.dev
 fd.v2downf.shop
 file.blackint3.com
+file.uhsea.com
 filerit.com
 first-security-verden.de
 fkoqonr2vgbsw7qu.public.blob.vercel-storage.com
@@ -195426,7 +195450,6 @@ galeri3.arkitera.com
 galerisenimutiara.com
 geoxsecurity.ro
 gestionycobranzas.com
-gestroom.it
 globalbank.us
 goto.stnts.com
 grantexx.com
@@ -195463,11 +195486,8 @@ indusenterprises.co
 intelligradeeducation.vicentecisnerospub.com
 ircftp.net
 isiore.com.co
-ita-airwaysva.com
 itssprout.com
-ixirgroup.com
 j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com
-jawaratekno.com
 jd-forever.com
 jenniferloeffler.com
 jessespridecharters.com
@@ -195477,8 +195497,8 @@ kavacanada.ca
 kavyasourcing.com
 kenwillzltd.com
 khavar.com
+kimyen.net
 kits.frog.tw
-knockknock.top
 kokorostore.it
 konsor.ru
 landonirwin.com
@@ -195490,13 +195510,13 @@ lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
+lumacrea.com
 luminouspower.com.pk
 m.jkoa.co.kr
 m.meta-dm.com
 maidforyou1985.com
 mail.brightroseax.blog
 mail.emeraldstonegc.blog
-mailify.cc
 matthewsigmondv5.pages.dev
 medises.co.kr
 mersped.mycpanel.rs
@@ -195504,25 +195524,23 @@ miner.pages.dev
 mininews.kpzip.com
 miriamgualda.com.br
 mitreart.com
+mkconstructions.net
 mnurlogistics.az
 mogimall.com
 mrsweaterltd.com
 msoftdatastore.z22.web.core.windows.net
 muaklekcoop.com
-muledo.com
 munihuacho.gob.pe
-muriaspetin.es
 mx9x.com
 mysura.it
 myvcart.com
 n.vs108.com
 namaacont.com
-nccommunication.be
 ncxps.com
 nerve.untergrund.net
 newkey.co.kr
-nimblenumbers.screenconnect.com
 noithaticon.vn
+nonspamplsgood.vercel.app
 nossl.segfault.net
 notbak.com
 nusatoyota.co.id
@@ -195533,6 +195551,7 @@ ojang.pe.kr
 oknoplastik.sk
 old.bullydog.com
 old.umcl.us
+one-graup.com
 ossapp.suning.com
 out-agent.duckdns.org
 outpost.co.ke
@@ -195541,9 +195560,11 @@ paccbet.pages.dev
 palharesinformatica.com.br
 paradox924x.pages.dev
 pardu.pages.dev
+paretandassociates.screenconnect.com
 patricstoremegans2.com
 pay.aqiu6.com
 pcupd.com
+pedianow.org
 pfatrivandrum.org
 pic.li
 pingu.business
@@ -195567,7 +195588,6 @@ pub-0478b308b8cf46709a73d0eed5afd633.r2.dev
 pub-1614932a526c40d79fe5bf23e71e3ff7.r2.dev
 pub-1900be17f2994b5580d602f23eb7fb93.r2.dev
 pub-1c4ef2a315ec4b89b9dfad9472afee69.r2.dev
-pub-2731c5c84ec94bb78b02c025b7b3f6c4.r2.dev
 pub-364c6b3011ca492cab2354176cfaf3f0.r2.dev
 pub-8d59738861b849e5a38b795cc17b1019.r2.dev
 pub-bbbdebc2599c4d74b04c5d53e439f7a7.r2.dev
@@ -195596,6 +195616,7 @@ rheddh.com
 riderspin.com
 robertrowe.com
 royalindiancurryclub.com
+rusa-inion24-novst.vercel.app
 rxquickpay.com
 ryzhe.com
 saf-oil.ru
@@ -195604,7 +195625,9 @@ sales.ifree.page
 salonmarketing.ca
 samiksha.com.sg
 sanghyun.nfile.net
+scainseto.com.br
 scoala1gherla.ro
+screenconnect.pro
 scrroeder.com
 sec.dashabi.in
 sec.xiaojiji.nl
@@ -195616,7 +195639,6 @@ seputartuban.com
 server.toeicswt.co.kr
 sg123.net
 sgeseducation.com
-sh.classera.com
 shadowbot-dih.pages.dev
 shqdown.ggzuhao.com
 siaasesoria.com.mx
@@ -195636,6 +195658,7 @@ spgint.com
 ss-01.com
 starcountry.net
 static.3001.net
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 static.zongheng.com
@@ -195648,17 +195671,14 @@ support.clz.kr
 svirtual.sanviatorperu.edu.pe
 sweet-snowflake-8a7e.uploadesclintesss.workers.dev
 swiftfusion.tech
-syn-096-011-145-107.biz.spectrum.com
 synergyconsulting.us
 tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 tarkioweb.com
-taskerempresascol.co
 taunahi.st
 tdejb.com
 tdfhdser-1433552157.cos.ap-hongkong.myqcloud.com
-techbud.ro
 tecunonline.com
 tehnomag.rs
 tengfeidn.cn
@@ -195681,6 +195701,7 @@ tr.zhzy999.net
 transparenciacanaa.com.br
 trtmyanmar.com
 trusting-golick.93-152-221-234.plesk.page
+tuiskr.com
 twitch.tj
 twu-hwt.org
 union.macoms.la
@@ -195694,10 +195715,10 @@ vaibhavtripathi.in
 versaclean.com.br
 veryboys.com
 vgd.vg
+vintageeventos.com.mx
 visam.info
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
-vmi2767642.contaboserver.net
 vps.atlas101.us.kg
 vrajras.com
 vuelaviajero.com
@@ -195736,6 +195757,7 @@ zycdjz.com
 ||astenterprises.com.pk/ef/ef.vbs^$all
 ||cd.textfiles.com/hmatrix/data/hack0832.zip^$all
 ||cd.textfiles.com/hmatrix/data/hack1226.exe^$all
+||cdn.discordapp.com/attachments/1544901906462281769/1545042621699985479/tio8ev7mmmei3uw.exe?ex=6a9ab492&is=6a996312&hm=a8f90c2bc0c13763a16e0840ec6d5b1202da152374a1b49bd0ee0a85d41f4d16&^$all
 ||cfs5.tistory.com/upload_control/download.blog?fhandle=ymxvzzcxmzyyqgzzns50axn0b3j5lmnvbtovyxr0ywnolzavmtqwmdawmdawmdawlmv4zq%3d%3d&filename=crack-pro20.exe^$all
 ||codeload.github.com/54n4l/mimikatzwindows/zip/refs/heads/master^$all
 ||codeload.github.com/azertyuiopexe/fud-crypter/zip/refs/heads/main^$all
@@ -195770,6 +195792,7 @@ zycdjz.com
 ||codeload.github.com/unlockteame/unlimited/zip/refs/heads/main^$all
 ||dl.360safe.com/offlinepackv4.exe^$all
 ||dl.ijinshan.com/safe/setup_smart.exe^$all
+||do-dear.com/miners/myxmrig.tgz^$all
 ||docs.google.com/document/d/e/2pacx-1vq8kqm4rsobvbpga8ncnzs-1xulwuezfri9x1ktowpiijctqe1uq0iged6iq7sa5zuhnh56egsebkoj/pub^$all
 ||docs.google.com/document/d/e/2pacx-1vqb__8qdiraoo-s_qrzkk8o_8brsuwaeje3ivcd5efhddlux4gw5otilj5ezfenwjzaha-zojj_7srj/pub^$all
 ||docs.google.com/document/d/e/2pacx-1vqe1vc-nlfenfgigyaugmmg1dq4l0-haikp9qxkacc32ig0xtg6go8lejdoogo0vfeoie4tcyy4_bn4/pub^$all
@@ -196039,7 +196062,6 @@ zycdjz.com
 ||github.com/barrigudinha157/barrigudinha/raw/master/rage.dll^$all
 ||github.com/bashspicerb/quasarrat-remote-access-tool/releases/download/v1.0/installer.zip^$all
 ||github.com/bashspicerb/quasarrat-remote-access-tool/releases/download/v2.0/software.zip^$all
-||github.com/beamchunin42/jennymod-installer/releases/download/latest/jennymod.zip^$all
 ||github.com/benkku25/assets/raw/41f4f8f16b76af39e1bc3f8024b66010dd2617c7/software.zip^$all
 ||github.com/berstarhunter/deepseek-start/releases/download/v1.0/software.zip^$all
 ||github.com/berstarhunter/deepseek-start/releases/download/v2.0/software.zip^$all
@@ -202395,7 +202417,6 @@ zycdjz.com
 ||raw.githubusercontent.com/shamu0509/nse-bse-mcp/main/q/bse-nse-mcp-v3.1-beta.5.zip^$all
 ||raw.githubusercontent.com/shamussuited879/codex-on-desk/main/src/dashboard/on_codex_desk_v1.1.zip^$all
 ||raw.githubusercontent.com/shanks44/leychile-epub/main/src/leychile-epub-3.3.zip^$all
-||raw.githubusercontent.com/sharmaak6885/novon/main/slavepen/software-3.7.zip^$all
 ||raw.githubusercontent.com/sharonhopeless346/rwa-compliance-checklist/main/regulatory-map/rwa-checklist-compliance-v3.5.zip^$all
 ||raw.githubusercontent.com/shayanhayee/cruster/main/crates/cruster/migrations/software-3.7.zip^$all
 ||raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip^$all
@@ -203338,7 +203359,6 @@ zycdjz.com
 ||web.archive.org/web/20240808121041if_/http://154.216.19.139/bins/mirai.armv6l^$all
 ||web.archive.org/web/20240808121041if_/http:/154.216.19.139/bins/mirai.armv6l^$all
 ||web.archive.org/web/20240808121121if_/http://154.216.19.139/bins/mirai.armv7l^$all
-||web.archive.org/web/20240808121121if_/http:/154.216.19.139/bins/mirai.armv7l^$all
 ||web.archive.org/web/20240808121230if_/http://154.216.19.139/bins/mirai.i586^$all
 ||web.archive.org/web/20240808121230if_/http:/154.216.19.139/bins/mirai.i586^$all
 ||web.archive.org/web/20240808121308if_/http://154.216.19.139/bins/mirai.i686^$all
@@ -216145,7 +216165,7 @@ venturebeat.com##div.body-container:style(cursor: revert !important;)
 guildstats.eu##.gDiv
 
 ! admiral
-aboutchromebooks.com,comingsoon.net,daysoftheyear.com,edn.com,gearjunkie.com,harvardmagazine.com,lgbtqnation.com,majorgeeks.com,mangainn.net,medievalists.net,sherdog.com,sidereel.com,statesman.com,winhelponline.com##+js(aopr, googletag)
+aboutchromebooks.com,comingsoon.net,daysoftheyear.com,edn.com,harvardmagazine.com,lgbtqnation.com,majorgeeks.com,mangainn.net,medievalists.net,sherdog.com,sidereel.com,statesman.com,winhelponline.com##+js(aopr, googletag)
 boston.com,cattime.com,dogtime.com,download.mokeedev.com,freep.com,ijr.com,inquirer.net,knowyourmeme.com,nationalreview.com,nofilmschool.com,order-order.com,savvytime.com,techlicious.com,technicpack.net,thedraftnetwork.com,wrestlezone.com,xda-developers.com##+js(acs, document.createElement, admiral)
 majorgeeks.com##+js(acs, document.getElementById, undefined)
 legacy.com##+js(acs, document.getElementsByTagName, admiral)
@@ -216235,9 +216255,6 @@ vrcmods.com##.showfreemethod
 
 ! Daily upload limit of 2 images - Sign up now and enjoy monthly free credits
 www.watermarkremover.io##+js(set-local-storage-item, WkdGcGJIbEpiV0ZuWlVSaGRHRT0=, $remove$)
-
-! https://github.com/uBlockOrigin/uAssets/issues/20228
-uploadvr.com##.force-load-ad
 
 ! getemoji.com anti adblock annoyance
 getemoji.com##+js(set-session-storage-item, fs.adb.dis, 1)
@@ -220175,7 +220192,14 @@ cizitensports.com##+js(rmnt, script, randomUUID)
 ||sites.google.com/view/brewapp$doc
 
 ! https://github.com/uBlockOrigin/uAssets/issues/34356
+##.wp-singular > iframe[srcdoc][allowfullscreen][allow*="clipboard-write"][style*="2147483647"]
+/^https:\/\/[a-z]{7}\.sbs\/[a-z0-9]{8}\.js$/$script,3p,match-case,to=sbs
 ||swewart.sbs^
+||guiglen.sbs^
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/240231
+webrick.com##+js(acs, atob, Uint8Array)
+##html > #bw-rc-host
 
 ! !SECTION: ClickFix
 
@@ -246339,6 +246363,10 @@ jsfiddle.net##+js(set, _bsa, {})
 
 ! https://fastpic.org/view/125/2025/0702/_1e5443f0df53345ab069adb631c48c93.png.html
 fastpic.org##+js(trusted-set-cookie, k3a9q, $now$%7C1)
+!#if ext_ubol
+/^(https:\/\/fastpic\.org\/view\/.+?\.html)$/$doc,uritransform=//$1?r=1/
+/^(https:\/\/fastpic\.org\/view\/.+?\.html\?)([^r].*)$/$doc,uritransform=//$1r=1&$2/
+!#endif
 
 ! nobledicion.yoveo.xyz detection
 nobledicion.yoveo.xyz##+js(noeval-if, googlesyndication)
@@ -248967,6 +248995,12 @@ net77.cc##+js(trusted-set-attr, body, data-allok, y)
 /zvrk/?n=$frame
 thisvid.com##+js(acs, document.write)
 ##.container a[title="AI Jerk OFF"][href][target="_blank"]
+
+! https://github.com/uBlockOrigin/uAssets/issues/20228
+uploadvr.com##+js(set, poseidonAdBootstrap.freestarReady, true)
+uploadvr.com##[data-poseidon-placement-name^="uploadvrcom_In_Article_Ad_"]
+uploadvr.com##[data-poseidon-placement-name^="uploadvr_btf_ad_"]
+uploadvr.com##div.poseidon-container--empty:has(.ad-bg-label)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/22398
 cwtv.com##+js(json-prune-xhr-response, cue_points, , propsToMatch, /playback)
@@ -251616,6 +251650,10 @@ alloaadvertiser.com,andoveradvertiser.co.uk,ardrossanherald.com,asianimage.co.uk
 ! Mediavague
 ||html-load.com^$script,xhr,domain=bike-news.jp|egolf.jp|kuruma-news.jp|lasisa.net|magmix.jp|merkmal-biz.jp|otonanswer.jp|trafficnews.jp|vague.style
 bike-news.jp,egolf.jp,kuruma-news.jp,lasisa.net,magmix.jp,merkmal-biz.jp,otonanswer.jp,trafficnews.jp,vague.style##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, , condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
+! AllGear Digital
+||html-load.com^$script,xhr,domain=bikerumor.com|explorersweb.com|gearjunkie.com|irunfar.com|packhacker.com|switchbacktravel.com|theinertia.com|wildsnow.com
+bikerumor.com,explorersweb.com,gearjunkie.com,irunfar.com,packhacker.com,switchbacktravel.com,theinertia.com,wildsnow.com##+js(ra, onerror, script[id][onerror], asap stay)
+bikerumor.com,explorersweb.com,gearjunkie.com,irunfar.com,packhacker.com,switchbacktravel.com,theinertia.com,wildsnow.com##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, , condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
 ! MV3 wildcard issue
 !#if ext_ubol
 ||html-load.com^$script,xhr,domain=babla.cn|babla.co.id|babla.co.th|babla.gr|babla.no|babla.ru|babla.vn|fxstreet.com|fxstreet.com.tr|fxstreet.de.com|fxstreet.es|fxstreet.fr|fxstreet.hk|fxstreet.hu|fxstreet.it|fxstreet.ru.com|gentside.co.uk|gentside.com|gentside.de|ohmymag.co.uk|ohmymag.com|ohmymag.de|wieistmeineip.at|wieistmeineip.ch|wieistmeineip.de|willyweather.co.uk|willyweather.com|willyweather.com.au|woxikon.bg|woxikon.co|woxikon.co.uk|woxikon.com|woxikon.com.br|woxikon.cl|woxikon.dk|woxikon.de|woxikon.fr|woxikon.es|woxikon.it|woxikon.mx|woxikon.nl|woxikon.pl|woxikon.pt|woxikon.ru|woxikon.se
@@ -251653,8 +251691,8 @@ automobile-catalog.com,baseballchannel.jp,forum.mobilism.me,freeairpump.com,gbat
 divinedaolibrary.com,jaysbrickblog.com,mp1st.com,oricon.co.jp,uranai.nosv.org,yakkun.com##+js(rmnt, script, html-load.com)
 oricon.co.jp##+js(rmnt, script, /\(async\(\)=>\{try\{(const|var)/)
 chloeting.com##+js(prevent-innerHTML, script, html-load.com)
-9gag.com,adrenaline.com.br,and-more.co,animalia.bio,astro-seek.com,augustacrime.com,autofrage.net,automobile-catalog.com,bab.la,babla.*,base64decode.org,boardingarea.com,buchstaben.com,businessua.com,calculatorsoup.com,canuckaudiomart.com,chloeting.com,collinsdictionary.com,computerfrage.net,convertcase.net,costcoinsider.com,crosswordsolver.com,daily.co.jp,daveockop.com,dict.cc,dictionary.cambridge.org,dictionnaire.lerobert.com,dnevnik.hr,doviz.com,egitim.net.tr,elnacional.cat,euronews.com,exceljet.net,fandom.com,finanzfrage.net,football-ukraine.com,fossbytes.com,freemcserver.net,game8.jp,gamewith.jp,gerbeaud.com,gesundheitsfrage.net,gezondnu.nl,girlschannel.net,glianec.com,greenwichmeantime.com,gutefrage.net,happyinshape.com,helpdeskgeek.com,higherorlowergame.com,hk01.com,hna.de,hochi.news,hollywoodlife.com,houseandgarden.co,index.hr,infinityfree.com,inverse.com,itavisen.no,km77.com,kreuzwortraetsel.de,kurashiru.com,ldoceonline.com,leckerschmecker.me,lejdd.fr,lettersolver.com,liveandletsfly.com,livescience.com,looopings.nl,lootlemon.com,mamastar.jp,merinfo.se,moin.de,motorbikecatalog.com,motorradfrage.net,motscroises.fr,mrexcel.com,namemc.com,natalie.mu,nemzetisport.hu,neoseeker.com,netflixlife.com,newatlas.com,nextchessmove.com,nikkansports.com,nouvelobs.com,oeffnungszeitenbuch.de,omnicalculator.com,onlineradiobox.com,onemileatatime.com,oraridiapertura24.it,oricon.co.jp,oxfordlearnersdictionaries.com,pakkotoisto.com,perezhilton.com,picrew.me,pinterpoin.com,pons.com,popdaily.com.tw,reisefrage.net,rotowire.com,scribd.com,singjupost.com,skinmc.net,slideshare.net,sms24.me,songfacts.com,sourceforge.net,sportlerfrage.net,the-crossword-solver.com,thefirearmblog.com,thelayoff.com,thetorquereport.com,thetruthaboutcars.com,thingiverse.com,timeful.app,torontosun.com,toyokeizai.net,travelingformiles.com,trilltrill.jp,tunebat.com,tvtv.ca,tvtv.us,ukaudiomart.com,upgradedhome.com,urbandictionary.com,urldecoder.org,usaudiomart.com,watchdocumentaries.com,weatherzone.com.au,welt.de,willyweather.*,winfuture.de,winteriscoming.net,word-grabber.com,wordshake.com,woxikon.de##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, , condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
-9gag.com,automobile-catalog.com,base64decode.org,calculatorsoup.com,euronews.com,fandom.com,index.hr,motorbikecatalog.com,sms24.me,urldecoder.org,welt.de##+js(ra, onerror, script[id][onerror], asap stay)
+9gag.com,adrenaline.com.br,and-more.co,animalia.bio,astro-seek.com,augustacrime.com,autofrage.net,automobile-catalog.com,bab.la,babla.*,base64decode.org,boardingarea.com,buchstaben.com,businessua.com,calculatorsoup.com,canuckaudiomart.com,chloeting.com,collinsdictionary.com,computerfrage.net,convertcase.net,costcoinsider.com,crosswordsolver.com,culturequizz.com,daily.co.jp,daveockop.com,dict.cc,dictionary.cambridge.org,dictionnaire.lerobert.com,dnevnik.hr,doviz.com,egitim.net.tr,elnacional.cat,euronews.com,exceljet.net,fandom.com,finanzfrage.net,football-ukraine.com,fossbytes.com,freemcserver.net,game8.jp,gamewith.jp,gerbeaud.com,gesundheitsfrage.net,gezondnu.nl,girlschannel.net,glianec.com,greenwichmeantime.com,gutefrage.net,happyinshape.com,helpdeskgeek.com,higherorlowergame.com,hk01.com,hna.de,hochi.news,hollywoodlife.com,houseandgarden.co,index.hr,infinityfree.com,inverse.com,itavisen.no,km77.com,kreuzwortraetsel.de,kurashiru.com,ldoceonline.com,leckerschmecker.me,lejdd.fr,lettersolver.com,liveandletsfly.com,livescience.com,looopings.nl,lootlemon.com,mamastar.jp,merinfo.se,moin.de,motorbikecatalog.com,motorradfrage.net,motscroises.fr,mrexcel.com,namemc.com,natalie.mu,nemzetisport.hu,neoseeker.com,netflixlife.com,newatlas.com,nextchessmove.com,nikkansports.com,nouvelobs.com,oeffnungszeitenbuch.de,omnicalculator.com,onlineradiobox.com,onemileatatime.com,oraridiapertura24.it,oricon.co.jp,oxfordlearnersdictionaries.com,pakkotoisto.com,perezhilton.com,picrew.me,pinterpoin.com,pons.com,popdaily.com.tw,reisefrage.net,rotowire.com,scribd.com,singjupost.com,skinmc.net,slideshare.net,sms24.me,songfacts.com,sourceforge.net,sportlerfrage.net,the-crossword-solver.com,thefirearmblog.com,thelayoff.com,thetorquereport.com,thetruthaboutcars.com,thingiverse.com,timeful.app,torontosun.com,toyokeizai.net,travelingformiles.com,trilltrill.jp,tunebat.com,tvtv.ca,tvtv.us,ukaudiomart.com,upgradedhome.com,urbandictionary.com,urldecoder.org,usaudiomart.com,watchdocumentaries.com,weatherzone.com.au,welt.de,willyweather.*,winfuture.de,winteriscoming.net,word-grabber.com,wordshake.com,woxikon.de##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, , condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
+9gag.com,automobile-catalog.com,base64decode.org,calculatorsoup.com,culturequizz.com,euronews.com,fandom.com,index.hr,motorbikecatalog.com,sms24.me,urldecoder.org,welt.de##+js(ra, onerror, script[id][onerror], asap stay)
 akinator.com##+js(trusted-replace-argument, Element.prototype.setAttribute, 1, `json:"setTimeout((()=>{if(!location.pathname.startsWith('/game'))return;const t=document.getElementById('question-label');t&&(window.animation=lottie.loadAnimation({container:t,renderer:'svg',loop:!0,autoplay:!1,path:'/assets/animationsLottielab/gameDots.json'}))}),1e3);"`, condition, '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|,window\]|\)\.join\(String\.fromCharCode|adShieldError/')
 akinator.com##+js(set, __cfRLUnblockHandlers, true)
 huffpost.com##+js(set, disableAdShield, true)
@@ -251671,21 +251709,21 @@ majorleaguepickleball.co,pickleball.com,pickleballclubs.com,pickleballleagues.co
 !#if cap_html_filtering
 interfootball.co.kr,a-ha.io,cboard.net,joongdo.co.kr,viva100.com,maketecheasier.com,tweaksforgeeks.com,m.inven.co.kr,mlbpark.donga.com##^script:has-text(KCgpPT57bGV0IGU)
 9gag.com,akinator.com,and-more.co,astro-seek.com,autofrage.net,bab.la,babla.*,badmouth1.com,boardingarea.com,businessua.com,canuckaudiomart.com,collinsdictionary.com,computerfrage.net,dict.cc,dictionnaire.lerobert.com,dictionary.cambridge.org,dnevnik.hr,doviz.com,egitim.net.tr,eurointegration.com.ua,exceljet.net,finanzfrage.net,flatpanelshd.com,football-ukraine.com,footballtransfer.com.ua,footballtransfer.ru,fossbytes.com,freemcserver.net,gadgets360.com,gazetaprawna.pl,gesundheitsfrage.net,gezondnu.nl,girlschannel.net,glianec.com,gutefrage.net,happyinshape.com,helpdeskgeek.com,hoyme.jp,houseandgarden.co,infinityfree.com,issuya.com,iusm.co.kr,lamire.jp,ldoceonline.com,leckerschmecker.me,liveandletsfly.com,logicieleducatif.fr,lootlemon.com,missyusa.com,mamastar.jp,moin.de,motorradfrage.net,motscroises.fr,neoseeker.com,neowin.net,newatlas.com,nextchessmove.com,onlinegdb.com,oxfordlearnersdictionaries.com,palabr.as,perezhilton.com,picrew.me,pinterpoin.com,pons.com,pravda.com.ua,pressian.com,razzball.com,reisefrage.net,reportera.co.kr,rotowire.com,sinemalar.com,singjupost.com,sportanalytic.com,sportlerfrage.net,sportsrec.com,sportsseoul.com,text-compare.com,the-crossword-solver.com,thelayoff.com,torontosun.com,toyokeizai.net,travelingformiles.com,tweaksforgeeks.com,tz.de,ukaudiomart.com,usaudiomart.com,w.grapps.me,watchdocumentaries.com,welt.de,wfmz.com,winfuture.de,worldhistory.org##^script[onload*="error-report.com"]
-9gag.com,adrenaline.com.br,animalia.bio,augustacrime.com,automobile-catalog.com,base64decode.org,buchstaben.com,calculatorsoup.com,daveockop.com,doviz.com,euronews.com,fandom.com,freemcserver.net,game8.jp,gamewith.jp,gerbeaud.com,greenwichmeantime.com,higherorlowergame.com,hna.de,index.hr,itavisen.no,km77.com,livescience.com,looopings.nl,mamastar.jp,merinfo.se,motorbikecatalog.com,mrexcel.com,namemc.com,nemzetisport.hu,onemileatatime.com,onlineradiobox.com,pakkotoisto.com,ppatour.com,scribd.com,skinmc.net,sms24.me,thetorquereport.com,thingiverse.com,timeful.app,tvtv.ca,tvtv.us,urbandictionary.com,urldecoder.org,welt.de,willyweather.*,wordshake.com##^script[src*="html-load.com"]
+9gag.com,adrenaline.com.br,animalia.bio,augustacrime.com,automobile-catalog.com,base64decode.org,buchstaben.com,calculatorsoup.com,culturequizz.com,daveockop.com,doviz.com,euronews.com,fandom.com,freemcserver.net,game8.jp,gamewith.jp,gerbeaud.com,greenwichmeantime.com,higherorlowergame.com,hna.de,index.hr,itavisen.no,km77.com,livescience.com,looopings.nl,mamastar.jp,merinfo.se,motorbikecatalog.com,mrexcel.com,namemc.com,nemzetisport.hu,onemileatatime.com,onlineradiobox.com,pakkotoisto.com,ppatour.com,scribd.com,skinmc.net,sms24.me,thetorquereport.com,thingiverse.com,timeful.app,tvtv.ca,tvtv.us,urbandictionary.com,urldecoder.org,welt.de,willyweather.*,wordshake.com##^script[src*="html-load.com"]
 crosswordsolver.com,gutefrage.net,kreuzwortraetsel.de,motscroises.fr,oeffnungszeitenbuch.de,oraridiapertura24.it,word-grabber.com,wort-suchen.de##^script[src*="://loader."]
 automobile-catalog.com,motorbikecatalog.com##^script:is([src$="/app.js"],[src$="/core.js"])
 bleepingcomputer.com,pravda.com.ua##^script:has-text(Ad-Shield)
 ap7am.com,cinema.com.my,dolldivine.com,giornalone.it,iplocation.net,jamaicajawapos.com,jutarnji.hr,kompasiana.com,mediaindonesia.com,niice-woker.com,pep.ph,slobodnadalmacija.hr,upmedia.mg##^script:has-text(adrecover.com)
 wetter.com##^script:has-text(/wcomAdBlock|error-report\.com/)
 neowin.net,newatlas.com,nextchessmove.com,razzball.com##^script:has-text(head.appendChild.bind)
-9gag.com,adrenaline.com.br,akinator.com,and-more.co,animalia.bio,astro-seek.com,augustacrime.com,automobile-catalog.com,bab.la,babla.*,base64decode.org,boardingarea.com,buchstaben.com,calculatorsoup.com,canuckaudiomart.com,collinsdictionary.com,crosswordsolver.com,daveockop.com,dict.cc,dictionary.cambridge.org,dictionnaire.lerobert.com,divinedaolibrary.com,doviz.com,egitim.net.tr,euronews.com,exceljet.net,fandom.com,fossbytes.com,freemcserver.net,game8.jp,gamewith.jp,gerbeaud.com,gezondnu.nl,girlschannel.net,happyinshape.com,helpdeskgeek.com,higherorlowergame.com,hna.de,hochi.news,hollywoodlife.com,houseandgarden.co,index.hr,itavisen.no,km77.com,kreuzwortraetsel.de,ldoceonline.com,lejdd.fr,livescience.com,looopings.nl,lootlemon.com,mamastar.jp,merinfo.se,motorbikecatalog.com,motscroises.fr,mrexcel.com,namemc.com,nemzetisport.hu,neoseeker.com,neowin.net,newatlas.com,nikkansports.com,oeffnungszeitenbuch.de,onemileatatime.com,onlineradiobox.com,oraridiapertura24.it,oxfordlearnersdictionaries.com,pakkotoisto.com,perezhilton.com,pinterpoin.com,pons.com,ppatour.com,razzball.com,rotowire.com,scribd.com,sinemalar.com,skinmc.net,slideshare.net,sms24.me,songfacts.com,the-crossword-solver.com,thelayoff.com,thetorquereport.com,thingiverse.com,timeful.app,torontosun.com,toyokeizai.net,travelingformiles.com,trilltrill.jp,tunebat.com,tvtv.ca,tvtv.us,ukaudiomart.com,urbandictionary.com,urldecoder.org,usaudiomart.com,watchdocumentaries.com,welt.de,willyweather.*,word-grabber.com,wordshake.com,wort-suchen.de##^script[data-cfasync="false"][nowprocket]
+9gag.com,adrenaline.com.br,akinator.com,and-more.co,animalia.bio,astro-seek.com,augustacrime.com,automobile-catalog.com,bab.la,babla.*,base64decode.org,boardingarea.com,buchstaben.com,calculatorsoup.com,canuckaudiomart.com,collinsdictionary.com,crosswordsolver.com,culturequizz.com,daveockop.com,dict.cc,dictionary.cambridge.org,dictionnaire.lerobert.com,divinedaolibrary.com,doviz.com,egitim.net.tr,euronews.com,exceljet.net,fandom.com,fossbytes.com,freemcserver.net,game8.jp,gamewith.jp,gerbeaud.com,gezondnu.nl,girlschannel.net,happyinshape.com,helpdeskgeek.com,higherorlowergame.com,hna.de,hochi.news,hollywoodlife.com,houseandgarden.co,index.hr,itavisen.no,km77.com,kreuzwortraetsel.de,ldoceonline.com,lejdd.fr,livescience.com,looopings.nl,lootlemon.com,mamastar.jp,merinfo.se,motorbikecatalog.com,motscroises.fr,mrexcel.com,namemc.com,nemzetisport.hu,neoseeker.com,neowin.net,newatlas.com,nikkansports.com,oeffnungszeitenbuch.de,onemileatatime.com,onlineradiobox.com,oraridiapertura24.it,oxfordlearnersdictionaries.com,pakkotoisto.com,perezhilton.com,pinterpoin.com,pons.com,ppatour.com,razzball.com,rotowire.com,scribd.com,sinemalar.com,skinmc.net,slideshare.net,sms24.me,songfacts.com,the-crossword-solver.com,thelayoff.com,thetorquereport.com,thingiverse.com,timeful.app,torontosun.com,toyokeizai.net,travelingformiles.com,trilltrill.jp,tunebat.com,tvtv.ca,tvtv.us,ukaudiomart.com,urbandictionary.com,urldecoder.org,usaudiomart.com,watchdocumentaries.com,welt.de,willyweather.*,word-grabber.com,wordshake.com,wort-suchen.de##^script[data-cfasync="false"][nowprocket]
 dnevnik.hr,neowin.net,newatlas.com,razzball.com##^script:has-text(/^\(async\(\)=>\{function.{1,200}\.head.{1,100}\.bind.{1,900}location\.href.{1,100}\}\)\(\);$/)
 divinedaolibrary.com,lejdd.fr,scribd.com,slideshare.net,songfacts.com,tips-and-tricks.co##^script:has-text(/\(async\s*\(\)\s*=>\s*\{\s*try\s*\{\s*(const|var)/)
 si.com##^script:has-text('"https://html-load.com/loader.min.js"')
 akinator.com,and-more.co,astro-seek.com,autofrage.net,bab.la,babla.*,boardingarea.com,collinsdictionary.com,computerfrage.net,dictionary.cambridge.org,dictionnaire.lerobert.com,dnevnik.hr,doviz.com,egitim.net.tr,exceljet.net,finanzfrage.net,freemcserver.net,gesundheitsfrage.net,gezondnu.nl,gutefrage.net,happyinshape.com,houseandgarden.co,infinityfree.com,ldoceonline.com,liveandletsfly.com,mamastar.jp,motorradfrage.net,neoseeker.com,newatlas.com,oxfordlearnersdictionaries.com,pinterpoin.com,pons.com,reisefrage.net,sinemalar.com,sportlerfrage.net,torontosun.com,toyokeizai.net,travelingformiles.com,usaudiomart.com,welt.de##^script:has-text(await eval)
 9gag.com,augustacrime.com,base64decode.org,calculatorsoup.com,canuckaudiomart.com,costcoinsider.com,crosswordsolver.com,dict.cc,elnacional.cat,girlschannel.net,itavisen.no,kreuzwortraetsel.de,livescience.com,lootlemon.com,merinfo.se,motscroises.fr,mrexcel.com,nemzetisport.hu,oeffnungszeitenbuch.de,oraridiapertura24.it,pinterpoin.com,ppatour.com,rotowire.com,the-crossword-solver.com,tvtv.ca,tvtv.us,ukaudiomart.com,urldecoder.org,watchdocumentaries.com,word-grabber.com,wort-suchen.de##^script:has-text(()=>eval)
 buchstaben.com,nemzetisport.hu##^script:has-text(() => eval)
-9gag.com,adrenaline.com.br,automobile-catalog.com,calculatorsoup.com,euronews.com,fandom.com,game8.jp,gerbeaud.com,gutefrage.net,motorbikecatalog.com,namemc.com,onemileatatime.com,thetorquereport.com,urbandictionary.com,welt.de,wordshake.com##^script:has-text(/:\[?window,/)
+9gag.com,adrenaline.com.br,automobile-catalog.com,calculatorsoup.com,culturequizz.com,euronews.com,fandom.com,game8.jp,gerbeaud.com,gutefrage.net,motorbikecatalog.com,namemc.com,onemileatatime.com,thetorquereport.com,urbandictionary.com,welt.de,wordshake.com##^script:has-text(/:\[?window,/)
 mamastar.jp##^script:has-text(: window,)
 km77.com##^script:has-text(await new Promise)
 km77.com,onlineradiobox.com,timeful.app,willyweather.*##^script:has-text(&&window,)
@@ -251780,6 +251818,10 @@ notebookcheck.*,notebookcheck-cn.com,notebookcheck-hu.com,notebookcheck-ru.com,n
 bike-news.jp,egolf.jp,kuruma-news.jp,lasisa.net,magmix.jp,merkmal-biz.jp,otonanswer.jp,trafficnews.jp,vague.style##^script[src*="html-load.com"]
 bike-news.jp,egolf.jp,kuruma-news.jp,lasisa.net,magmix.jp,merkmal-biz.jp,otonanswer.jp,trafficnews.jp,vague.style##^script[data-cfasync="false"][nowprocket]
 bike-news.jp,egolf.jp,kuruma-news.jp,lasisa.net,magmix.jp,merkmal-biz.jp,otonanswer.jp,trafficnews.jp,vague.style##^script:has-text(').join(String.fromCharCode')
+! AllGear Digital
+bikerumor.com,explorersweb.com,gearjunkie.com,irunfar.com,packhacker.com,switchbacktravel.com,theinertia.com,wildsnow.com##^script[src*="html-load.com"]
+bikerumor.com,explorersweb.com,gearjunkie.com,irunfar.com,packhacker.com,switchbacktravel.com,theinertia.com,wildsnow.com##^script[data-cfasync="false"][nowprocket]
+bikerumor.com,explorersweb.com,gearjunkie.com,irunfar.com,packhacker.com,switchbacktravel.com,theinertia.com,wildsnow.com##^script:has-text(').join(String.fromCharCode')
 !#else
 interfootball.co.kr,a-ha.io,cboard.net,joongdo.co.kr,viva100.com,maketecheasier.com,tweaksforgeeks.com,m.inven.co.kr,mlbpark.donga.com##+js(rmnt, script, KCgpPT57bGV0IGU)
 bleepingcomputer.com,pravda.com.ua##+js(rmnt, script, Ad-Shield)
@@ -251794,7 +251836,7 @@ si.com##+js(rmnt, script, '"https://html-load.com/loader.min.js"')
 akinator.com,and-more.co,astro-seek.com,autofrage.net,bab.la,babla.*,boardingarea.com,collinsdictionary.com,conselhosetruques.com,computerfrage.net,dictionary.cambridge.org,dictionnaire.lerobert.com,dnevnik.hr,egitim.net.tr,exceljet.net,finanzfrage.net,freemcserver.net,gesundheitsfrage.net,gezondnu.nl,gutefrage.net,happyinshape.com,houseandgarden.co,infinityfree.com,ldoceonline.com,liveandletsfly.com,mamastar.jp,motorradfrage.net,neoseeker.com,newatlas.com,oxfordlearnersdictionaries.com,pinterpoin.com,pons.com,reisefrage.net,sinemalar.com,sportlerfrage.net,torontosun.com,toyokeizai.net,travelingformiles.com,usaudiomart.com,welt.de##+js(rmnt, script, await eval)
 9gag.com,augustacrime.com,base64decode.org,calculatorsoup.com,canuckaudiomart.com,costcoinsider.com,crosswordsolver.com,dict.cc,elnacional.cat,girlschannel.net,itavisen.no,kreuzwortraetsel.de,lettersolver.com,livescience.com,lootlemon.com,merinfo.se,motscroises.fr,mrexcel.com,nemzetisport.hu,oeffnungszeitenbuch.de,oraridiapertura24.it,pinterpoin.com,ppatour.com,rotowire.com,the-crossword-solver.com,tvtv.ca,tvtv.us,ukaudiomart.com,urldecoder.org,watchdocumentaries.com,word-grabber.com,wort-suchen.de##+js(rmnt, script, ()=>eval)
 buchstaben.com,nemzetisport.hu##+js(rmnt, script, () => eval)
-9gag.com,adrenaline.com.br,automobile-catalog.com,calculatorsoup.com,euronews.com,fandom.com,game8.jp,gerbeaud.com,gutefrage.net,motorbikecatalog.com,namemc.com,onemileatatime.com,thetorquereport.com,urbandictionary.com,welt.de,wordshake.com##+js(rmnt, script, '/:\[?window,/')
+9gag.com,adrenaline.com.br,automobile-catalog.com,calculatorsoup.com,culturequizz.com,euronews.com,fandom.com,game8.jp,gerbeaud.com,gutefrage.net,motorbikecatalog.com,namemc.com,onemileatatime.com,thetorquereport.com,urbandictionary.com,welt.de,wordshake.com##+js(rmnt, script, '/:\[?window,/')
 mamastar.jp##+js(rmnt, script, : window\,)
 km77.com##+js(rmnt, script, await new Promise)
 km77.com,onlineradiobox.com,timeful.app,willyweather.*##+js(rmnt, script, &&window\,)
@@ -251859,6 +251901,8 @@ gamingbible.com,ladbible.com,sportbible.com,thecontentbible.com,tyla.com,unilad.
 notebookcheck.*,notebookcheck-cn.com,notebookcheck-hu.com,notebookcheck-ru.com,notebookcheck-tr.com##+js(rmnt, script, &&window\,)
 ! Mediavague
 bike-news.jp,egolf.jp,kuruma-news.jp,lasisa.net,magmix.jp,merkmal-biz.jp,otonanswer.jp,trafficnews.jp,vague.style##+js(rmnt, script, ').join(String.fromCharCode')
+! AllGear Digital
+bikerumor.com,explorersweb.com,gearjunkie.com,irunfar.com,packhacker.com,switchbacktravel.com,theinertia.com,wildsnow.com##+js(rmnt, script, ').join(String.fromCharCode')
 !#endif
 ! Minute Media
 12thmanrising.com,allucanheat.com,aroundthefoghorn.com,arrowheadaddict.com,badgerofhonor.com,bamahammer.com,beargoggleson.com,beyondtheflag.com,birdswatcher.com,blackandteal.com,blogredmachine.com,bluemanhoop.com,boltbeat.com,bosoxinjection.com,buffalowdown.com,caneswarning.com,catcrave.com,chopchat.com,climbingtalshill.com,cubbiescrib.com,dailyknicks.com,dairylandexpress.com,dawgpounddaily.com,dawindycity.com,dawnofthedawg.com,detroitjockcity.com,dodgersway.com,ebonybird.com,fansided.com,flywareagle.com,gbmwolverine.com,gigemgazette.com,gmenhq.com,hailfloridahail.com,halohangout.com,hardwoodhoudini.com,horseshoeheroes.com,housethathankbuilt.com,huskercorner.com,insidetheiggles.com,jaysjournal.com,justblogbaby.com,kckingdom.com,kingjamesgospel.com,kingsofkauffman.com,lakeshowlife.com,lombardiave.com,mentalfloss.com,motorcitybengals.com,musketfire.com,nflspinzone.com,ninernoise.com,nugglove.com,onechicagocenter.com,phinphanatic.com,pistonpowered.com,predominantlyorange.com,ramblinfan.com,redbirdrants.com,reviewingthebrew.com,riggosrag.com,ripcityproject.com,risingapple.com,rumbunter.com,scarletandgame.com,section215.com,sidelionreport.com,slapthesign.com,sodomojo.com,southsideshowdown.com,stillcurtain.com,stormininnorman.com,stripehype.com,thatballsouttahere.com,thecelticbhoys.com,thejetpress.com,thelandryhat.com,thepewterplank.com,thesmokingcuban.com,thevikingage.com,thunderousintentions.com,undeadwalking.com,valleyofthesuns.com,whodatdish.com,winteriscoming.net,yanksgoyard.com##+js(nostif, [native code], 500)
@@ -252404,7 +252448,7 @@ explorecams.com,minecraft.buzz,rarepike.com##+js(aeld, np.detect)
 ! https://github.com/uBlockOrigin/uAssets/issues/34118
 ! https://www.reddit.com/r/uBlockOrigin/comments/1vn8ft3/copypaste_blocked/p3vqbpl/
 ! https://github.com/uBlockOrigin/uAssets/issues/34356
-*,~127.0.0.1,~amazon.*,~apple.com,~archlinux.org,~azure.com,~bsky.app,~bing.com,~bitwarden.com,~captcha-delivery.com,~chatango.com,~chatgpt.com,~chess.com,~claude.ai,~cloudflare.com,~codeberg.org,~dailymotion.com,~disqus.com,~ebay.*,~facebook.com,~fbsbx.com,~flickr.com,~gitea.com,~github.com,~gitlab.com,~google.com,~hcaptcha.com,~huggingface.co,~instagram.com,~kimi.com,~lichess.org,~linkedin.com,~live.com,~localhost,~mega.nz,~microsoft.com,~mozilla.org,~netflix.com,~openrouter.ai,~pinterest.com,~privacy-mgmt.com,~proton.me,~rakuten.co.jp,~rakuten.com,~recaptcha.net,~reddit.com,~spotify.com,~stripe.com,~stripecdn.com,~tiktok.com,~tinypass.com,~tumblr.com,~twitch.tv,~twitchcdn.net,~twitter.com,~virustotal.com,~vscode.dev,~vscode-cdn.net,~whatsapp.com,~wikipedia.org,~x.com,~yahoo.com,~yandex.*,~yandexcloud.net,~youtube.com,~www.digitalocean.com##+js(prevent-clipboard-write, /^mshta |^msiexec |^(bash <<<|curl -kfsSL) \$\(echo .+? base64 -d\b|^cmd \/c .*?\bcurl .+?(\.exe|\.bat)\b|^cmd .*?\bfor \/f .*?\bdelims .*?\bpow |^powershell .*?-w(indowStyle)? h(idden)?\b|^powershell .*?-NoP\b|^powershell .*?-ep bypass\b|^powershell .*?-EP (B|U)\b|^powershell.+?-ExecutionPolicy (Bypass|Unrestricted)|\\PowerShell\.exe.+?-ep bypass\b|^powershell.+?\biex\(|^powershell.+?Invoke-Expression|^powershell.+?Invoke-WebRequest|^powershell.+?-UseBasicParsing|^cmd .*?\/c .+? -nop .+? iex\b|^(cmd|powershell)\b.+?recaptcha|^(cmd|powershell)\b.+?#(Verification|     )|^(cmd|powershell)\b.+?     #|^osascript .+?\bcurl http|^curl -s\b.+?\| (bash|sh|zsh)\b|^\/bin\/(bash|sh|zsh) -c\b.+?\bcurl|^bash -c\b.+?\$\(curl|^python3? -c\b.+?\b(exec|urllib|subprocess)\b|^echo .+?base64 .+?\b(bash|osascript|z?sh)\b|openssl base64 -d|^curl\b .+?chmod \+x.+?&&|^(bash|sh|osascript)\b.+?recaptcha|^(bash|sh|osascript)\b.+?#(Verification|     )|^(bash|sh|osascript)\b.+?     #|^wget .+?\| (bash|sh)\b|^curl\b.+?-o\b.+?\/tmp\/.+?&&|^nc .+?-e \/bin\/(bash|sh)\b|^\/tmp\/.+?chmod \+x.+?&&|^wget -q.+?\.(sh|py|bin|elf)\b|^cmd .+?\bcertutil .+?\b(\.exe|\.bat)\b|^powershell .+?\birm .+?\.[a-z]+\/.+?powershell|\bpcalua(\.exe)? .*?\b(curl|powershell|saps|cmd)\b|^cmd .+?\bcmdkey .+?\bschtasks|^Invoke-Command .+?Base64String|^c(onhost|md) .*?--headless |^iex\(i(rm|wr) |^irm .+? iex\b/msi, domAlert, 'Beware, uBlock Origin blocked a potential ClickFix attack: ${text}', excludeMatches, /Maintainer|Contributor|^git |^http|^import /i)
+*,~127.0.0.1,~adobe.com,~amazon.*,~apple.com,~archlinux.org,~azure.com,~bsky.app,~bing.com,~bitwarden.com,~canva.com,~captcha-delivery.com,~chatango.com,~chatgpt.com,~chess.com,~chrome.com,~claude.ai,~cloudflare.com,~codeberg.org,~dailymotion.com,~disqus.com,~ebay.*,~facebook.com,~fbsbx.com,~flickr.com,~gitea.com,~github.com,~gitlab.com,~google.com,~hcaptcha.com,~huggingface.co,~instagram.com,~kimi.com,~lichess.org,~linkedin.com,~live.com,~localhost,~mega.nz,~microsoft.com,~mozilla.org,~netflix.com,~openrouter.ai,~pinterest.com,~privacy-mgmt.com,~proton.me,~rakuten.co.jp,~rakuten.com,~recaptcha.net,~reddit.com,~spotify.com,~stripe.com,~stripecdn.com,~tiktok.com,~tinypass.com,~tumblr.com,~twitch.tv,~twitchcdn.net,~twitter.com,~virustotal.com,~vscode.dev,~vscode-cdn.net,~whatsapp.com,~wikipedia.org,~x.com,~yahoo.com,~yandex.*,~yandexcloud.net,~youtube.com,~www.digitalocean.com##+js(prevent-clipboard-write, /^mshta |^msiexec |^(bash <<<|curl -kfsSL) \$\(echo .+? base64 -d\b|^cmd \/c .*?\bcurl .+?(\.exe|\.bat)\b|^cmd .*?\bfor \/f .*?\bdelims .*?\bpow |^powershell .*?-w(indowStyle)? h(idden)?\b|^powershell .*?-NoP\b|^powershell .*?-ep bypass\b|^powershell .*?-EP (B|U)\b|^powershell.+?-ExecutionPolicy (Bypass|Unrestricted)|\\PowerShell\.exe.+?-ep bypass\b|^powershell.+?\biex\(|^powershell.+?Invoke-Expression|^powershell.+?Invoke-WebRequest|^powershell.+?-UseBasicParsing|^cmd .*?\/c .+? -nop .+? iex\b|^(cmd|powershell)\b.+?recaptcha|^(cmd|powershell)\b.+?#(Verification|     )|^(cmd|powershell)\b.+?     #|^osascript .+?\bcurl http|^curl -s\b.+?\| (bash|sh|zsh)\b|^\/bin\/(bash|sh|zsh) -c\b.+?\bcurl|^bash -c\b.+?\$\(curl|^python3? -c\b.+?\b(exec|urllib|subprocess)\b|^echo .+?base64 .+?\b(bash|osascript|z?sh)\b|openssl base64 -d|^curl\b .+?chmod \+x.+?&&|^(bash|sh|osascript)\b.+?recaptcha|^(bash|sh|osascript)\b.+?#(Verification|     )|^(bash|sh|osascript)\b.+?     #|^wget .+?\| (bash|sh)\b|^curl\b.+?-o\b.+?\/tmp\/.+?&&|^nc .+?-e \/bin\/(bash|sh)\b|^\/tmp\/.+?chmod \+x.+?&&|^wget -q.+?\.(sh|py|bin|elf)\b|^cmd .+?\bcertutil .+?\b(\.exe|\.bat)\b|^powershell .+?\birm .+?\.[a-z]+\/.+?powershell|\bpcalua(\.exe)? .*?\b(curl|powershell|saps|cmd)\b|^cmd .+?\bcmdkey .+?\bschtasks|^Invoke-Command .+?Base64String|^c(onhost|md) .*?--headless |^iex\(i(rm|wr) |^irm .+? iex\b/msi, domAlert, 'Beware, uBlock Origin blocked a potential ClickFix attack: ${text}', excludeMatches, /Maintainer|Contributor|^git |^http|^import /i)
 ! https://github.com/uBlockOrigin/uAssets/issues/34022
 ! https://github.com/uBlockOrigin/uAssets/issues/34335
 community-scripts.org,massgrave.dev,natfrp.com#@#+js(prevent-clipboard-write, /^mshta |^msiexec |^(bash <<<|curl -kfsSL) \$\(echo .+? base64 -d\b|^cmd \/c .*?\bcurl .+?(\.exe|\.bat)\b|^cmd .*?\bfor \/f .*?\bdelims .*?\bpow |^powershell .*?-w(indowStyle)? h(idden)?\b|^powershell .*?-NoP\b|^powershell .*?-ep bypass\b|^powershell .*?-EP (B|U)\b|^powershell.+?-ExecutionPolicy (Bypass|Unrestricted)|\\PowerShell\.exe.+?-ep bypass\b|^powershell.+?\biex\(|^powershell.+?Invoke-Expression|^powershell.+?Invoke-WebRequest|^powershell.+?-UseBasicParsing|^cmd .*?\/c .+? -nop .+? iex\b|^(cmd|powershell)\b.+?recaptcha|^(cmd|powershell)\b.+?#(Verification|     )|^(cmd|powershell)\b.+?     #|^osascript .+?\bcurl http|^curl -s\b.+?\| (bash|sh|zsh)\b|^\/bin\/(bash|sh|zsh) -c\b.+?\bcurl|^bash -c\b.+?\$\(curl|^python3? -c\b.+?\b(exec|urllib|subprocess)\b|^echo .+?base64 .+?\b(bash|osascript|z?sh)\b|openssl base64 -d|^curl\b .+?chmod \+x.+?&&|^(bash|sh|osascript)\b.+?recaptcha|^(bash|sh|osascript)\b.+?#(Verification|     )|^(bash|sh|osascript)\b.+?     #|^wget .+?\| (bash|sh)\b|^curl\b.+?-o\b.+?\/tmp\/.+?&&|^nc .+?-e \/bin\/(bash|sh)\b|^\/tmp\/.+?chmod \+x.+?&&|^wget -q.+?\.(sh|py|bin|elf)\b|^cmd .+?\bcertutil .+?\b(\.exe|\.bat)\b|^powershell .+?\birm .+?\.[a-z]+\/.+?powershell|\bpcalua(\.exe)? .*?\b(curl|powershell|saps|cmd)\b|^cmd .+?\bcmdkey .+?\bschtasks|^Invoke-Command .+?Base64String|^c(onhost|md) .*?--headless |^iex\(i(rm|wr) |^irm .+? iex\b/msi, domAlert, 'Beware, uBlock Origin blocked a potential ClickFix attack: ${text}', excludeMatches, /Maintainer|Contributor|^git |^http|^import /i)
@@ -274824,6 +274868,9 @@ cizitensports.com##+js(rmnt, script, randomUUID)
 ##html > #__cf_challenge_host__
 ! https://x.com/sicehice/status/2094946837140549785
 ||sites.google.com/view/brewapp$doc
+! https://github.com/AdguardTeam/AdguardFilters/issues/240231
+webrick.com##+js(acs, atob, Uint8Array)
+##html > #bw-rc-host
 
 ! https://www.reddit.com/r/Scams/comments/1vaebfy/usasaltair_deodorant_scam_websites_saltaiircom/
 ||saltairus.it.com^$all
